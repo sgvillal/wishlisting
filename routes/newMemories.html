@@ -1,0 +1,135 @@
+<!document html>
+<html>
+<head> 
+	<title>Memories</title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bootstrap-theme.min.css" rel="stylesheet"/>
+	<link href="stylesheets/memories.css" rel="stylesheet"/>
+	
+	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/public/stylesheets/bootstrap.min.js"></script>
+	
+</head>
+
+<body>
+	<div class = "jumbotron app-name page-header">
+		<div class = "container1" >
+			<h1> Create New Memory </h1>
+		</div>
+	</div>
+	
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse  container1">
+				<div class="nav navbar-nav navigation">
+					<li class  = "col-xs-3"> <a href ="memories" > Back </a> </li>
+					<li class  = "col-xs-3 .col-md-offset-3"\ >
+						
+					</li>
+				</div>
+				
+				
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+
+	<!-- Data entering starts here -->
+	<!--<div class="newmemoriesdata container" style = "margin-top: 10px;">
+		<div class="col-xs-3 col-md-3 boxlabels"> </div>
+		<div class="col-xs-3 col-md-3 boxlabels text-center">
+			<form>
+				Adventure Name:<br><br>
+				Category: <br><br>
+				Location:<br><br><br>
+				Date:<br><br><br>
+				Photos:<br><br><br>
+				Tagged Friends (Separate with a comma!):<br><br>
+				Notes:<br><br>
+			</form>
+		</div>
+		<div class="col-xs-6 col-md-6 textboxes">
+			<form>
+				<input type="text" name="tripname"><br><br>
+				<input type="text" name = "category"><br><br>
+				<input type="text" name="triploc"><br><br>
+				<input type="date" name="tripdate"><br><br>
+				<div class="uploadingpics"><br><br><br><br></div>
+				<input type="text" name="tripfriends"><br><br>
+				<textarea name="mynotes" rows="4" cols="50">
+				</textarea>
+			</form>
+			<br><br>
+		</div>
+
+		<div class="col-xs-6 col-md-6 text-center">
+			<button type="submit" class="btn btn-secondary"><a href = "memories">Submit </a></button>
+			<div class="col-xs-4 col-md-4 text-center"></div>
+			<div class="col-xs-5 col-md-5 text-center">
+				<div class="col-xs-3 col-md-3 text-center"></div>
+				<br><br><br><br><br><br><br>
+			</div>
+		
+		</div>
+	</div>--> 
+
+	<form id="addMemoryForm" role="form" method="get" action="/addMemory">
+		<div class="col-xs-3 col-md-3 boxlabels"> </div>
+		<div class="col-xs-3 col-md-3 boxlabels text-center">
+			<div class="form-group">
+				<label for="tripname">Adventure Name:</label>
+					<input type="text" name="tripname">
+			</div>
+			<div class="form-group">
+	     		<label for="category">Category:</label>
+	     		<input type="text" name = "category">
+	    	</div>
+	    	<div class="form-group">
+	     		<label for="location">Location:</label>
+	     		<input type="text" name = "triploc">
+	     	</div>
+	     	<div class="form-group">
+	     		<label for="date">Date:</label>
+	     		<input type="text" name = "tripdate">
+	     	</div>
+	     	<!--<div class="form-group">
+	     		<label for ="pictures">Trip Pictures:</label>
+	     		<input type="file" name ="trippics" accept="imagine/*">
+	     	</div>-->
+	     	<div class="form-group">
+	     		<label for="friends">Tagged Friends:</label>
+	     		<input type="text" name = "tripfriends">
+	     	</div>
+	     	<div class="form-group">
+	     		<label for="notes">Notes:</label>
+	     		<input type="text" name = "tripnotes">
+	     	</div>
+	     	<div class="col-xs-12 col-md-12 text-center">
+				<input type="submit" id="submitBtn" class="btn btn-default" value="Submit"></input>
+			</div>
+			</a>
+		</div>
+		</div>
+		</div>
+	</form> 
+
+
+
+
+	<!-- 	FOOTER 		-->
+	<nav class = "footer nav navbar-default" >
+		<div class = "container-fluid container1">
+			<li> <a href ="home" class = "col-xs-4"> Home <span class = "sr-only"> </span></a> </li>
+			<li> <a href = "memories" class = "col-xs-4"> Memories <span class = "sr-only"> </span> </a> </li>
+			<li> <a href = "bucketlist" class = "col-xs-4"> Bucketlist <span class = "sr-only"> </span> </a> </li>
+		</div>
+	</nav>
+
+</div>
+</body>
+</html>
+</div>

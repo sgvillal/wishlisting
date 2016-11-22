@@ -1,0 +1,110 @@
+.<!document html>
+<html>
+<head> 
+	<title>Explore {{category}} </title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bootstrap-theme.min.css" rel="stylesheet"/>
+	<link href="stylesheets/home.css" rel="stylesheet"/>
+	
+	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/public/stylesheets/bootstrap.min.js"></script> -->
+	
+</head>
+
+<body>
+	<div class = "jumbotron app-name page-header">
+		<div class = "container1" >
+			<h1> Just Go </h1>
+		</div>
+	</div>
+	
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse  container1">
+				<div class="nav navbar-nav navigation">
+					<!--<li class  = "col-xs-3"> <a href ="home" > Back </a> </li>
+					Don't need a back button	-->
+					<li class  = "col-xs-12 text-center" >
+						<form class="navbar-form nav-center">
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Search">
+						</div>
+						<button type="submit" class="btn btn-secondary" href="home">Search </button>
+						</form>
+					</li>
+					<li class  = "col-xs-3 .col-md-offset-3"\ >
+						
+					</li>
+				</div>
+				
+				
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+
+	<div class="col-xs-12 col-md-12">
+
+	<!-- WHERE THE PICTURES START -->
+	<div class = "picturebody container " style = "margin-top: 10px;">
+			<div class = "col-xs-6 col-md-6" >
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{category_url}});
+     				background-size: cover">
+					<div class = "caption text-center">
+						<h4> {{category}} </h4>
+					</div>
+				</div>
+			</div>
+			<div class = "col-xs-6 col-md-6">
+					<br><br>
+					<h4> Adventure: </h4> <h3> {{category}} </h3>
+			</div> 
+			
+	</div>
+	<br><br>
+	</div>
+
+
+	<hr size="20">
+
+	<div class = "picturebody container" style="margin-top: 10px;">
+			<h1 class="text-center" style="font-family: 'Shadows Into Light', cursive;"> Suggestions </h1>
+			{{#each suggestions}}
+			<div class = "col-xs-6 col-md-6" >
+				<a id="homeEvents{{@index}}">
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{event_url}});
+     				background-size: cover" >
+					<div class = "caption text-center">
+						<h4> {{event}} </h4>
+					</div>
+				</div> 
+				</a>
+			</div>	
+			{{/each}}	
+	</div>
+	<br><br>
+
+
+	<!-- 	FOOTER 		-->
+	<nav class = "footer nav navbar-default" >
+		<div class = "container-fluid container2">
+			<li> <a href ="home" class = "col-xs-4"> Home <span class = "sr-only"> </span></a> </li>
+			<li> <a href = "memories" class = "col-xs-4"> Memories <span class = "sr-only"> </span> </a> </li>
+			<li> <a href = "bucketlist" class = "col-xs-4"> Bucketlist <span class = "sr-only"> </span> </a> </li>
+		</div>
+	</nav>
+	<script src="javascripts/button_interactions/homexpand_interaction.js"></script>
+</body>
+</html>

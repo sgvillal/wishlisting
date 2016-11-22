@@ -1,0 +1,111 @@
+.<!document html>
+<html>
+<head> 
+	<title>MyBucketlist</title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bootstrap-theme.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bucketlist.css" rel="stylesheet"/>
+	
+	<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+
+	<!-- <script src = "javascript/memories.js"> </script> -->
+	
+	<!-- <script src="js/bootstrap/bootstrap-dropdown.js"></script> -->
+	<script src="javascripts/jquery-1.11.0.js"></script>
+	<script src="javascripts/bucketlist.js"></script>
+
+	<script src="javascripts/bootstrap.min.js"></script> 
+	
+	
+</head>
+
+<body>
+	<div class = "jumbotron app-name page-header">
+		<div class = "container1" >
+			<h1> My BucketList </h1>
+		</div>
+	</div>
+	
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse  container1">
+				<div class="nav navbar-nav navigation">
+					<li class  = "col-xs-3"> <a href ="home" > Back </a> </li>
+					<!--
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>	
+						<ul class="dropdown-menu">
+							<li><a href="#">Action</a></li>
+							<li><a href="#">Another action</a></li>
+							<li><a href="#">Something else here</a></li>
+							<li role="separator" class="divider"></li>
+							<li><a href="#">Separated link</a></li>
+							<li role="separator" class="divider"></li>
+							<li><a href="#">One more separated link</a></li>
+						</ul>
+					</li>
+					-->
+					<li class  = "col-xs-6 text-center" >
+						<form class="navbar-form nav-center">
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Search">
+						</div>
+						<button type="submit" class="btn btn-secondary">Search My Bucketlist </button>
+						</form>
+					</li>
+					<li class  = "col-xs-3 .col-md-offset-3" >
+						<ul class = "nav navbar-nav">
+							<li> <a href = "newBucketlist"> New Event</a> </li>
+						</ul>
+					</li>
+				</div>
+				
+				
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+	
+	<div class="col-xs-12 col-md-12">
+
+	<!-- WHERE THE PICTURES START -->
+	<div class = "picturebody container" style = "margin-top: 10px;" action="/selectEvent">
+		<div class = "row">
+			{{#each mybucketlist}}
+			{{#if delete}}
+			{{else}}
+			<div class = "col-xs-6 col-md-6" >
+				<a class="select" id="bucketExpanded{{@index}}">
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{adventurepics}});
+     				background-size: cover">
+					<div class = "caption text-center">
+						<h4> {{adventurename}} </h4>
+					</div>
+				</div> 
+				</a>
+			</div>
+			{{/if}}
+			{{/each}}
+		</div>
+	</div>
+		<br><br>
+	</div>
+	<!-- 	FOOTER 		-->
+	<nav class = "footer nav navbar-default" >
+		<div class = "container-fluid container2">
+			<li> <a href ="home" class = "col-xs-6"> Home <span class = "sr-only"> </span></a> </li>
+			<li> <a href = "memories" class = "col-xs-4"> Memories <span class = "sr-only"> </span> </a> </li>
+			<li> <a href = "bucketlist" class = "col-xs-4"> Bucketlist <span class = "sr-only"> </span> </a> </li>
+		</div>
+	</nav>
+
+		<script src="javascripts/button_interactions/bucket_interaction.js"></script>
+
+</body>
+</html>

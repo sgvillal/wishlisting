@@ -1,0 +1,135 @@
+wh*{
+    font-size: 32px;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+}
+
+body {
+    background-color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotron {
+    margin-top: 0;
+    margin-bottom: 0; 
+}
+
+.navbar {
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: #e7e7e7;
+}
+
+.form-control {
+    height: 32px;
+}
+
+.thumbnail {
+    margin: 15px 15px 15px 15px;
+}
+
+.picture-body{
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-nav {
+    display:table;
+    margin: 0;
+    width: 100%;
+    padding: 0;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    background-color: #e7e7e7;
+    bottom: 0;
+}
+
+.padbutton {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.page-header {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding-bottom: 10%;
+    background: 
+      url(http://67.media.tumblr.com/1102214e8c0b732c2afa4b38944ca72c/tumblr_odd5mlNXtw1uvpnq9o3_1280.jpg);
+      background-color: #e7e7e7;
+    
+}
+.page-name-header {
+    margin-top: 0;
+    padding-top: 0;
+   display: flex;
+    flex-direction:column;
+    align-items: center;
+    color: white;
+    background: 
+      url(http://img11.deviantart.net/efea/i/2006/240/7/a/bg_texture___wood_by_nortago.jpg);
+      background-color: #e7e7e7;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+}
+h3 {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+}
+
+
+.module {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(https://66.media.tumblr.com/e95961696bb79f01013bda678452bce9/tumblr_og0o4cf8BT1rsezm9o1_1280.jpg);
+    background-size: cover;
+    width: 150%;
+    height: 25%;
+    min-height: 10%;
+    min-width: 110%;
+    float: left;
+    position: relative;
+    margin: auto;
+}
+
+.mid h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 300%;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 1em;
+  transform: translate(-50%, -50%);
+}
