@@ -1,0 +1,85 @@
+.<!document html>
+<html>
+<head> 
+	<title>Wishlist for {{category}} </title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bootstrap-theme.min.css" rel="stylesheet"/>
+	<link href="stylesheets/home.css" rel="stylesheet"/>
+	
+	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/public/stylesheets/bootstrap.min.js"></script> -->
+	
+</head>
+
+<body>
+	<div class = "jumbotron app-name page-header">
+		<div class = "container1" >
+			<h1> Wishlisting </h1>
+		</div>
+	</div>
+	
+
+	<div class="col-xs-12 col-md-12">
+
+	<!-- WHERE THE PICTURES START -->
+	<div class = "picturebody container " style = "margin-top: 10px;">
+			<div class = "col-xs-6 col-md-6" >
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{category_url}});
+     				background-size: cover">
+					<div class = "caption text-center">
+						<h4> {{category}} </h4>
+					</div>
+				</div>
+			</div>
+			<div class = "col-xs-6 col-md-6">
+					<br><br>
+					<h4> Person: </h4> <h3> {{category}} </h3>
+			</div> 
+			
+	</div>
+	<br><br>
+	</div>
+
+
+	<hr size="20">
+
+	<div class = "picturebody container" style="margin-top: 10px;">
+			<h1 class="text-center" style="font-family: 'Shadows Into Light', cursive;"> Gift Ideas </h1>
+			{{#each suggestions}}
+			<meta property="og:image" content="{{event_pic}}">
+			<div class = "col-xs-6 col-md-6" >
+				<a href="{{event_url}}" target="_blank">
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{event_pic}});
+     				background-size: cover" >
+					<div class = "caption text-center">
+						<h4> {{event}} </h4>
+					</div>
+				</div> 
+				</a>
+			</div>	
+			{{/each}}	
+	</div>
+	<br><br>
+
+
+	<!-- 	FOOTER 		-->
+	<nav class = "footer nav navbar-default" >
+		<div class = "container-fluid container2">
+			<li> <a href ="home" class = "col-xs-4"> Home <span class = "sr-only"> </span></a> </li>
+		</div>
+	</nav>
+	<script src="javascripts/button_interactions/homexpand_interaction.js"></script>
+</body>
+</html>

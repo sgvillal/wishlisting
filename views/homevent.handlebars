@@ -1,0 +1,94 @@
+.<!document html>
+<html>
+<head> 
+	<title>Explore {{event}}</title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bootstrap-theme.min.css" rel="stylesheet"/>
+	<link href="stylesheets/home.css" rel="stylesheet"/>
+	
+	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/public/stylesheets/bootstrap.min.js"></script> -->
+	
+</head>
+
+<body>
+	<div class = "jumbotron app-name page-header">
+		<div class = "container1" >
+			<h1> Just Go </h1>
+		</div>
+	</div>
+	
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse  container1">
+				<div class="nav navbar-nav navigation">
+					<li class  = "col-xs-3"> <a href ="home" > Back </a> </li>
+					
+					<li class  = "col-xs-12 text-center" >
+						
+					</li>
+					<li class  = "col-xs-3 .col-md-offset-3"\ >
+						
+					</li>
+				</div>
+				
+				
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+
+
+	<!-- WHERE THE PICTURES START -->
+	<div class = "picturebody container col-xs-12 col-md-12 pagebottom" style = "margin-top: 10px;">
+			<div class = "col-xs-7 col-md-7" >
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{event_url}});
+     				background-size: cover">
+					<div class = "caption text-center">
+						<h4> {{event}} </h4>
+					</div>
+				</div>
+			</div>
+			<div class = "col-xs-1 col-md-1" ></div>
+			<div class = "col-xs-4 col-md-4">
+					<br><br>
+					<h4> Event: </h4> <h3> {{event}} </h3>
+			</div> 
+			
+			<form id="addEventForm" role="form" method="get" action="/addEvent">
+	     		<div class="col-xs-12 col-md-12 text-center">
+
+	     		<div class="form-group">
+					<input type="hidden" name="adventurename" value="{{event}}">
+					<input type="hidden" name="category" value="{{category}}">
+					<input type="hidden" name="locationideas" value="{{event}}">
+					<input type="hidden" name="adventurepics" value="{{event_url}}">
+	     		</div>
+
+					<input type="submit" id="submitBtn" class="btn btn-default" value="Add to Bucketlist" onclick="location.href='/bucketlist'"></input>
+				</div>
+			</form> 
+	</div>
+	
+	<br><br>
+
+
+	<!-- 	FOOTER 		-->
+	<nav class = "footer nav navbar-default" >
+		<div class = "container-fluid container2">
+			<li> <a href ="home" class = "col-xs-4"> Home <span class = "sr-only"> </span></a> </li>
+			<li> <a href = "memories" class = "col-xs-4"> Memories <span class = "sr-only"> </span> </a> </li>
+			<li> <a href = "bucketlist" class = "col-xs-4"> Bucketlist <span class = "sr-only"> </span> </a> </li>
+		</div>
+	</nav>
+
+</body>
+</html>
