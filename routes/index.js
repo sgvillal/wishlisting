@@ -33,13 +33,13 @@ router.get('/detail', function(req, res, next) {
 }); */
 //router.get('/bucketlist', bucketlist.view);
 //router.get('/bucketExpanded', bucketlistexpanded.view);
-router.get('/', home.view);
+//router.get('/', login.view);
 router.get('/home', home.view);
 router.get('/homeExpanded', homexpanded.view);
 router.get('/homeEvents', homexpanded.view2);
 
 
-router.get('/a', function(req, res, next) {
+router.get('/', function(req, res, next) {
 
 	console.log('request was made: ' + req.url);
 	res.sendFile(__dirname + '/login.html');
@@ -66,6 +66,7 @@ router.get('/homeEvent', function(req, res, next) {
 	res.sendFile(__dirname + '/homeevent.html');
 	 //res.render('index', {category: 'Halloween'});
 });
+
 
 
 

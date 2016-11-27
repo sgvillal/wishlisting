@@ -18,88 +18,88 @@ function initialize() {
 	$(button + '0').click(function (e) {
 		console.log('first button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=0';
+		window.location.href = '/homeExpanded?buttonID=56768900';
 	});
 
 	$(button + '1').click(function (e) {
 		console.log('second button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=1';
+		window.location.href = '/homeExpanded?buttonID=56768901';
 	});
 
 	$(button + '2').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=2';
+		window.location.href = '/homeExpanded?buttonID=56768902';
 	});
 	$(button + '3').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=3';
+		window.location.href = '/homeExpanded?buttonID=56768903';
 	});
 	$(button + '4').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=4';
+		window.location.href = '/homeExpanded?buttonID=56768904';
 	});
 	$(button + '5').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=5';
+		window.location.href = '/homeExpanded?buttonID=56768905';
 	}); 
 	$(button + '6').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=6';
+		window.location.href = '/homeExpanded?buttonID=56768906';
 	}); 
 	$(button + '7').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=7';
+		window.location.href = '/homeExpanded?buttonID=56768907';
 	}); 
 	$(button + '8').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=8';
+		window.location.href = '/homeExpanded?buttonID=56768908';
 	}); 
 	$(button + '9').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=9';
+		window.location.href = '/homeExpanded?buttonID=56768909';
 	}); 
 	$(button + '10').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=10';
+		window.location.href = '/homeExpanded?buttonID=567689010';
 	}); 
 	$(button + '11').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=11';
+		window.location.href = '/homeExpanded?buttonID=567689011';
 	}); 
 	$(button + '12').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=12';
+		window.location.href = '/homeExpanded?buttonID=567689012';
 	}); 
 	$(button + '13').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=13';
+		window.location.href = '/homeExpanded?buttonID=567689013';
 	}); 
 	$(button + '14').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=14';
+		window.location.href = '/homeExpanded?buttonID=567689014';
 	}); 
 	$(button + '15').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=15';
+		window.location.href = '/homeExpanded?buttonID=567689015';
 	}); 
 	$(button + '16').click(function (e) {
 		console.log('third button clicked');
 
-		window.location.href = '/homeExpanded?buttonID=16';
+		window.location.href = '/homeExpanded?buttonID=567689016';
 	}); 
 }
