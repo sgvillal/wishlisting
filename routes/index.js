@@ -34,7 +34,7 @@ router.get('/detail', function(req, res, next) {
 //router.get('/bucketlist', bucketlist.view);
 //router.get('/bucketExpanded', bucketlistexpanded.view);
 //router.get('/', login.view);
-router.get('/home', home.view);
+router.get('/masterhomepage123', home.view);
 router.get('/homeExpanded', homexpanded.view);
 router.get('/homeEvents', homexpanded.view2);
 

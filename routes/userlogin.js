@@ -16,7 +16,7 @@ exports.userlogin = function(req, res) {
       console.log(data.mylogin[i].username);
       console.log(data.mylogin[i].password);
       if (data.mylogin[i].username == username && data.mylogin[i].password == password){
-        return res.redirect("/home");
+        return res.redirect("/masterhomepage123");
       }
     }
     return res.send('Login failed, please try again');
