@@ -629,13 +629,71 @@
 				},
 				{
 					"category": "Yvette",
-					"event":"",
+					"event":"Shoes",
+					"price":"$12.99",
+					"event_url":"http://www.hm.com/us/product/18444?article=18444-P",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/C00%200179368%20034%2090%202060.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_BACK]&hmver=4&call=url[file:/product/large]"
+				},
+				{
+					"category": "Yvette",
+					"event":"Watch",
+					"price":"$195.00",
+					"event_url":"https://www.shopbop.com/holland-watch-kate-spade-new/vp/v=1/1585855258.htm?folderID=2534374302024641&os=true&colorId=11739&extid=affprg_CJ_SB_US-7900573-ShopStyle&cvosrc=affiliate.cj.7900573",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/d9/41/44/d94144ac44c38e8e26569d42a8ed36d9.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Necklace",
+					"price":"unav",
+					"event_url":"https://www.etsy.com/listing/195423160/?ref=sr_gallery_3&ga_search_query=navy+statement+necklace&ga_order=most_relevant&ga_ship_to=US&ga_ref=auto3&ga_page=2&ga_search_type=all&ga_view_type=gallery",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/236x/03/4f/2d/034f2d4a468ecb2c21d001c18444d18a.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Taser",
+					"price":"$26.76",
+					"event_url":"https://www.amazon.com/gp/product/B00FP675XE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FP675XE&linkCode=as2&tag=tuckerheavy-20&linkId=SGCO5D27DIVDA7XI",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/22/bb/39/22bb398310c59add5972a1dccfb3df2d.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Purse",
+					"price":"unav",
 					"event_url":"",
-					"event_pic":""
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/39/11/67/391167bbea119d244370f4500ace4ef0.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Tights",
+					"price":"$12.99",
+					"event_url":"http://www.hm.com/us/product/39701?article=39701-A",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/48/48/aa/4848aaf5fbee8ae674f8b167935452d8.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Baseball Tee",
+					"price":"$12.99",
+					"event_url":"http://www.hm.com/us/product/26327?article=26327-Q",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/22/e7/49/22e7494cc386a5ef850c1384d6f7bd22.jpg"
 				},
 				{
 					"category": "Yvette",
 					"event":"",
+					"price":"",
+					"event_url":"http://www.forever21.com/Product/Category.aspx?br=f21&category=top_blouses",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/28/76/9e/28769ef80f393286367ca4c4326a513e.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Purse",
+					"price":"$189",
+					"event_url":"https://poshmark.com/listing/Kate-Spade-Romy-Perri-Lane-Bubbles-leather-Black-5650ca99f0137d87ab019be9?utm_source=ext_pn",
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/52/0c/8a/520c8ac64c28915f8259b4f0a20df820.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"",
+					"price":"",
 					"event_url":"",
 					"event_pic":""
 				}
