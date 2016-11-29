@@ -124,6 +124,18 @@ h3 {
   font-size: 1em;
   transform: translate(-50%, -50%);
 }
+.mid h5 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 200%;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  font-size: 1em;
+  border-color: white;
+  padding: 2%;
+  border-style: inset;
+}
 .tutorial-image {
   max-width: 100%;
   width: 65%;
