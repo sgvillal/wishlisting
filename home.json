@@ -240,7 +240,7 @@
 					"event":"Rave Shirt",
 					"event_url":"https://www.iheartraves.com/collections/mens-t-shirts/products/blueberry-kush-men-s-tee",
 					"event_pic":"https://cdn.shopify.com/s/files/1/0982/0722/products/BlueberryKush_MensTee_FlatMock_Front.jpg?v=1468859027",
-					"price": "$34.95"
+					"price":"$34.95"
 				},
 				{
 					"category": "Sasha",
@@ -261,7 +261,7 @@
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":"",
+					"price":""
 				},
 				{
 					"category": "Sasha",
