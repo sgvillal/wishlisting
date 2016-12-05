@@ -27,34 +27,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Tattify Tattoo: Death Petal",
-					"event_url":"https://www.etsy.com/listing/238922579/death-petal-temporary-tattoo-set-of-2?ref=hp_rf",
-					"event_pic":"https://img0.etsystatic.com/063/0/7496102/il_570xN.795615556_34aw.jpg",
-					"price": "$2.99"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tattoo",
-					"event_url":"https://www.etsy.com/listing/168990036/catch-temporary-tattoo-set-of-2",
-					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.524875950_fgji.jpg",
-					"price": "$2.99"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tattoo",
-					"event_url":"https://www.etsy.com/listing/115031630/sunflower-temporary-tattoo-set-of-2",
-					"event_pic":"https://img0.etsystatic.com/002/0/7496102/il_570xN.395840882_1kq6.jpg",
-					"price": "$2.99"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tattoo",
-					"event_url":"https://www.etsy.com/listing/208434780/selene-temporary-tattoo-set-of-2",
-					"event_pic":"https://img0.etsystatic.com/051/0/7496102/il_570xN.672032956_5tv1.jpg",
-					"price": "$2.99"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Polariod Printer",
 					"event_url":"http://www.target.com/p/polaroid-zip-instant-mobile-printer/-/A-17268904",
 					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
@@ -146,10 +118,164 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Heels",
+					"event_url":"http://www.payless.com/womens-layla-front-zip-heel/77338.html?dwvar_77338_color=silver",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dweff9107a/images/hi-res/162730_6_1400x1400.jpg?sw=556",
+					"price": "$34.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heels",
+					"event_url":"http://www.payless.com/womens-sadee-high-wedge-sandal/77378.html?dwvar_77378_color=black",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw0c30fcd5/images/hi-res/162762_6_1400x1400.jpg?sw=556",
+					"price": "$29.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Sandle",
+					"event_url":"http://www.payless.com/womens-victoria-chopout-low-wedge/77626.html?dwvar_77626_color=brown",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw2d878927/images/hi-res/163569_6_1400x1400.jpg?sw=556",
+					"price": "$29.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heels ",
+					"event_url":"http://www.payless.com/womens-tansy-high-wedge/77775.html?dwvar_77775_color=black",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw42273e2c/images/hi-res/163626_6_1400x1400.jpg?sw=556",
+					"price": "$29.99"
+				},
+				{
+					"category": "Stephanie",
 					"event": "",
-					"event_url":"",
-					"event_pic":"",
+					"event_url":"http://www.refinery29.com/2016/12/131629/makeup-artist-hairstylist-product-recommendations#slide-40",
+					"event_pic":"http://s1.r29static.com//bin/entry/084/x/1703863/image.gif",
 					"price": "$"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Ribbed Twist-Front Headwrap",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc_hair&ProductID=1000209508&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00209508-01.jpg",
+					"price": "$3.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heels Chunky",
+					"event_url":"http://www.charlotterusse.com/lace-up-chunky-platform-dress-sandals/302194655.html?dwvar_302194655_color=001&cgid=heels#sz=30&start=142",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302194655_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$24.04"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heel Chunky",
+					"event_url":"http://www.charlotterusse.com/caged-lace-up-chunky-heel-sandals/302149935.html?rrec=true",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$22.74"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Embroidered Knit Bomber Jacket",
+					"event_url":"http://www.charlotterusse.com/varsity-stripe-embroidered-knit-bomber-jacket/302285263.html?dwvar_302285263_color=001&cgid=shop-all-new",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302285263_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$25.34"
+				},
+				{
+					"category": "Stephanie",
+					"event":"Patched Varsity Stripe Boyfriend Cardigan",
+					"price":"$18.84",
+					"event_url":"http://www.charlotterusse.com/patched-varsity-stripe-boyfriend-cardigan/302241024.html?dwvar_302241024_color=006&cgid=clothes",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302241024_006?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Belted Mixed Stitch Cardigan Sweater",
+					"event_url":"http://www.charlotterusse.com/belted-mixed-stitch-cardigan-sweater/302198924.html?dwvar_302198924_color=232&cgid=clothes",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302198924_232?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$18.84"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Shawl Collar Cocoon Cardigan",
+					"event_url":"http://www.charlotterusse.com/shawl-collar-cocoon-cardigan/302280830.html?dwvar_302280830_color=001&cgid=#q=Shawl%2BCollar%2BCocoon%2BCardigan&lang=default&start=1",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302280830_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$10.39"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Scalloped Bib Neck Skater Dress",
+					"event_url":"http://www.charlotterusse.com/scalloped-bib-neck-skater-dress/302279509.html?dwvar_302279509_color=283&cgid=shop-all-new",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302279509_283?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$22.74"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Glittery Dress",
+					"event_url":"http://www.hm.com/us/product/58106?article=58106-B",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0147_022R.jpg]&set=key[rotate],value[0.05]&set=key[width],value[3932]&set=key[height],value[4597]&set=key[x],value[494]&set=key[y],value[351]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$29.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Suade Skirt",
+					"event_url":"http://www.hm.com/us/product/49684?article=49684-C&cm_vc=SEARCH",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7NZ_2247_004R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3600]&set=key[height],value[4209]&set=key[x],value[852]&set=key[y],value[496]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$24.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Suede Wedges",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Shoes&productid=2000230624",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00230624-01.jpg",
+					"price": "$29.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Corduroy Buttoned Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms_skirt&ProductID=2000182243&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00182243-04.jpg",
+					"price": "$19.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Corduroy Button-Down Mini Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms_skirt&ProductID=2000237367&VariantID=",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00237367-03.jpg",
+					"price": "$17.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Knit Open-Shoulder Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals-clothing-tops&ProductID=2000213206&VariantID=",
+					"event_pic":"http://www.forever21.com/images/2_side_750/00213206-02.jpg",
+					"price": "$19.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattify Tattoo: Death Petal",
+					"event_url":"https://www.etsy.com/listing/238922579/death-petal-temporary-tattoo-set-of-2?ref=hp_rf",
+					"event_pic":"https://img0.etsystatic.com/063/0/7496102/il_570xN.795615556_34aw.jpg",
+					"price": "$2.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattoo",
+					"event_url":"https://www.etsy.com/listing/168990036/catch-temporary-tattoo-set-of-2",
+					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.524875950_fgji.jpg",
+					"price": "$2.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattoo",
+					"event_url":"https://www.etsy.com/listing/115031630/sunflower-temporary-tattoo-set-of-2",
+					"event_pic":"https://img0.etsystatic.com/002/0/7496102/il_570xN.395840882_1kq6.jpg",
+					"price": "$2.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattoo",
+					"event_url":"https://www.etsy.com/listing/208434780/selene-temporary-tattoo-set-of-2",
+					"event_pic":"https://img0.etsystatic.com/051/0/7496102/il_570xN.672032956_5tv1.jpg",
+					"price": "$2.99"
 				},
 				{
 					"category": "Stephanie",
@@ -726,10 +852,10 @@
 				},
 				{
 					"category": "Sarah",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
+					"event":"Sloth Sweater",
+					"event_url":"http://www.hm.com/us/product/55941?article=55941-A#article=55941-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0284_009R.jpg]&set=key[rotate],value[0.65]&set=key[width],value[3757]&set=key[height],value[4392]&set=key[x],value[806]&set=key[y],value[336]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price":"$19.99"
 				},
 				{
 					"category": "Sarah",
@@ -926,6 +1052,27 @@
 					"price":"$189",
 					"event_url":"https://poshmark.com/listing/Kate-Spade-Romy-Perri-Lane-Bubbles-leather-Black-5650ca99f0137d87ab019be9?utm_source=ext_pn",
 					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/52/0c/8a/520c8ac64c28915f8259b4f0a20df820.jpg"
+				},
+				{
+					"category": "Yvette",
+					"event":"Shawl Collar Cocoon Cardigan",
+					"price":"$9.74",
+					"event_url":"http://www.charlotterusse.com/shawl-collar-cocoon-cardigan/302219448.html?rrec=true",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302219448_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336"
+				},
+				{
+					"category": "Yvette",
+					"event":"",
+					"price":"",
+					"event_url":"",
+					"event_pic":""
+				},
+				{
+					"category": "Yvette",
+					"event":"",
+					"price":"",
+					"event_url":"",
+					"event_pic":""
 				},
 				{
 					"category": "Yvette",
@@ -1396,6 +1543,20 @@
 					"event_url":"",
 					"event_pic":"",
 					"price":""
+				},
+				{
+					"category": "Misc",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
+				},
+				{
+					"category": "Misc",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
 				}
 			]
 		
@@ -1563,6 +1724,12 @@
 					"event_url":"http://www.target.com/p/women-s-glitter-santa-hat/-/A-51350522?lnk=rec|pdpipadh1|related_prods_vv|pdpipadh1|51350522|8",
 					"event_pic": "http://target.scene7.com/is/image/Target/51350522?wid=450&hei=450&fmt=pjpeg",
 					"price":""
+				},
+				{
+					"category": "Onesies",
+					"event":"",
+					"event_url":"",
+					"event_pic": ""
 				},
 				{
 					"category": "Onesies",
