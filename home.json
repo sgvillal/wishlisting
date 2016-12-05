@@ -146,10 +146,10 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
+					"event": "Press on Nails",
 					"event_url":"http://www.refinery29.com/2016/12/131629/makeup-artist-hairstylist-product-recommendations#slide-40",
 					"event_pic":"http://s1.r29static.com//bin/entry/084/x/1703863/image.gif",
-					"price": "$"
+					"price": "$5.99"
 				},
 				{
 					"category": "Stephanie",
@@ -162,14 +162,14 @@
 					"category": "Stephanie",
 					"event": "Heels Chunky",
 					"event_url":"http://www.charlotterusse.com/lace-up-chunky-platform-dress-sandals/302194655.html?dwvar_302194655_color=001&cgid=heels#sz=30&start=142",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302194655_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302228059_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=290&hei=375",
 					"price": "$24.04"
 				},
 				{
 					"category": "Stephanie",
 					"event": "Heel Chunky",
 					"event_url":"http://www.charlotterusse.com/caged-lace-up-chunky-heel-sandals/302149935.html?rrec=true",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
 					"price": "$22.74"
 				},
 				{
@@ -223,16 +223,16 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Suede Wedges",
+					"event": "Suede Wedges(black)",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Shoes&productid=2000230624",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00230624-01.jpg",
+					"event_pic":"http://www.forever21.com/images/1_front_330/00230624-01.jpg",
 					"price": "$29.90"
 				},
 				{
 					"category": "Stephanie",
 					"event": "Corduroy Buttoned Skirt",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms_skirt&ProductID=2000182243&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00182243-04.jpg",
+					"event_pic":"http://www.forever21.com/images/5_detail_750/00182243-04.jpg",
 					"price": "$19.90"
 				},
 				{
