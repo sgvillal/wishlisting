@@ -279,6 +279,97 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Off-the-shoulder Top",
+					"event_url":"http://www.hm.com/us/product/58147?article=58147-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7OZ_0187_021R.jpg]&set=key[rotate],value[-0.15]&set=key[width],value[3724]&set=key[height],value[4355]&set=key[x],value[865]&set=key[y],value[167]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$12.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Slim-fit Pants",
+					"event_url":"http://www.hm.com/us/product/81801?article=81801-P",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200304946%20027%2042%201074.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$12.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Joggers",
+					"event_url":"http://www.hm.com/us/product/60322?article=60322-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200470146%20001%2014%200746.jpg]&set=key[rotate],value[0.65]&set=key[width],value[1298]&set=key[height],value[1518]&set=key[x],value[445]&set=key[y],value[110]&set=key[type],value[DETAIL]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$12.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Velour and Lace Dress",
+					"event_url":"http://www.hm.com/us/product/60119?article=60119-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7XZ_0009_013R.jpg]&set=key[rotate],value[0.05]&set=key[width],value[3829]&set=key[height],value[4477]&set=key[x],value[672]&set=key[y],value[583]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$29.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"http://www.hm.com/us/product/54501?article=54501-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0042_003R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3692]&set=key[height],value[4317]&set=key[x],value[735]&set=key[y],value[262]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$34.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Fine-knit Cardigan",
+					"event_url":"http://www.hm.com/us/product/53418?article=53418-B",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7NZ_5255_013R.jpg]&set=key[rotate],value[-0.2]&set=key[width],value[3703]&set=key[height],value[4330]&set=key[x],value[795]&set=key[y],value[232]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$24.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Patterned Bomber Jacket",
+					"event_url":"http://www.hm.com/us/product/54295?article=54295-E",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/D00%200427617%20004%2036%202838.jpg]&set=key[rotate],value[-1]&set=key[width],value[1437]&set=key[height],value[1680]&set=key[x],value[885]&set=key[y],value[184]&set=key[type],value[DETAIL]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$29.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Short Turtleneck Top",
+					"event_url":"http://www.hm.com/us/product/88067?article=88067-D&cm_vc=SEARCH",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2015/B00%200273524%20008%2057%200140.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[2]&call=url[file:/product/large]",
+					"price": "$7.99"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Belted Trench Coat",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=outerwear_coats-and-jackets&productid=2000212722",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00212722-02.jpg",
+					"price": "$29.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Stripe Open-Shoulder Crop Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000230807",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00230807-02.jpg",
+					"price": "$12.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Ribbed Knit Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=sweater&ProductID=2000198810&VariantID=&recid=product5_rr-_-62;-_-2000198810-_-1574-_-5",
+					"event_pic":"http://www.forever21.com/images/2_side_750/00198810-06.jpg",
+					"price": "$17.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heathered Knit Skater Dress",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=dress&productid=2000232006",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00232006-04.jpg",
+					"price": "$12.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Stretch-Knit Skater Dress",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=women-features&ProductID=2000193657&VariantID=&recid=product5_rr-_-06;-_-2000193657-_-1574-_-3",
+					"event_pic":"http://www.forever21.com/images/2_side_750/00193657-06.jpg",
+					"price": "$9.90"
+				},
+				{
+					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
@@ -1095,6 +1186,48 @@
 					"price":"$99.00",
 					"event_url":"https://surprise.katespade.com/on/demandware.store/Sites-KateSale-Site/en_US/Product-Show?pid=WKRU3877-2&dwvar_WKRU3877-2_color=134&dwvar_WKRU3877-2_size=UNS&cgid=handbags#cgid=handbags&start=15",
 					"event_pic":"http://s7d4.scene7.com/is/image/KateSpade/WKRU3877_134_1?$s7fullsize$"
+				},
+				{
+					"category": "Yvette",
+					"event":"Top with Scalloped Edge",
+					"price":"$34.99",
+					"event_url":"http://www.hm.com/us/product/59945?article=59945-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7YM_0030_020R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3963]&set=key[height],value[4634]&set=key[x],value[597]&set=key[y],value[84]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]"
+				},
+				{
+					"category": "Yvette",
+					"event":"Funnel Collar Wool Blend Coat",
+					"price":"$23.99",
+					"event_url":"http://www.charlotterusse.com/funnel-collar-wool-blend-coat/302201769.html?dwvar_302201769_color=001&cgid=#q=coat&lang=default&start=12",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302201769_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+				},
+				{
+					"category": "Yvette",
+					"event":"Asymmetrical Pointed Toe Over-the-Knee Boots",
+					"price":"$29.39",
+					"event_url":"http://www.charlotterusse.com/asymmetrical-pointed-toe-over-the-knee-boots/302198942.html?dwvar_302198942_color=200&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302198942_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+				},
+				{
+					"category": "Yvette",
+					"event":"Qupid Buckled Riding Boots",
+					"price":"$27.59",
+					"event_url":"http://www.charlotterusse.com/qupid-buckled-riding-boots/302234529.html?dwvar_302234529_color=218&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302234529_218?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+				},
+				{
+					"category": "Yvette",
+					"event":"Quilted Knee-High Riding Boots",
+					"price":"$31.79",
+					"event_url":"http://www.charlotterusse.com/quilted-knee-high-riding-boots/302220522.html?dwvar_302220522_color=200&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302220522_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+				},
+				{
+					"category": "Yvette",
+					"event":"",
+					"price":"",
+					"event_url":"",
+					"event_pic":""
 				},
 				{
 					"category": "Yvette",
