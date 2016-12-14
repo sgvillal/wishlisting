@@ -1163,42 +1163,48 @@
 					"event":"Alice Flask",
 					"event_url":"https://www.etsy.com/listing/108767226/alice-in-wonderland-drink-me-liquor-hip",
 					"event_pic":"https://img0.etsystatic.com/005/0/5505585/il_570xN.372705000_4jsu.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Yvette",
 					"event":"Mickey Tattoo",
 					"event_url":"https://www.etsy.com/listing/178515345/happiest-temporary-tattoo-set-of-2",
 					"event_pic":"https://img0.etsystatic.com/041/0/7496102/il_570xN.561012248_h88z.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Yvette",
 					"event":"Personalized Mousepad",
 					"event_url":"https://www.etsy.com/listing/279716466/personalized-arrow-mousepad",
 					"event_pic":"https://img0.etsystatic.com/130/0/12425707/il_570xN.972745338_bvof.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Yvette",
 					"event":"Laptop Decal",
 					"event_url":"https://www.amazon.com/dp/B00ZX2B6L2/ref=gl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=16FF3MP31KGPV&coliid=I2NOJTZF54U6I7&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51xn9FMMv-L._SX355_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Yvette",
 					"event":"Journal",
 					"event_url":"https://www.amazon.com/dp/0399174826/ref=gl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=16FF3MP31KGPV&coliid=I252VHVDN3JI4H",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61TrKo3jfGL._SX365_BO1,204,203,200_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Yvette",
 					"event":"Shoes",
 					"price":"$12.99",
 					"event_url":"http://www.hm.com/us/product/18444?article=18444-P",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/C00%200179368%20034%2090%202060.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_BACK]&hmver=4&call=url[file:/product/large]"
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/C00%200179368%20034%2090%202060.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_BACK]&hmver=4&call=url[file:/product/large]",
+					"brand":"H&M"
 				},
 				{
 					"category": "Yvette",
@@ -1227,112 +1233,128 @@
 					"event":"Purse",
 					"price":"",
 					"event_url":"",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/39/11/67/391167bbea119d244370f4500ace4ef0.jpg"
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/39/11/67/391167bbea119d244370f4500ace4ef0.jpg",
+					"brand":""
 				},
 				{
 					"category": "Yvette",
 					"event":"Tights",
 					"price":"$12.99",
 					"event_url":"http://www.hm.com/us/product/39701?article=39701-A",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/48/48/aa/4848aaf5fbee8ae674f8b167935452d8.jpg"
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/48/48/aa/4848aaf5fbee8ae674f8b167935452d8.jpg",
+					"brand":"H&M"
 				},
 				{
 					"category": "Yvette",
 					"event":"Baseball Tee",
 					"price":"$12.99",
 					"event_url":"http://www.hm.com/us/product/26327?article=26327-Q",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/22/e7/49/22e7494cc386a5ef850c1384d6f7bd22.jpg"
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/22/e7/49/22e7494cc386a5ef850c1384d6f7bd22.jpg",
+					"brand":"H&M"
 				},
 				{
 					"category": "Yvette",
 					"event":"",
 					"price":"",
 					"event_url":"http://www.forever21.com/Product/Category.aspx?br=f21&category=top_blouses",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/28/76/9e/28769ef80f393286367ca4c4326a513e.jpg"
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/28/76/9e/28769ef80f393286367ca4c4326a513e.jpg",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Yvette",
 					"event":"Purse",
 					"price":"$189",
 					"event_url":"https://poshmark.com/listing/Kate-Spade-Romy-Perri-Lane-Bubbles-leather-Black-5650ca99f0137d87ab019be9?utm_source=ext_pn",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/52/0c/8a/520c8ac64c28915f8259b4f0a20df820.jpg"
+					"event_pic":"https://s-media-cache-ak0.pinimg.com/564x/52/0c/8a/520c8ac64c28915f8259b4f0a20df820.jpg",
+					"brand":"KateSpade"
 				},
 				{
 					"category": "Yvette",
 					"event":"Shawl Collar Cocoon Cardigan",
 					"price":"$9.74",
 					"event_url":"http://www.charlotterusse.com/shawl-collar-cocoon-cardigan/302219448.html?rrec=true",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302219448_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336"
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302219448_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Yvette",
 					"event":"Hair Tie Bracelet",
 					"price":"$24.95",
 					"event_url":"https://www.thegrommet.com/gifts/her/bittersweet",
-					"event_pic":"https://cdn4.thegrommet.com/media/catalog/product/cache/1/small_image/197x148/9df78eab33525d08d6e5fb8d27136e95/1/8/1899-con-300_1_1.jpg"
+					"event_pic":"https://cdn4.thegrommet.com/media/catalog/product/cache/1/small_image/197x148/9df78eab33525d08d6e5fb8d27136e95/1/8/1899-con-300_1_1.jpg",
+					"brand":"The Gromnet"
 				},
 				{
 					"category": "Yvette",
 					"event":"Kate Spade Gold Dots Thermal Mug",
 					"price":"$18.00",
 					"event_url":"http://www.barnesandnoble.com/w/home-gift-kate-spade-gold-dots-thermal-mug/30353517?ean=0825466935471",
-					"event_pic":"http://prodimage.images-bn.com/pimages/0825466935471_p0_v1_s550x406.jpg"
+					"event_pic":"http://prodimage.images-bn.com/pimages/0825466935471_p0_v1_s550x406.jpg",
+					"brand":"Barnes&Noble"
 				},
 				{
 					"category": "Yvette",
 					"event":"paterson court brynlee",
 					"price":"$99.00",
 					"event_url":"https://surprise.katespade.com/on/demandware.store/Sites-KateSale-Site/en_US/Product-Show?pid=WKRU3877-2&dwvar_WKRU3877-2_color=134&dwvar_WKRU3877-2_size=UNS&cgid=handbags#cgid=handbags&start=15",
-					"event_pic":"http://s7d4.scene7.com/is/image/KateSpade/WKRU3877_134_1?$s7fullsize$"
+					"event_pic":"http://s7d4.scene7.com/is/image/KateSpade/WKRU3877_134_1?$s7fullsize$",
+					"brand":"Kate Spade"
 				},
 				{
 					"category": "Yvette",
 					"event":"Top with Scalloped Edge",
 					"price":"$34.99",
 					"event_url":"http://www.hm.com/us/product/59945?article=59945-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7YM_0030_020R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3963]&set=key[height],value[4634]&set=key[x],value[597]&set=key[y],value[84]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]"
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7YM_0030_020R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3963]&set=key[height],value[4634]&set=key[x],value[597]&set=key[y],value[84]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"brand":"H&M"
 				},
 				{
 					"category": "Yvette",
 					"event":"Funnel Collar Wool Blend Coat",
 					"price":"$23.99",
 					"event_url":"http://www.charlotterusse.com/funnel-collar-wool-blend-coat/302201769.html?dwvar_302201769_color=001&cgid=#q=coat&lang=default&start=12",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302201769_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302201769_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Yvette",
 					"event":"Asymmetrical Pointed Toe Over-the-Knee Boots",
 					"price":"$29.39",
 					"event_url":"http://www.charlotterusse.com/asymmetrical-pointed-toe-over-the-knee-boots/302198942.html?dwvar_302198942_color=200&cgid=",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302198942_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302198942_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Yvette",
 					"event":"Qupid Buckled Riding Boots",
 					"price":"$27.59",
 					"event_url":"http://www.charlotterusse.com/qupid-buckled-riding-boots/302234529.html?dwvar_302234529_color=218&cgid=",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302234529_218?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302234529_218?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Yvette",
 					"event":"Quilted Knee-High Riding Boots",
 					"price":"$31.79",
 					"event_url":"http://www.charlotterusse.com/quilted-knee-high-riding-boots/302220522.html?dwvar_302220522_color=200&cgid=",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302220522_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302220522_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
+					"brand":"Charlotte Russe"
 				},
 				{
-					"category": "Emi",
+					"category": "Yvette",
 					"event":"Sex Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
-					"price":"$7.95"
+					"price":"$7.95",
+					"brand":"Lush"
 				},
 				{
 					"category": "Yvette",
 					"event":"Off-The-Shoulder Scalloped Skater Dress",
 					"price":"$20.00",
 					"event_url":"http://www.charlotterusse.com/off-the-shoulder-scalloped-skater-dress/302277030.html?dwvar_302277030_color=001&cgid=",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302277030_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302277030_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
+					"brand":"Charlotte"
 				},
 				{
 					"category": "Yvette",
@@ -1360,126 +1382,144 @@
 					"event":"Tattoo",
 					"event_url":"https://www.etsy.com/listing/155004224/infinity-hakuna-matata-temporary-tattoo",
 					"event_pic":"https://img0.etsystatic.com/033/0/7496102/il_570xN.618955296_7adb.jpg",
-					"price":""
+					"price":"$2.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Jackie",
 					"event":"Bikini",
 					"event_url":"https://www.wish.com/c/56caa6138c939832be0fa40b",
 					"event_pic":"https://contestimg.wish.com/api/webimage/56caa6138c939832be0fa40b-medium.jpg?cache_buster=688e8949e9533e5bc49392061327a8a0",
-					"price":""
+					"price":"$7",
+					"brand":"Wish"
 				},
 				{
 					"category": "Jackie",
 					"event":"Mini Waffle Maker",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=38754677&category=GIFTS-UNDER25&cm_mmc=CJ-_-Affiliates-_-Skimlinks-_-11389065",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/38754677_046_b?$mlarge$&defaultImage=",
-					"price":""
+					"price":"$18",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Polariod Printer",
 					"event_url":"https://www.amazon.com/Fujifilm-Instax-Share-Printer-SP-1/dp/B00HYAL84Q/ref=sr_1_2?ie=UTF8&qid=1480286502&sr=8-2&keywords=polaroid+printer",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71Y2Dxy2wdL._SL1500_.jpg",
-					"price":""
+					"price":"$166.49 & FREE Shipping",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Lightbox LED",
 					"event_url":"https://www.amazon.com/dp/B01DWXZ88K/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I1HHMJJ0EJMP8X",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81zQIlwke0L._SL1500_.jpg",
-					"price":""
+					"price":"$29.99 & FREE Shipping",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Scratch Map",
 					"event_url":"https://www.amazon.com/dp/B00O8PNW6M/ref=wl_it_dp_o_pd_S_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=IFCIT32N6DTHD",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/91DwP-pZVfL._SL1500_.jpg",
-					"price":""
+					"price":"$166.49 & FREE Shipping",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Pug Calender",
 					"event_url":"https://www.amazon.com/dp/1682343359/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I2TZL49V17MTT",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71wR5M9Ff5L.jpg",
-					"price":""
+					"price":"$9.73",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Pug Face Mask",
 					"event_url":"https://www.amazon.com/dp/B0146145WW/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I1O5RGI9K4QYWA&th=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71uMm3MSXcL._SL1024_.jpg",
-					"price":""
+					"price":"$9.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Yoga Towel Mat",
 					"event_url":"https://www.amazon.com/dp/B00RZP87BW/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I1JJVQFGOO23PD",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71n2Tu2TUjL._SL1500_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Animal Waffle Maker",
 					"event_url":"https://www.amazon.com/dp/B00HSHS0VE/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I2MSI22ZQQBZ49",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71T9AQ73p6L._SL1500_.jpg",
-					"price":""
+					"price":"$16.11 + $7.44 shipping",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Dog Planter",
 					"event_url":"https://www.amazon.com/Ceramic-Succulent-Flowerpot-Planter-Weaving/dp/B01GJCEID2/ref=pd_sbs_86_1?_encoding=UTF8&pd_rd_i=B01GJCEID2&pd_rd_r=A0J4CE16SGC078SSFRS6&pd_rd_w=Yl8oX&pd_rd_wg=cl7S9&psc=1&refRID=A0J4CE16SGC078SSFRS6",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71FbBy7UWiL._SL1500_.jpg",
-					"price":"$9.88"
+					"price":"$9.88",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Hedgehog Planter",
 					"event_url":"https://www.amazon.com/Coolbila-Hedgehog-Flower-Ceramic-Planter/dp/B01JGCMD20/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1480889435&sr=1-1&keywords=hedgehog+pot+planter",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41hmG3m%2BAzL.jpg",
-					"price":"$10.45"
+					"price":"$10.45",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Hair Tie Bracelet",
 					"price":"$24.95",
 					"event_url":"https://www.thegrommet.com/gifts/her/bittersweet",
-					"event_pic":"https://cdn4.thegrommet.com/media/catalog/product/cache/1/small_image/197x148/9df78eab33525d08d6e5fb8d27136e95/1/8/1899-con-300_1_1.jpg"
+					"event_pic":"https://cdn4.thegrommet.com/media/catalog/product/cache/1/small_image/197x148/9df78eab33525d08d6e5fb8d27136e95/1/8/1899-con-300_1_1.jpg",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Fujifilm INSTAX Mini 8 Instant Camera",
 					"event_url":"https://www.amazon.com/dp/B00AWKJPOA/ref=strm_fn_nad_1_2",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71Vj67nse-L._SL1500_.jpg",
-					"price":"$54.99"
+					"price":"$54.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Circular Faux Gem Bracelet Set",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=1000209461&VariantID=",
 					"event_pic":"http://www.forever21.com/images/default_750/00209461-01.jpg",
-					"price":"$4.90"
+					"price":"$4.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Jackie",
 					"event":"Off-the-Shoulder Lace Crop Top",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses&ProductID=2000190855&VariantID=",
 					"event_pic":"http://www.forever21.com/images/default_750/00190855-01.jpg",
-					"price":"$15.90"
+					"price":"$15.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Jackie",
 					"event":"Open-Shoulder Turtleneck Top",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses&ProductID=2000214054&VariantID=",
 					"event_pic":"http://www.forever21.com/images/4_full_750/00214054-03.jpg",
-					"price":"$12.90"
+					"price":"$12.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Jackie",
 					"event":"V-Neck Pleated Top",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses&ProductID=2000213395&VariantID=",
 					"event_pic":"http://www.forever21.com/images/default_750/00213395-06.jpg",
-					"price":"$12.90"
+					"price":"$12.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Jackie",
@@ -1493,21 +1533,24 @@
 					"event":"Semi-Sheer Lace Bralette",
 					"event_url":"http://www.forever21.com/images/5_detail_750/00203639-07.jpg",
 					"event_pic":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
-					"price":"$10.90"
+					"price":"$10.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Jackie",
 					"event":"Ribbed Knit Boat-Neck Top",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000234459",
 					"event_pic":"http://www.forever21.com/images/1_front_750/00234459-03.jpg",
-					"price":"$14.90"
+					"price":"$14.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Jackie",
 					"event":"Ribbed Off-The-Shoulder Skimmer Top",
 					"event_url":"http://www.charlotterusse.com/ribbed-off-the-shoulder-skimmer-top/302271894.html?dwvar_302271894_color=640&cgid=",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302271894_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
-					"price":"$13.99"
+					"price":"$13.99",
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Jackie",
