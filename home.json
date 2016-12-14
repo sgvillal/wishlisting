@@ -1329,10 +1329,10 @@
 				},
 				{
 					"category": "Yvette",
-					"event":"",
-					"price":"",
-					"event_url":"",
-					"event_pic":""
+					"event":"Off-The-Shoulder Scalloped Skater Dress",
+					"price":"$20.00",
+					"event_url":"http://www.charlotterusse.com/off-the-shoulder-scalloped-skater-dress/302277030.html?dwvar_302277030_color=001&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302277030_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
 				},
 				{
 					"category": "Yvette",
@@ -1490,16 +1490,44 @@
 				},
 				{
 					"category": "Jackie",
+					"event":"Semi-Sheer Lace Bralette",
+					"event_url":"http://www.forever21.com/images/5_detail_750/00203639-07.jpg",
+					"event_pic":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
+					"price":"$10.90"
+				},
+				{
+					"category": "Jackie",
+					"event":"Ribbed Knit Boat-Neck Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000234459",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00234459-03.jpg",
+					"price":"$14.90"
+				},
+				{
+					"category": "Jackie",
+					"event":"Ribbed Off-The-Shoulder Skimmer Top",
+					"event_url":"http://www.charlotterusse.com/ribbed-off-the-shoulder-skimmer-top/302271894.html?dwvar_302271894_color=640&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302271894_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
+					"price":"$13.99"
+				},
+				{
+					"category": "Jackie",
 					"event":"",
 					"event_url":"",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/originals/1b/bc/a7/1bbca721653fc00423eabfeb4348ce29.jpg",
+					"event_pic":"",
 					"price":""
 				},
 				{
 					"category": "Jackie",
 					"event":"",
 					"event_url":"",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/236x/93/ec/c9/93ecc9249322beff4e67b22bd08d0863.jpg",
+					"event_pic":"",
+					"price":""
+				},
+				{
+					"category": "Jackie",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
 					"price":""
 				},
 				{
