@@ -259,13 +259,6 @@
 				{
 					"category": "Stephanie",
 					"event": "Tattoo",
-					"event_url":"https://www.etsy.com/listing/168990036/catch-temporary-tattoo-set-of-2",
-					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.524875950_fgji.jpg",
-					"price": "$2.99"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tattoo",
 					"event_url":"https://www.etsy.com/listing/115031630/sunflower-temporary-tattoo-set-of-2",
 					"event_pic":"https://img0.etsystatic.com/002/0/7496102/il_570xN.395840882_1kq6.jpg",
 					"price": "$2.99"
@@ -307,7 +300,7 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
+					"event": "Swimsuit",
 					"event_url":"http://www.hm.com/us/product/54501?article=54501-A",
 					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0042_003R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3692]&set=key[height],value[4317]&set=key[x],value[735]&set=key[y],value[262]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
 					"price": "$34.99"
@@ -367,6 +360,34 @@
 					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=women-features&ProductID=2000193657&VariantID=&recid=product5_rr-_-06;-_-2000193657-_-1574-_-3",
 					"event_pic":"http://www.forever21.com/images/2_side_750/00193657-06.jpg",
 					"price": "$9.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Thug Life Flowers Doormat ",
+					"event_url":"https://www.amazon.com/dp/B01EMMM4DW/ref=strm_fn_nad_58_1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51bUTYqVESL._SY355_.jpg",
+					"price": "$9.20"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$"
 				},
 				{
 					"category": "Stephanie",
@@ -493,6 +514,34 @@
 					"event_url":"https://www.amazon.com/Coolbila-Hedgehog-Flower-Ceramic-Planter/dp/B01JGCMD20/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1480889435&sr=1-1&keywords=hedgehog+pot+planter",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41hmG3m%2BAzL.jpg",
 					"price":"$10.45"
+				},
+				{
+					"category": "Sasha",
+					"event":"Socktimus Prime Custom Calvin & Hobbes Socks",
+					"event_url":"https://www.amazon.com/Socktimus-Prime-Custom-Calvin-Hobbes/dp/B01EGFR8U4/ref=sr_1_13?ie=UTF8&qid=1481714239&sr=8-13&keywords=calvin+and+hobbes",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51AzbiCPIUL._AC_US160_.jpg",
+					"price":"$14.99"
+				},
+				{
+					"category": "Sasha",
+					"event":"Custom Gaming Mouse Pad Calvin And Hobbes (Size: 6, Color: Multicolor)",
+					"event_url":"https://www.wish.com/search/calvin%20and%20hobbs#cid=56e8f6aaacb607552f012e26",
+					"event_pic":"https://contestimg.wish.com/api/webimage/56e8f6aaacb607552f012e26-0-tiny",
+					"price":"$6"
+				},
+				{
+					"category": "Sasha",
+					"event":"BARONL Calvin And Hobbes Adjustable Embroidery Snapback Hat Cap",
+					"event_url":"https://www.amazon.com/gp/offer-listing/B01ELCPW46/ref=sr_1_82_olp?ie=UTF8&qid=1481714713&sr=8-82&keywords=calvin+and+hobbes",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41krlvuelBL._SX258_BO1,204,203,200_.jpg",
+					"price":"$9.98"
+				},
+				{
+					"category": "Sasha",
+					"event":"ScentSimple Candle Scented Soy Candle, Eucalyptus",
+					"event_url":"https://www.amazon.com/dp/B018BKXSRW/ref=strm_sub_201_nad_4_3",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61iIPVJJHdL._SL1200_.jpg",
+					"price":"$16.00"
 				},
 				{
 					"category": "Sasha",
@@ -741,6 +790,20 @@
 				},
 				{
 					"category": "Pang",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
+				},
+				{
+					"category": "Emi",
+					"event":"Sex Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
+					"price":"$7.95"
+				},
+				{
+					"category": "Pang",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -965,6 +1028,20 @@
 				},
 				{
 					"category": "Sarah",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
+				},
+				{
+					"category": "Emi",
+					"event":"Sex Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
+					"price":"$7.95"
+				},
+				{
+					"category": "Sarah",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -1045,6 +1122,27 @@
 					"event_url":"http://www.uncommongoods.com/product/bath-shots-set-of-6",
 					"event_pic":"http://www.uncommongoods.com/images/items/43200/43204_1_360px.jpg",
 					"price":"$20.00"
+				},
+				{
+					"category": "Emi",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
+				},
+				{
+					"category": "Emi",
+					"event":"Sex Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
+					"price":"$7.95"
+				},
+				{
+					"category": "Emi",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
 				},
 				{
 					"category": "Emi",
@@ -1223,6 +1321,13 @@
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302220522_200_1?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638"
 				},
 				{
+					"category": "Emi",
+					"event":"Sex Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
+					"price":"$7.95"
+				},
+				{
 					"category": "Yvette",
 					"event":"",
 					"price":"",
@@ -1340,6 +1445,13 @@
 					"price":"$24.95",
 					"event_url":"https://www.thegrommet.com/gifts/her/bittersweet",
 					"event_pic":"https://cdn4.thegrommet.com/media/catalog/product/cache/1/small_image/197x148/9df78eab33525d08d6e5fb8d27136e95/1/8/1899-con-300_1_1.jpg"
+				},
+				{
+					"category": "Jackie",
+					"event":"Fujifilm INSTAX Mini 8 Instant Camera",
+					"event_url":"https://www.amazon.com/dp/B00AWKJPOA/ref=strm_fn_nad_1_2",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71Vj67nse-L._SL1500_.jpg",
+					"price":"$54.99"
 				},
 				{
 					"category": "Jackie",
@@ -1588,6 +1700,20 @@
 				},
 				{
 					"category": "Nhung",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
+				},
+				{
+					"category": "Emi",
+					"event":"Sex Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
+					"price":"$7.95"
+				},
+				{
+					"category": "Nhung",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -1613,6 +1739,13 @@
 					"event_url":"https://www.amazon.com/Hughapy-knitted-Mermaid-Sleeping-Thin-Mint/dp/B01H86I12M/ref=pd_lpo_201_tr_t_2?tag=bp_links-20",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71SDY2gPMfL._SL1104_.jpg",
 					"price":"$28.80"
+				},
+				{
+					"category": "Ailin",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
 				},
 				{
 					"category": "Ailin",
@@ -1741,6 +1874,20 @@
 					"event_url":"https://www.amazon.com/dp/B010WT7OPW/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=IHYLIZ6P6JPU1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/615No4C4LIL._SX355_.jpg",
 					"price":""
+				},
+				{
+					"category": "Stephanie",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95"
+				},
+				{
+					"category": "Emi",
+					"event":"Sex Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
+					"price":"$7.95"
 				},
 				{
 					"category": "Misc",
