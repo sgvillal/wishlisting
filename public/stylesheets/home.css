@@ -135,6 +135,8 @@ h3 {
   border-color: white;
   padding: 2%;
   border-style: inset;
+  top: 5%;
+  left: 5%;
 }
 .tutorial-image {
   max-width: 100%;
