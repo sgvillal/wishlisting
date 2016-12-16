@@ -776,6 +776,14 @@
 				},
 				{
 					"category": "JFeng",
+					"event":"If You Can Read This Socks, Fuck Off Socks, ",
+					"event_url":"https://www.etsy.com/listing/476176820/if-you-can-read-this-socks-fuck-off?ref=shop_home_active_2",
+					"event_pic":"https://img1.etsystatic.com/143/1/9904969/il_570xN.1121903925_ndhy.jpg",
+					"price":"$11.00 + $3.50 S.H.",
+					"brand": "Etsy"
+				},
+				{
+					"category": "JFeng",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -1999,42 +2007,48 @@
 					"event":"Mermaid Tail Blanket",
 					"event_url":"https://www.amazon.com/Hughapy-knitted-Mermaid-Sleeping-Thin-Mint/dp/B01H86I12M/ref=pd_lpo_201_tr_t_2?tag=bp_links-20",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71SDY2gPMfL._SL1104_.jpg",
-					"price":"$28.80"
+					"price":"$28.80",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Ailin",
 					"event": "Shoot For The Stars Bath Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
-					"price": "$6.95"
+					"price": "$6.95",
+					"brand":"Lush"
 				},
 				{
 					"category": "Ailin",
 					"event":"TEA PARTY TEA CUP SHOT GLASS SET",
 					"event_url":"https://www.francescas.com/product/tea-party-tea-cup-shot-glass-set.do?sortby=ourPicks&refType=&from=Search&ecList=6&ecCategory=",
 					"event_pic":"https://ii.francescas.com/fcgi-bin/iipsrv.fcgi?FIF=/images/francescascollections//source/Gifts/FRN-3-GI-0001-1_gift-cl.tif&qlt=75&wid=340&cvt=jpeg",
-					"price":"$16.00"
+					"price":"$16.00",
+					"brand":"francescas"
 				},
 				{
 					"category": "Ailin",
 					"event":"Big and Little Stemless Wine Glass Set",
 					"event_url":"https://www.francescas.com/product/big-and-little-stemless-wine-glass-set.do?sortby=ourPicks&refType=&from=Search&ecList=6&ecCategory=",
 					"event_pic":"https://ii.francescas.com/fcgi-bin/iipsrv.fcgi?FIF=/images/francescascollections//source/Gifts/TMD2703_gift-cl_lifestyle.tif&wid=1000%20&cvt=jpeg",
-					"price":"$9.98"
+					"price":"$9.98",
+					"brand":"francescas"
 				},
 				{
 					"category": "Ailin",
 					"event":"big little shirts,tank",
 					"event_url":"https://www.etsy.com/listing/473058370/big-little-shirtstank-topv-neckbig-lil?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=Sorority%20Shirts%20Big%20Little%20Shirt&ref=sr_gallery_41",
 					"event_pic":"https://img0.etsystatic.com/162/0/13405609/il_570xN.1065705682_7v04.jpg",
-					"price":"$12.99"
+					"price":"$12.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
 					"event":"Sorority Jersey!",
 					"event_url":"https://www.etsy.com/listing/253099364/custom-spirit-shirt-game-day-jersey-with",
 					"event_pic":"https://img0.etsystatic.com/110/0/9551485/il_570xN.887576978_rcp9.jpg",
-					"price":"$38.00"
+					"price":"$38.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
@@ -2042,77 +2056,160 @@
 					"event_url":"https://www.walmart.com/ip/Boxercraft-T14-Women-s-Pom-Pom-Jersey/198035160?wmlspartner=wlpa&selectedSellerId=3664&adid=22222222227054252483&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=155020343422&wl4=pla-126661450095&wl5=9031265&wl6=&wl7=&wl8=&wl9=pla&wl10=113728270&wl11=online&wl12=198035160&wl13=&veh=sem",
 					"event_url2":"https://www.walmart.com/ip/Boxercraft-T14-Women-s-Pom-Pom-Jersey/100848451",
 					"event_pic":"https://ll-us-i5.wal.co/asr/e6fbf53a-98c2-464e-ad60-bddac3499c2b_1.12e02d1701b3f8017186ffdeaf5f6ebf.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
-					"price":"$14.22"
+					"price":"$14.22",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
 					"event":"PSR Tote",
 					"event_url":"https://www.etsy.com/listing/278099802/phi-sigma-rho-scroll-tote-sorority-tote?ga_search_query=phi+sigma+rho&ref=shop_items_search_5",
 					"event_pic":"https://img0.etsystatic.com/137/0/10829768/il_570xN.965661192_qh4g.jpg",
-					"price":"$16.00 + SH $3.90"
+					"price":"$16.00 + SH $3.90",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
 					"event":"Phi Sigma Rho Heart Burst Mug Sorority Coffee Mug",
 					"event_url":"https://www.etsy.com/listing/474488425/phi-sigma-rho-heart-burst-mug-sorority?ga_search_query=phi+sigma+rho&ref=shop_items_search_15",
 					"event_pic":"https://img1.etsystatic.com/110/0/10829768/il_570xN.1077976659_ow3v.jpg",
-					"price":"$15.00"
+					"price":"$15.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
 					"event":"Pillow (Check if in PSR)",
 					"event_url":"https://www.etsy.com/listing/476240364/zta-zeta-tau-alpha-feathers-sorority?ref=shop_home_active_91",
 					"event_pic":"https://img0.etsystatic.com/147/0/10829768/il_570xN.1075519692_9brh.jpg",
-					"price":"$28.00"
+					"price":"$28.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
 					"event":"PHI SIGMA RHO Maroon Embroidered Greek Letter Monogrammed Acrylic Knit Beanie",
 					"event_url":"https://www.etsy.com/listing/485569658/phi-sigma-rho-maroon-embroidered-greek?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=phi%20sigma%20rho&ref=sr_gallery_6",
 					"event_pic":"https://img0.etsystatic.com/155/0/7212478/il_570xN.1105254748_6w6x.jpg",
-					"price":"$10.99"
+					"price":"$10.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
 					"event":"Monogrammed Throw Greek Letters ",
 					"event_url":"https://www.etsy.com/listing/267968688/monogrammed-throw-greek-letters?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=greek%20throw&ref=sr_gallery_12",
 					"event_pic":"https://img1.etsystatic.com/138/0/10084102/il_570xN.1052068875_hgj9.jpg",
-					"price":"$28.00"
+					"price":"$28.00",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Ailin",
+					"event":"Hand drawn Greek Letter Sorority Sticker Vinyl Decal ",
+					"event_url":"https://www.etsy.com/listing/459198376/hand-drawn-greek-letter-sorority-sticker?ref=related-7",
+					"event_pic":"https://img1.etsystatic.com/139/0/12857226/il_570xN.1076491677_nx5v.jpg",
+					"price":"$5.00",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Ailin",
+					"event":"Pillow Pets Pee Wees - Small 11 inch",
+					"event_url":"https://www.amazon.com/gp/offer-listing/B004OQBEYM/ref=sr_1_2_olp?ie=UTF8&qid=1481882745&sr=8-2&keywords=penguin+pillow+pet&condition=new",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41H2saegWZL._SS160_.jpg",
+					"price":"$16.44",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Ailin",
+					"event":"",
+					"event_url":"https://www.amazon.com/gp/offer-listing/B002XNJ01C/ref=dp_olp_all_mbc?ie=UTF8&condition=all",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41ocs7UXJZL._SS160_.jpg",
+					"price":"$24.94",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Ailin",
+					"event":"Fun Express 25 Piece Plastic Squirt Gun Assortment",
+					"event_url":"https://www.amazon.com/Fun-Express-Plastic-Squirt-Assortment/dp/B001BQTEZY/ref=sr_1_3?s=toys-and-games&ie=UTF8&qid=1481883827&sr=1-3&keywords=water+guns",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81l1TvzyIFL._SL1500_.jpg",
+					"price":"$5.49",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Ailin",
+					"event":"Let's Go Fishin'",
+					"event_url":"https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+					"event_pic":"data:image/webp;base64,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",
+					"price":"$7.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Ailin",
+					"event":"Monogrammed Stainless Steel Tumbler, ",
+					"event_url":"https://www.etsy.com/listing/472450706/monogrammed-stainless-steel-tumbler?ref=shop_home_active_45",
+					"event_pic":"https://img0.etsystatic.com/141/0/7410674/il_570xN.1063865360_rntv.jpg",
+					"price":"$28.00",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Ailin",
+					"event":"Big Tumbler, Big Gift",
+					"event_url":"https://www.etsy.com/listing/460939294/big-tumbler-big-gift-sorority-gift?ga_search_query=big&ref=shop_items_search_8",
+					"event_pic":"https://img0.etsystatic.com/102/1/7410674/il_570xN.1031276962_en5m.jpg",
+					"price":"$13.00",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Ailin",
+					"event":"Big Little Monogrammed Sippy Cups",
+					"event_url":"https://www.etsy.com/listing/240289176/big-little-monogrammed-stemless-wine?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=big%20little%20sippy%20cups&ref=sr_gallery_1",
+					"event_pic":"https://img0.etsystatic.com/131/1/9904969/il_570xN.891749740_570q.jpg",
+					"price":"$11.25",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Ailin",
+					"event":"Big Little Sorority Stemless Wine Glass, Sorority Rush Gift, Big Dipper Little Dipper, Shooting Star",
+					"event_url":"https://www.etsy.com/listing/471905539/big-little-sorority-stemless-wine-glass?ga_search_query=big&ref=shop_items_search_7",
+					"event_pic":"https://img0.etsystatic.com/144/1/9904969/il_570xN.1087601206_m5go.jpg",
+					"price":"$9.25",
+					"brand":""
+				},
+				{
+					"category": "Ailin",
+					"event":"Big Little Monogrammed Sorority Socks",
+					"event_url":"https://www.etsy.com/listing/476184956/big-little-monogrammed-sorority-socks?ref=related-5",
+					"event_pic":"https://img1.etsystatic.com/168/1/9904969/il_570xN.1121931255_ea20.jpg",
+					"price":"$9.00 + $3.50 S.H.",
+					"brand":""
 				},
 				{
 					"category": "Ailin",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Ailin",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Ailin",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Ailin",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
-				},
-				{
-					"category": "Ailin",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 
 			]
