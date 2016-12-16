@@ -433,14 +433,53 @@
 					"event": "Ribbed Dolman Cropped Sweater",
 					"event_url":"http://www.charlotterusse.com/ribbed-dolman-cropped-sweater/302259389.html?dwvar_302259389_color=502&cgid=tops",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302259389_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$21.99"
+					"price": "$21.99",
+					"brand":"CharlotteRusse"
 				},
 				{
 					"category": "Stephanie",
 					"event": "Shaker Stitch Varsity Stripe Sweater",
 					"event_url":"http://www.charlotterusse.com/shaker-stitch-varsity-stripe-sweater/302244238.html?dwvar_302244238_color=1105&cgid=tops",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302244238_1105?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$20.00"
+					"price": "$20.00",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "AERIE LACE HALTER BRALETTE",
+					"event_url":"https://www.ae.com/aerie-lace-halter-bralette-deep-plum/aerie/s-prod/4447_7515_536?cm=sUS-cUSD&catId=cat7530007&mmCat=cat7900126",
+					"event_pic":"https://pics.ae.com/is/image/aeo/4447_7515_536_f?$pdp-main$",
+					"price": "$18.71",
+					"brand":"Aerie"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Semi-Sheer Lace Bralette
+",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
+					"event_pic":"http://www.forever21.com/images/default_750/00203639-05.jpg",
+					"price": "$10.90"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$"
 				},
 				{
 					"category": "Stephanie",
@@ -716,7 +755,7 @@
 					"price":"$15.00"
 				},
 				{
-					"category": "Jennifer",
+					"category": "JFeng",
 					"event":"Bath Shots",
 					"event_url":"http://www.uncommongoods.com/product/bath-shots-set-of-6",
 					"event_pic":"http://www.uncommongoods.com/images/items/43200/43204_1_360px.jpg",
@@ -728,6 +767,13 @@
 					"event_url":"https://www.amazon.com/Steve-Jackson-Games-1408SJG-Munchkin/dp/1556344732/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1481181031&sr=1-2&keywords=munchkin",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71OwhyXRXTL._SL1325_.jpg",
 					"price":"$16.39"
+				},
+				{
+					"category": "JFeng",
+					"event":"Strange Dreams: A Journal",
+					"event_url":"https://www.amazon.com/Strange-Dreams-Andy-J-Miller/dp/1452126445/ref=sr_1_1?ie=UTF8&qid=1481851568&sr=8-1&keywords=strange+dreams",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/419uXUANtWL.jpg",
+					"price":"$11.46"
 				},
 				{
 					"category": "JFeng",
@@ -1087,11 +1133,25 @@
 					"price": "$6.95"
 				},
 				{
-					"category": "Emi",
+					"category": "Sarah",
 					"event":"Sex Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
 					"price":"$7.95"
+				},
+				{
+					"category": "Sarah",
+					"event":"Iconic Weekly, Monthly Desk Pad Ver.2 / Pattern Scheduler (Weekly)",
+					"event_url":"https://www.amazon.com/Iconic-Weekly-Monthly-Pattern-Scheduler/dp/B01AA9NS2C/ref=sr_1_7?s=office-products&ie=UTF8&qid=1481797942&sr=1-7&keywords=weekly+planner",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51t1TXYVvTL.jpg",
+					"price":"$10.45"
+				},
+				{
+					"category": "Sarah",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
 				},
 				{
 					"category": "Sarah",
@@ -1408,6 +1468,27 @@
 					"event_url":"http://www.charlotterusse.com/off-the-shoulder-scalloped-skater-dress/302277030.html?dwvar_302277030_color=001&cgid=",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302277030_001?$s7product$&fmt=jpg&fit=constrain,1&wid=489&hei=638",
 					"brand":"Charlotte"
+				},
+				{
+					"category": "Yvette",
+					"event":"Strange Dreams: A Journal",
+					"event_url":"https://www.amazon.com/Strange-Dreams-Andy-J-Miller/dp/1452126445/ref=sr_1_1?ie=UTF8&qid=1481851568&sr=8-1&keywords=strange+dreams",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/419uXUANtWL.jpg",
+					"price":"$11.46"
+				},
+				{
+					"category": "Yvette",
+					"event":"",
+					"price":"",
+					"event_url":"",
+					"event_pic":""
+				},
+				{
+					"category": "Yvette",
+					"event":"",
+					"price":"",
+					"event_url":"",
+					"event_pic":""
 				},
 				{
 					"category": "Yvette",
@@ -1929,10 +2010,67 @@
 				},
 				{
 					"category": "Ailin",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
+					"event":"TEA PARTY TEA CUP SHOT GLASS SET",
+					"event_url":"https://www.francescas.com/product/tea-party-tea-cup-shot-glass-set.do?sortby=ourPicks&refType=&from=Search&ecList=6&ecCategory=",
+					"event_pic":"https://ii.francescas.com/fcgi-bin/iipsrv.fcgi?FIF=/images/francescascollections//source/Gifts/FRN-3-GI-0001-1_gift-cl.tif&qlt=75&wid=340&cvt=jpeg",
+					"price":"$16.00"
+				},
+				{
+					"category": "Ailin",
+					"event":"Big and Little Stemless Wine Glass Set",
+					"event_url":"https://www.francescas.com/product/big-and-little-stemless-wine-glass-set.do?sortby=ourPicks&refType=&from=Search&ecList=6&ecCategory=",
+					"event_pic":"https://ii.francescas.com/fcgi-bin/iipsrv.fcgi?FIF=/images/francescascollections//source/Gifts/TMD2703_gift-cl_lifestyle.tif&wid=1000%20&cvt=jpeg",
+					"price":"$9.98"
+				},
+				{
+					"category": "Ailin",
+					"event":"big little shirts,tank",
+					"event_url":"https://www.etsy.com/listing/473058370/big-little-shirtstank-topv-neckbig-lil?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=Sorority%20Shirts%20Big%20Little%20Shirt&ref=sr_gallery_41",
+					"event_pic":"https://img0.etsystatic.com/162/0/13405609/il_570xN.1065705682_7v04.jpg",
+					"price":"$12.99"
+				},
+				{
+					"category": "Ailin",
+					"event":"Sorority Jersey!",
+					"event_url":"https://www.etsy.com/listing/253099364/custom-spirit-shirt-game-day-jersey-with",
+					"event_pic":"https://img0.etsystatic.com/110/0/9551485/il_570xN.887576978_rcp9.jpg",
+					"price":"$38.00"
+				},
+				{
+					"category": "Ailin",
+					"event":"Boxercraft T14 Women's Pom Pom Jersey",
+					"event_url":"https://www.walmart.com/ip/Boxercraft-T14-Women-s-Pom-Pom-Jersey/198035160?wmlspartner=wlpa&selectedSellerId=3664&adid=22222222227054252483&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=155020343422&wl4=pla-126661450095&wl5=9031265&wl6=&wl7=&wl8=&wl9=pla&wl10=113728270&wl11=online&wl12=198035160&wl13=&veh=sem",
+					"event_url2":"https://www.walmart.com/ip/Boxercraft-T14-Women-s-Pom-Pom-Jersey/100848451",
+					"event_pic":"https://ll-us-i5.wal.co/asr/e6fbf53a-98c2-464e-ad60-bddac3499c2b_1.12e02d1701b3f8017186ffdeaf5f6ebf.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+					"price":"$14.22"
+				},
+				{
+					"category": "Ailin",
+					"event":"PSR Tote",
+					"event_url":"https://www.etsy.com/listing/278099802/phi-sigma-rho-scroll-tote-sorority-tote?ga_search_query=phi+sigma+rho&ref=shop_items_search_5",
+					"event_pic":"https://img0.etsystatic.com/137/0/10829768/il_570xN.965661192_qh4g.jpg",
+					"price":"$16.00 + SH $3.90"
+				},
+				{
+					"category": "Ailin",
+					"event":"Phi Sigma Rho Heart Burst Mug Sorority Coffee Mug",
+					"event_url":"https://www.etsy.com/listing/474488425/phi-sigma-rho-heart-burst-mug-sorority?ga_search_query=phi+sigma+rho&ref=shop_items_search_15",
+					"event_pic":"https://img1.etsystatic.com/110/0/10829768/il_570xN.1077976659_ow3v.jpg",
+					"price":"$15.00"
+				},
+				{
+					"category": "Ailin",
+					"event":"Pillow (Check if in PSR)",
+					"event_url":"https://www.etsy.com/listing/476240364/zta-zeta-tau-alpha-feathers-sorority?ref=shop_home_active_91",
+					"event_pic":"https://img0.etsystatic.com/147/0/10829768/il_570xN.1075519692_9brh.jpg",
+					"price":"$28.00"
+				},
+				{
+					"category": "Ailin",
+					"event":"PHI SIGMA RHO Maroon Embroidered Greek Letter Monogrammed Acrylic Knit Beanie",
+					"event_url":"https://www.etsy.com/listing/485569658/phi-sigma-rho-maroon-embroidered-greek?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=phi%20sigma%20rho&ref=sr_gallery_6",
+					"event_pic":"https://img0.etsystatic.com/155/0/7212478/il_570xN.1105254748_6w6x.jpg",
+					"price":"$10.99"
 				},
 				{
 					"category": "Ailin",
@@ -2259,9 +2397,10 @@
 				},
 				{
 					"category": "Onesies",
-					"event":"",
-					"event_url":"",
-					"event_pic": ""
+					"event":"Fleece Polar Bear PJ Jumpsuit",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=intimates_loungewear&ProductID=2000250677&VariantID=&recid=product5_rr-_-33;-_-2000250677-_-1574-_-3",
+					"event_pic": "http://www.forever21.com/images/1_front_750/00250677-01.jpg",
+					"price":"$24.90"
 				},
 				{
 					"category": "Onesies",
