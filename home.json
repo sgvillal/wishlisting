@@ -454,8 +454,7 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Semi-Sheer Lace Bralette
-",
+					"event": "Semi-Sheer Lace Bralette",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
 					"event_pic":"http://www.forever21.com/images/default_750/00203639-05.jpg",
 					"price": "$10.90"
@@ -895,7 +894,7 @@
 					"price": "$6.95"
 				},
 				{
-					"category": "Emi",
+					"category": "Pang",
 					"event":"Sex Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
@@ -1474,7 +1473,8 @@
 					"event":"Strange Dreams: A Journal",
 					"event_url":"https://www.amazon.com/Strange-Dreams-Andy-J-Miller/dp/1452126445/ref=sr_1_1?ie=UTF8&qid=1481851568&sr=8-1&keywords=strange+dreams",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/419uXUANtWL.jpg",
-					"price":"$11.46"
+					"price":"$11.46",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Yvette",
@@ -1992,7 +1992,7 @@
 		},
 		{
 			"category": "Ailin",
-			"category_url": "",
+			"category_url": "https://scontent.fsan1-2.fna.fbcdn.net/v/t1.0-9/14034851_1128575257210211_2587636684946640095_n.jpg?oh=a3dba8e26a748b1e2f17f6240e6eba76&oe=58B3790C",
 			"suggestions": [
 				{
 					"category": "Ailin",
@@ -2071,6 +2071,34 @@
 					"event_url":"https://www.etsy.com/listing/485569658/phi-sigma-rho-maroon-embroidered-greek?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=phi%20sigma%20rho&ref=sr_gallery_6",
 					"event_pic":"https://img0.etsystatic.com/155/0/7212478/il_570xN.1105254748_6w6x.jpg",
 					"price":"$10.99"
+				},
+				{
+					"category": "Ailin",
+					"event":"Monogrammed Throw Greek Letters ",
+					"event_url":"https://www.etsy.com/listing/267968688/monogrammed-throw-greek-letters?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=greek%20throw&ref=sr_gallery_12",
+					"event_pic":"https://img1.etsystatic.com/138/0/10084102/il_570xN.1052068875_hgj9.jpg",
+					"price":"$28.00"
+				},
+				{
+					"category": "Ailin",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
+				},
+				{
+					"category": "Ailin",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
+				},
+				{
+					"category": "Ailin",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
 				},
 				{
 					"category": "Ailin",
