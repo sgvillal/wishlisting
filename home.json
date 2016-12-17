@@ -457,42 +457,64 @@
 					"event": "Semi-Sheer Lace Bralette",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
 					"event_pic":"http://www.forever21.com/images/default_750/00203639-05.jpg",
-					"price": "$10.90"
+					"price": "$10.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
+					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/Womens_Kenze_Off_Shoulder_Crop_Top_-_Black_-_4_grande.jpg?v=1476895616",
+					"price": "$18",
+					"brand":"The Elephant Pants"
+				},
+				{
+					"category": "Stephanie",
+					"event": "TEGAN LACE STRAPPY BACK BRALETTE",
+					"event_url":"https://shopchapter24.com/collections/new-arrivals/products/tegan-lace-strappy-back-bralette?variant=31505728003",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/5958902_AMY160812OJ01-GREY-D-2.jpg?v=1481227504",
+					"price": "$11.99",
+					"brand":"Chapter24"
+				},
+				{
+					"category": "Stephanie",
+					"event": "OPHELIA STRAPPY LACE BRALETTE(Black)",
+					"event_url":"https://shopchapter24.com/collections/best-sellers/products/ophelia-strappy-lace-bralette?variant=11101469251",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Ophelia_Model.jpg?v=1464365553",
+					"price": "$14.99",
+					"brand":"Chapter24"
 				},
 				{
 					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
-					"price": "$"
+					"price": "$",
+					"brand":""
 				},
 				{
 					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
-					"price": "$"
+					"price": "$",
+					"brand":""
 				},
 				{
 					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
-					"price": "$"
+					"price": "$",
+					"brand":""
 				},
 				{
 					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
-					"price": "$"
-				},
-				{
-					"category": "Stephanie",
-					"event": "",
-					"event_url":"",
-					"event_pic":"",
-					"price": "$"
+					"price": "$",
+					"brand":""
 				}
 
 			]
@@ -513,147 +535,176 @@
 					"event":"Royal Flush Diffusers",
 					"event_url":"https://www.dirtycatdesigns.com/collections/diffusers/products/royal-flush-diffusers",
 					"event_pic":"https://cdn.shopify.com/s/files/1/1042/0732/products/royal_flush_1024x1024.png?v=1479761478",
-					"price":"$12.99"
+					"price":"$12.99",
+					"brand":"Dirty Cat Designs"
 				},
 				{
 					"category": "Sasha",
 					"event":"Sloth Cig Tin",
 					"event_url":"https://www.etsy.com/listing/173139400/sloth-cigarette-or-card-case-or-tin-or?ref=shop_home_active_7",
 					"event_pic":"https://img0.etsystatic.com/037/0/5505585/il_570xN.540865288_e4gh.jpg",
-					"price":"$25.00"
+					"price":"$25.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Chocolates",
 					"event_url":"https://www.etsy.com/listing/257077015/my-sun-and-stars-anniversary-gift-for",
 					"event_pic":"https://img1.etsystatic.com/108/0/6065044/il_570xN.872400975_hykv.jpg",
-					"price":"$26.99"
+					"price":"$26.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Mugs",
 					"event_url":"https://www.etsy.com/listing/271254200/game-of-thrones-mug-gift-set-khaleesi",
 					"event_pic":"https://img0.etsystatic.com/140/0/11111699/il_570xN.1019750958_cbve.jpg",
-					"price":"$11.63"
+					"price":"$11.63",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Keychain",
 					"event_url":"https://www.etsy.com/listing/294391425/miss-your-face-map-keychain-custom",
 					"event_pic":"https://img0.etsystatic.com/118/0/12245668/il_570xN.977681874_ejib.jpg",
-					"price":"$2.99"
+					"price":"$2.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Tattoo",
 					"event_url":"https://www.etsy.com/listing/244839202/tattify-flower-mandala-temporary-tattoo",
 					"event_pic":"https://img1.etsystatic.com/074/0/7496102/il_570xN.819885051_ikt3.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Tattoo",
 					"event_url":"https://www.etsy.com/listing/216747801/sealed-temporary-tattoo-set-of-2",
 					"event_pic":"https://img1.etsystatic.com/056/0/7496102/il_570xN.705082647_og37.jpg",
-					"price":"$2.99"
+					"price":"$2.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Decal",
 					"event_url":"https://www.etsy.com/listing/292737167/red-shiba-inu-face-vinyl-die-cut-sticker",
 					"event_pic":"https://img1.etsystatic.com/134/0/12655810/il_570xN.1017085427_aaz7.jpg",
-					"price":"$2.50"
+					"price":"$2.50",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Pillows",
 					"event_url":"https://www.etsy.com/listing/153158736/i-love-you-to-the-moon-and-back-his-and",
 					"event_pic":"https://img1.etsystatic.com/020/0/6846921/il_570xN.535427935_4x24.jpg",
-					"price":"$19.00"
+					"price":"$19.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sasha",
 					"event":"Umbreon Onesie",
 					"event_url":"https://www.wish.com/c/567c0c401638e426c9a67f97",
 					"event_pic":"https://ae01.alicdn.com/kf/HTB1vS3FNpXXXXXiapXXq6xXFXXXP/2016-New-Pokemon-Character-Umbreon-Onesies-Anime-Pocket-Monster-Cosplay-font-b-Costume-b-font-Fleece.jpg",
-					"price":""
+					"price":"",
+					"brand":"Wish"
 				},
 				{
 					"category": "Sasha",
 					"event":"Rave Shirt",
 					"event_url":"https://www.iheartraves.com/collections/mens-t-shirts/products/blueberry-kush-men-s-tee",
 					"event_pic":"https://cdn.shopify.com/s/files/1/0982/0722/products/BlueberryKush_MensTee_FlatMock_Front.jpg?v=1468859027",
-					"price":"$34.95"
+					"price":"$34.95",
+					"brand":"iheartraves"
 				},
 				{
 					"category": "Sasha",
 					"event":"Aquarium",
 					"event_url":"https://www.amazon.com/Orbit-20-Desktop-Jellyfish-Aquarium/dp/B01FWJHA7O/ref=s9_wsim_gw_g199_i17_r?_encoding=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=AP384XNWHTXDH6M7PY5A&pf_rd_t=36701&pf_rd_p=b13ec477-194d-4f63-971b-ca6229de96a2&pf_rd_i=desktop",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41nno7AjvdL._SX355_.jpg",
-					"price":"$399.99"
+					"price":"$399.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
 					"event":"Dog Planter",
 					"event_url":"https://www.amazon.com/Ceramic-Succulent-Flowerpot-Planter-Weaving/dp/B01GJCEID2/ref=pd_sbs_86_1?_encoding=UTF8&pd_rd_i=B01GJCEID2&pd_rd_r=A0J4CE16SGC078SSFRS6&pd_rd_w=Yl8oX&pd_rd_wg=cl7S9&psc=1&refRID=A0J4CE16SGC078SSFRS6",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71FbBy7UWiL._SL1500_.jpg",
-					"price":"$9.88"
+					"price":"$9.88",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Jackie",
 					"event":"Hedgehog Planter",
 					"event_url":"https://www.amazon.com/Coolbila-Hedgehog-Flower-Ceramic-Planter/dp/B01JGCMD20/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1480889435&sr=1-1&keywords=hedgehog+pot+planter",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41hmG3m%2BAzL.jpg",
-					"price":"$10.45"
+					"price":"$10.45",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
 					"event":"Socktimus Prime Custom Calvin & Hobbes Socks",
 					"event_url":"https://www.amazon.com/Socktimus-Prime-Custom-Calvin-Hobbes/dp/B01EGFR8U4/ref=sr_1_13?ie=UTF8&qid=1481714239&sr=8-13&keywords=calvin+and+hobbes",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51AzbiCPIUL._AC_US160_.jpg",
-					"price":"$14.99"
+					"price":"$14.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
 					"event":"Custom Gaming Mouse Pad Calvin And Hobbes (Size: 6, Color: Multicolor)",
 					"event_url":"https://www.wish.com/search/calvin%20and%20hobbs#cid=56e8f6aaacb607552f012e26",
 					"event_pic":"https://contestimg.wish.com/api/webimage/56e8f6aaacb607552f012e26-0-tiny",
-					"price":"$6"
+					"price":"$6",
+					"brand":"Wish"
 				},
 				{
 					"category": "Sasha",
 					"event":"BARONL Calvin And Hobbes Adjustable Embroidery Snapback Hat Cap",
 					"event_url":"https://www.amazon.com/gp/offer-listing/B01ELCPW46/ref=sr_1_82_olp?ie=UTF8&qid=1481714713&sr=8-82&keywords=calvin+and+hobbes",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41krlvuelBL._SX258_BO1,204,203,200_.jpg",
-					"price":"$9.98"
+					"price":"$9.98",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
 					"event":"ScentSimple Candle Scented Soy Candle, Eucalyptus",
 					"event_url":"https://www.amazon.com/dp/B018BKXSRW/ref=strm_sub_201_nad_4_3",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61iIPVJJHdL._SL1200_.jpg",
-					"price":"$16.00"
+					"price":"$16.00",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"BOHO PATTERN IPHONE 6/6S CASE",
+					"event_url":"https://shopchapter24.com/collections/10-under-steals/products/boho-patterned-iphone-6-6s-case",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Boho-Phone-Case.jpg?v=1470249885",
+					"price":"$6.99",
+					"brand":"Shop Chapter 24"
 				},
 				{
 					"category": "Sasha",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Sasha",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Sasha",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		
@@ -667,112 +718,128 @@
 					"event":"GoT Flask",
 					"event_url":"https://www.etsy.com/listing/246723399/personalized-flask-custom-flask-metal?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=game%20of%20thrones%20flask&ref=sr_gallery_7",
 					"event_pic":"https://img0.etsystatic.com/100/0/11573544/il_570xN.828484786_t146.jpg",
-					"price":"$16.00"
+					"price":"$16.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "JFeng",
 					"event":"GoT Flask 2",
 					"event_url":"https://www.etsy.com/listing/226380419/game-of-thrones-inspired-liquor-is?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=game%20of%20thrones%20flask&ref=sr_gallery_17",
 					"event_pic":"https://img0.etsystatic.com/048/1/8784945/il_570xN.742573862_8e2d.jpg",
-					"price":"$16.99"
+					"price":"$16.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "JFeng",
 					"event":"GoT Shirt",
 					"event_url":"https://www.etsy.com/listing/231114732/mother-of-dragons-t-shirt-shirt-tee-high",
 					"event_pic":"https://img1.etsystatic.com/053/1/8723802/il_570xN.762529825_hyex.jpg",
-					"price":"$16.80"
+					"price":"$16.80",
+					"brand":"Etsy"
 				},
 				{
 					"category": "JFeng",
 					"event":"Sweater",
 					"event_url":"https://www.etsy.com/listing/106200686/penguin-love-raglan-sweatshirt-american",
 					"event_pic":"https://img0.etsystatic.com/007/1/5116830/il_570xN.363863580_ef45.jpg",
-					"price":"$26.00"
+					"price":"$26.00",
+					"brand":"Etsy"
 				},
 				{
 					"category": "JFeng",
 					"event":"Game of Phones",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=40202996&category=GIFTS-UNDER25",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/40202996_001_b?$mlarge$&defaultImage=",
-					"price":"$22.00"
+					"price":"$22.00",
+					"brand":"UrbanOutfitters"
 				},
 				{
 					"category": "JFeng",
 					"event":"Sticky Notes",
 					"event_url":"https://www.amazon.com/dp/B00KB88DFU/ref=gl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=1ZBW0GZJ4YU82&coliid=I2HZE52L923ZHP&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71u4xqAHtZL._SL1300_.jpg",
-					"price":"$6.99"
+					"price":"$6.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Penguin Onesie",
 					"event_url":"https://www.amazon.com/dp/B01M0I45FP/ref=gl_it_dp_o_pd_S_ttl?_encoding=UTF8&colid=1ZBW0GZJ4YU82&coliid=I3A51XO1NEK01L&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51zZaQ00ZoL._UY445_.jpg",
-					"price":"$26.69"
+					"price":"$26.69",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Shots Game",
 					"event_url":"https://www.amazon.com/dp/B004M5IS94/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=1ZBW0GZJ4YU82&coliid=IFLYIXCIA9VZN&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71FSsAJfRmL._SL1500_.jpg",
-					"price":"$7.50"
+					"price":"$7.50",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Cable holding Burrito",
 					"event_url":"https://www.amazon.com/dp/B00WG0JZOE/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=1ZBW0GZJ4YU82&coliid=I2PHFUGBO5IYCY&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81oerQaz1tL._SL1500_.jpg",
-					"price":"$21.99"
+					"price":"$21.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Bear Travel Pillow",
 					"event_url":"https://www.amazon.com/dp/B0099PEV9I/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=1ZBW0GZJ4YU82&coliid=I1G6LA4FLT9PGD&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31pdIWGRT0L.jpg",
-					"price":"$19.99"
+					"price":"$19.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Face Mask",
 					"event_url":"https://www.amazon.com/dp/B01EQGW9MK/ref=gl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=1ZBW0GZJ4YU82&coliid=I1RC87JJF4EOAR&th=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71BoJPa7GWL._SL1500_.jpg",
-					"price":"$10.58"
+					"price":"$10.58",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Rice Bowl",
 					"event_url":"https://images-na.ssl-images-amazon.com/images/I/41T%2Bm0LRIzL._SY355_.jpg",
 					"event_pic":"data:image/webp;base64,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",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Bathroom Guestbook",
 					"event_url":"http://www.uncommongoods.com/product/the-bathroom-guestbook",
 					"event_pic":"http://www.uncommongoods.com/images/items/23600/23601_1_360px.jpg",
-					"price":"$15.00"
+					"price":"$15.00",
+					"brand":"uncommongoods"
 				},
 				{
 					"category": "JFeng",
 					"event":"Bath Shots",
 					"event_url":"http://www.uncommongoods.com/product/bath-shots-set-of-6",
 					"event_pic":"http://www.uncommongoods.com/images/items/43200/43204_1_360px.jpg",
-					"price":"$20.00"
+					"price":"$20.00",
+					"brand":"uncommongoods"
 				},
 				{
 					"category": "JFeng",
 					"event":"Munchkin",
 					"event_url":"https://www.amazon.com/Steve-Jackson-Games-1408SJG-Munchkin/dp/1556344732/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1481181031&sr=1-2&keywords=munchkin",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71OwhyXRXTL._SL1325_.jpg",
-					"price":"$16.39"
+					"price":"$16.39",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
 					"event":"Strange Dreams: A Journal",
 					"event_url":"https://www.amazon.com/Strange-Dreams-Andy-J-Miller/dp/1452126445/ref=sr_1_1?ie=UTF8&qid=1481851568&sr=8-1&keywords=strange+dreams",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/419uXUANtWL.jpg",
-					"price":"$11.46"
+					"price":"$11.46",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
@@ -787,21 +854,24 @@
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "JFeng",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "JFeng",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		
@@ -815,119 +885,136 @@
 					"event":"Selfie Mirror Deval",
 					"event_url":"http://www.zulily.com/p/selfie-mirror-decal-set-215503-29791537.html?pos=127&fromEvent=215503&",
 					"event_pic":"http://mcdn3.zulilyinc.com/images/cache/product/318x1000//148016/zu29791537_main_tm1438967734.jpg",
-					"price":""
+					"price":"",
+					"brand":"zulily"
 				},
 				{
 					"category": "Pang",
 					"event":"Tattoo",
 					"event_url":"https://www.etsy.com/listing/160246127/spirit-temporary-tattoo-set-of-2",
 					"event_pic":"https://img1.etsystatic.com/017/0/7496102/il_570xN.492637201_fy3k.jpg",
-					"price":"$2.99"
+					"price":"$2.99",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Pang",
 					"event":"Wine Lip Tint",
 					"event_url":"https://www.amazon.com/CHATEAU-LABIOTTE-Wine-Brand-Shiraz/dp/B01BIPH4Z4/ref=pd_bxgy_121_img_3?_encoding=UTF8&psc=1&refRID=VPRM7P5XTH6F77ZQD87W",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31oHC4k0tKL.jpg",
-					"price":"$10.30"
+					"price":"$10.30",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Pug Calender",
 					"event_url":"https://www.amazon.com/dp/1682343359/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I2TZL49V17MTT",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71wR5M9Ff5L.jpg",
-					"price":"$14.99"
+					"price":"$14.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Pug Face Mask",
 					"event_url":"https://www.amazon.com/dp/B0146145WW/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I1O5RGI9K4QYWA&th=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71uMm3MSXcL._SL1024_.jpg",
-					"price":"$11.29"
+					"price":"$11.29",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Shots",
 					"event_url":"https://www.amazon.com/dp/B004M5IS94/ref=gl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=WS9UKUWE5L0&coliid=IMAFH8QERRK6D&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71FSsAJfRmL._SL1500_.jpg",
-					"price":"$7.50"
+					"price":"$7.50",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Monroe Poster",
 					"event_url":"https://www.amazon.com/dp/B01DD270T0/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=WS9UKUWE5L0&coliid=IBHUE7XTZAW4U&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61u75Sjx2yL._SL1000_.jpg",
-					"price":"$17.90"
+					"price":"$17.90",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Shots Roulette",
 					"event_url":"https://www.amazon.com/dp/B001JSX7KW/ref=gl_it_dp_o_pd_nS_img?_encoding=UTF8&colid=WS9UKUWE5L0&coliid=I127A13NO4ICT4&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51L6MC4lgbL.jpg",
-					"price":"$13.99"
+					"price":"$13.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Poop Decal",
 					"event_url":"https://www.amazon.com/Laugh-Funny-Bathroom-Vinyl-Letters/dp/B00SUBRIXI/ref=sr_1_1?ie=UTF8&qid=1480625963&sr=8-1&keywords=live+laugh+poop",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41rR1k%2BZqoL._SY450_.jpg",
-					"price":"$11.99"
+					"price":"$11.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Bunny Planter",
 					"event_url":"https://www.amazon.com/gp/product/B00T6ZQ87O/ref=s9_acsd_al_bw_c_multiyar_1_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=S7H4955AKX7P8VEPKTS2&pf_rd_r=S7H4955AKX7P8VEPKTS2&pf_rd_t=101&pf_rd_p=15e4f6de-10a0-4879-83e8-f8537acdc64b&pf_rd_p=15e4f6de-10a0-4879-83e8-f8537acdc64b&pf_rd_i=15469023011",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81MVmjEJtHL._SL1500_.jpg",
-					"price":"$12.50"
+					"price":"$12.50",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Dog Planter",
 					"event_url":"https://www.amazon.com/Ceramic-Succulent-Flowerpot-Planter-Weaving/dp/B01GJCEID2/ref=pd_sbs_86_1?_encoding=UTF8&pd_rd_i=B01GJCEID2&pd_rd_r=A0J4CE16SGC078SSFRS6&pd_rd_w=Yl8oX&pd_rd_wg=cl7S9&psc=1&refRID=A0J4CE16SGC078SSFRS6",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71FbBy7UWiL._SL1500_.jpg",
-					"price":"$9.88"
+					"price":"$9.88",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Pang",
 					"event":"Bath Shots",
 					"event_url":"http://www.uncommongoods.com/product/bath-shots-set-of-6",
 					"event_pic":"http://www.uncommongoods.com/images/items/43200/43204_1_360px.jpg",
-					"price":"$20.00"
+					"price":"$20.00",
+					"brand":"uncommongoods"
 				},
 				{
 					"category": "Pang",
 					"event": "Shoot For The Stars Bath Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
-					"price": "$6.95"
+					"price": "$6.95",
+					"brand":"Lush"
 				},
 				{
 					"category": "Pang",
 					"event":"Sex Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
-					"price":"$7.95"
+					"price":"$7.95",
+					"brand":"Lush"
 				},
 				{
 					"category": "Pang",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Pang",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Pang",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		},
@@ -940,189 +1027,216 @@
 					"event":"Doodle Case",
 					"event_url":"http://www.zulily.com/p/doodle-case-for-iphone-44s-215503-29791505.html?pos=146&fromEvent=215503&",
 					"event_pic":"http://mcdn1.zulilyinc.com/images/cache/product/318x1000//148016/zu29791505_main_tm1438967734.jpg",
-					"price":""
+					"price":"",
+					"brand":"zulily"
 				},
 				{
 					"category": "Sarah",
 					"event":"Hamsa Tat",
 					"event_url":"https://www.etsy.com/listing/216747801/sealed-temporary-tattoo-set-of-2",
 					"event_pic":"https://img1.etsystatic.com/056/0/7496102/il_570xN.705082647_og37.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Decision Maker",
 					"event_url":"https://www.etsy.com/listing/274336454/list-pad-dilemma-decider-notepad",
 					"event_pic":"https://img1.etsystatic.com/130/1/6872792/il_570xN.995625579_26a4.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Bookworm tat",
 					"event_url":"https://www.etsy.com/listing/173263481/bookworm-temporary-tattoo-set-of-14",
 					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.541255558_poue.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"This too Shall pass",
 					"event_url":"https://www.etsy.com/listing/200625178/this-too-shall-pass-temporary-tattoo-set",
 					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.642823750_ppf6.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Sloth To-do",
 					"event_url":"https://www.etsy.com/listing/260238451/sloth-to-do-list-sloth-gift-funny-sloth",
 					"event_pic":"https://img0.etsystatic.com/135/1/5117032/il_570xN.937861348_exuv.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Pane Tattoo",
 					"event_url":"https://www.etsy.com/listing/196517096/fly-like-paper-temporary-tattoo-set-of-4",
 					"event_pic":"https://img0.etsystatic.com/028/0/7496102/il_570xN.627787686_5es9.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Sloth Decal",
 					"event_url":"https://img0.etsystatic.com/101/1/6417877/il_570xN.834843958_beou.jpg",
 					"event_pic":"https://img0.etsystatic.com/101/1/6417877/il_570xN.834843958_beou.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Coaster",
 					"event_url":"https://www.etsy.com/listing/150106602/cat-coasters-for-cups-set-of-4-fabric",
 					"event_pic":"https://img0.etsystatic.com/059/0/6601502/il_570xN.710545372_9oma.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Sarah",
 					"event":"Wine Lip Tint",
 					"event_url":"https://www.amazon.com/CHATEAU-LABIOTTE-Wine-Brand-Shiraz/dp/B01BIPH4Z4/ref=pd_bxgy_121_img_3?_encoding=UTF8&psc=1&refRID=VPRM7P5XTH6F77ZQD87W",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31oHC4k0tKL.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Calender of Questions",
-					"event_url":"utfitters.com/urban/catalog/productdetail.jsp?id=40340192&category=GIFTS-UNDER25",
+					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=40340192&category=GIFTS-UNDER25",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/40340192_000_b?$medium$",
-					"price":""
+					"price":"",
+					"brand":"UrbanOutfitters"
 				},
 				{
 					"category": "Sarah",
 					"event":"Game of Phones",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=40202996&category=GIFTS-UNDER25",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/40202996_001_b?$mlarge$&defaultImage=",
-					"price":""
+					"price":"",
+					"brand":"UrbanOutfitters"
 				},
 				{
 					"category": "Sarah",
 					"event":"Plushie",
 					"event_url":"https://www.amazon.com/dp/B00BB7YETE/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I2QI1JGQXNFWQK",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/91sq8E37daL._SL1500_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Words of wisdom",
 					"event_url":"https://www.amazon.com/dp/1441319409/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I317L29LOWKKA8",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/512ji8gDq9L._SX468_BO1,204,203,200_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Bookmark",
 					"event_url":"https://www.amazon.com/dp/1441317090/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I1V8RHCSL4XQTL",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41Sb50606%2BL._SX193_BO1,204,203,200_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Beanie",
 					"event_url":"https://www.amazon.com/dp/B00P4NGK02/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I1UGG6CVN7H3H1&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41MgejmAb-L._SL500_SL135_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Bathbomb",
 					"event_url":"https://www.amazon.com/dp/B010WT7OPW/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=IHYLIZ6P6JPU1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/615No4C4LIL._SX355_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Journal",
 					"event_url":"https://www.amazon.com/dp/1632170965/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=IGQLXRPIMOTK7",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51pVUFO7PNL._SX322_BO1,204,203,200_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Planner",
 					"event_url":"https://www.amazon.com/dp/B01G2G7224/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I2T1PBVWJKCQ4J&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41C0z0H72wL._AC_SR160,160_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Decision Maker",
 					"event_url":"https://www.amazon.com/dp/1601061641/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I1LJ02XA24IZSP",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51nMzBApu%2BL._SY498_BO1,204,203,200_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Sloth Onesie",
 					"event_url":"https://www.amazon.com/dp/B00Y338T9Y/ref=gl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I28FSVU6A28TE9",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31-h2kG6WgL._SL500_SL135_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Weekly Planner",
 					"event_url":"http://www.mochithings.com/products/18219?utm_source=pinterest&utm_medium=cpc&utm_campaign=brilliant-weekly-scheduler&utm_term=school-231161393352637442&utm_content=p231161393352637442&pp=1",
 					"event_pic":"http://d2dog1d9ysauaf.cloudfront.net/attachments/f9c25deb51a5467eecd850d447ca1522dc478caa/store/limit_optimized/1000/550/08901e5e0f4a316899e4851e515cab2762be85f3f83b87070b7342e105cf/brilliant-weekly-scheduler.jpg",
-					"price":""
+					"price":"",
+					"brand":"Mochi Things"
 				},
 				{
 					"category": "Jackie",
 					"event":"Hedgehog Planter",
 					"event_url":"https://www.amazon.com/Coolbila-Hedgehog-Flower-Ceramic-Planter/dp/B01JGCMD20/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1480889435&sr=1-1&keywords=hedgehog+pot+planter",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41hmG3m%2BAzL.jpg",
-					"price":"$10.45"
+					"price":"$10.45",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Novel Teas",
 					"event_url":"https://www.amazon.com/contains-teabags-individually-literary-Breakfast/dp/B002RT2W1M/ref=sr_1_1_a_it?ie=UTF8&qid=1480892691&sr=8-1&keywords=Novel+Teas",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/618vrFcDn6L._SY550_.jpg",
-					"price":"$14.95"
+					"price":"$14.95",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Awk Moment Game",
 					"event_url":"http://www.uncommongoods.com/product/awkward-moment-card-game",
 					"event_pic":"http://www.uncommongoods.com/images/items/23700/23789_1_360px.jpg",
-					"price":"$19.00"
+					"price":"$19.00",
+					"brand":"uncommongoods"
 				},
 				{
 					"category": "Sarah",
 					"event":"Bath Shots",
 					"event_url":"http://www.uncommongoods.com/product/bath-shots-set-of-6",
 					"event_pic":"http://www.uncommongoods.com/images/items/43200/43204_1_360px.jpg",
-					"price":"$20.00"
+					"price":"$20.00",
+					"brand":"uncommongoods"
 				},
 				{
 					"category": "Sarah",
 					"event":"Sloth Sweater",
 					"event_url":"http://www.hm.com/us/product/55941?article=55941-A#article=55941-A",
 					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0284_009R.jpg]&set=key[rotate],value[0.65]&set=key[width],value[3757]&set=key[height],value[4392]&set=key[x],value[806]&set=key[y],value[336]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
-					"price":"$19.99"
+					"price":"$19.99",
+					"brand":"H&M"
 				},
 				{
 
@@ -1130,49 +1244,72 @@
 					"event":"Mermaid Tail Blanket",
 					"event_url":"https://www.amazon.com/Hughapy-knitted-Mermaid-Sleeping-Thin-Mint/dp/B01H86I12M/ref=pd_lpo_201_tr_t_2?tag=bp_links-20",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71SDY2gPMfL._SL1104_.jpg",
-					"price":"$28.80"
+					"price":"$28.80",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event": "Shoot For The Stars Bath Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
-					"price": "$6.95"
+					"price": "$6.95",
+					"brand":"Lush"
 				},
 				{
 					"category": "Sarah",
 					"event":"Sex Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
-					"price":"$7.95"
+					"price":"$7.95",
+					"brand":"Lush"
 				},
 				{
 					"category": "Sarah",
 					"event":"Iconic Weekly, Monthly Desk Pad Ver.2 / Pattern Scheduler (Weekly)",
 					"event_url":"https://www.amazon.com/Iconic-Weekly-Monthly-Pattern-Scheduler/dp/B01AA9NS2C/ref=sr_1_7?s=office-products&ie=UTF8&qid=1481797942&sr=1-7&keywords=weekly+planner",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51t1TXYVvTL.jpg",
-					"price":"$10.45"
+					"price":"$10.45",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sarah",
+					"event":"Tinder Nightmares Paperback",
+					"event_url":"https://www.amazon.com/Tinder-Nightmares-Elan-Gale/dp/1419719203/ref=sr_1_1?ie=UTF8&qid=1481967676&sr=8-1&keywords=tinder+nightmares+book",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31SCXouwHgL._SX355_BO1,204,203,200_.jpg",
+					"price":"$11.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sarah",
+					"event":"DAINTY HASHTAG NECKLACE - SILVER",
+					"event_url":"https://shopchapter24.com/collections/10-under-steals/products/dainty-hashtag-necklace-silver?variant=21516204867",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Hashtag-silver_493cc02a-12e3-48ea-b77a-6538d52e3ad7.jpg?v=1457573364",
+					"price":"$9.00",
+					"brand":"Chapter24"
 				},
 				{
 					"category": "Sarah",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Sarah",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Sarah",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		},
@@ -1665,10 +1802,10 @@
 				},
 				{
 					"category": "Jackie",
-					"event":"",
-					"event_url":"",
-					"event_pic":"https://s-media-cache-ak0.pinimg.com/236x/a6/6c/f5/a66cf560566027a05f2acc81dd6c5677.jpg",
-					"price":""
+					"event":"GISELLE LACE HALTER BRALETTE",
+					"event_url":"https://shopchapter24.com/collections/best-sellers/products/giselle-lace-halter-bralette?variant=11100121539",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Giselle-Sept-Colors.jpg?v=1480363196",
+					"price":"$13.99"
 				},
 				{
 					"category": "Jackie",
@@ -1721,6 +1858,13 @@
 					"event_url":"",
 					"event_pic":"",
 					"price":""
+				},
+				{
+					"category": "Jackie",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
 				}
 			]
 		
@@ -1734,35 +1878,64 @@
 					"event":"Apron",
 					"event_url":"https://www.etsy.com/listing/188860212/baked-with-love-ladies-black-kitchen",
 					"event_pic":"https://img1.etsystatic.com/132/1/7015713/il_570xN.1079777983_879s.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Mom",
 					"event":"Dog Planter",
 					"event_url":"https://www.amazon.com/Ceramic-Succulent-Flowerpot-Planter-Weaving/dp/B01GJCEID2/ref=pd_sbs_86_1?_encoding=UTF8&pd_rd_i=B01GJCEID2&pd_rd_r=A0J4CE16SGC078SSFRS6&pd_rd_w=Yl8oX&pd_rd_wg=cl7S9&psc=1&refRID=A0J4CE16SGC078SSFRS6",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71FbBy7UWiL._SL1500_.jpg",
-					"price":"$9.88"
+					"price":"$9.88",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Mom",
 					"event":"Chalk Labels",
 					"event_url":"https://www.amazon.com/Chalkboard-Labels-Complete-Bundle-Stickers/dp/B00MN4VRG2/ref=gbps_img_m-5_3667_97cf7940?smid=A2IDS7G11174ZI&pf_rd_p=e21c31b9-3428-4756-8ea1-389a187e3667&pf_rd_s=merchandised-search-5&pf_rd_t=101&pf_rd_i=5550343011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=AA3S5P0HVD3JH0SYMEB3",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71HT5N5%2BpNL._SL1437_.jpg",
-					"price":"11.97"
+					"price":"11.97",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Mom",
+					"event":"Amelia Apron",
+					"event_url":"https://www.anthropologie.com/shop/amelia-apron2?category=SEARCHRESULTS&color=018",
+					"event_pic":"https://images.anthropologie.com/is/image/Anthropologie/40642019_018_b?$a15-pdp-detail-shot$&hei=900&fit=constrain",
+					"price":"$36.00",
+					"brand":"Anthropologie"
+				},
+				{
+					"category": "Mom",
+					"event":"Hyzrz Cute Polka Dot Flirty Black Aprons with Pockets for Women Girls Vintage Kitchen Cooking Apron",
+					"event_url":"https://www.amazon.com/dp/B00BR0HQFY?psc=1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61%2BhiCT-JwL._SL1469_.jpg",
+					"price":"$10.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Mom",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Mom",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
+				},
+				{
+					"category": "Mom",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
 				}
 			]
 		
@@ -1919,7 +2092,7 @@
 					"price":""
 				},
 				{
-					"category": "Jackie",
+					"category": "Nhung",
 					"event":"Hedgehog Planter",
 					"event_url":"https://www.amazon.com/Coolbila-Hedgehog-Flower-Ceramic-Planter/dp/B01JGCMD20/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1480889435&sr=1-1&keywords=hedgehog+pot+planter",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41hmG3m%2BAzL.jpg",
