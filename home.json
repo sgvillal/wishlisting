@@ -486,11 +486,59 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
-					"event_url":"",
-					"event_pic":"",
-					"price": "$",
-					"brand":""
+					"event": "Hollow Flower Earrings",
+					"event_url":"https://eliterepublik.com/products/hollow-flower-earrings",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1539/5055/products/a757d6efece9404589f1df58bd37a1d5_1024x1024.png?v=1479918421",
+					"price": "$5.95",
+					"brand":"Elite Republik"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Crisscross Cutout Bodysuit",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses-three-quarter&ProductID=2000214729&VariantID=",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00214729-04.jpg",
+					"price": "$17.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tasseled Poncho",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=sweater&ProductID=2000214453&VariantID=&recid=product5_rr-_-77;-_-2000214453-_-1574-_-5",
+					"event_pic":"http://www.forever21.com/images/default_750/00214453-05.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Ribbed Knit Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=sweater&ProductID=2000198810&VariantID=&recid=product5_rr-_-62;-_-2000198810-_-1574-_-5",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00198810-06.jpg",
+					"price": "$17.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "I Lava You Graphic Socks",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=2000208258&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00208258-01.jpg",
+					"price": "$1.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Men Rock On Baseball Cap",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=2000192029&VariantID=",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00192029-01.jpg",
+					"price": "$9.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Cutout Leaf Ear Pins",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=1000218607&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00218607-01.jpg",
+					"price": "$3.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -856,6 +904,22 @@
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81xb0curAQL._UY445_.jpg",
 					"price":"$39.99",
 					"brand":"Amazon"
+				},
+				{
+					"category": "JFeng",
+					"event":"Snowball Fleece Short Robe",
+					"event_url":"https://www.victoriassecret.com/sleepwear/specials-styles/snowball-fleece-short-robe?ProductID=310012&CatalogueType=OLS&search=true",
+					"event_pic":"https://dm.victoriassecret.com/product/760x1013/V593226.jpg",
+					"price":"$49.50",
+					"brand":"Victorias Secret"
+				},
+				{
+					"category": "JFeng",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "JFeng",
