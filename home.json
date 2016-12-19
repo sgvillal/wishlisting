@@ -542,6 +542,30 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Two-Piece Platform Dress Sandals",
+					"event_url":"http://www.charlotterusse.com/two-piece-platform-dress-sandals/302243791.html?rrec=true",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302243791_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$30.99 (Curr $20)",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Caged Platform Dress Sandals",
+					"event_url":"http://www.charlotterusse.com/caged-platform-dress-sandals/302211015.html?dwvar_302211015_color=001&cgid=shop-all-new",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302211015_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$38.99 Sales Price $20.00",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":""
+				},
+				{
+					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
@@ -724,19 +748,35 @@
 				},
 				{
 					"category": "Sasha",
-					"event":"BOHO PATTERN IPHONE 6/6S CASE",
-					"event_url":"https://shopchapter24.com/collections/10-under-steals/products/boho-patterned-iphone-6-6s-case",
-					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Boho-Phone-Case.jpg?v=1470249885",
-					"price":"$6.99",
-					"brand":"Shop Chapter 24"
+					"event":"Lemon Balm",
+					"event_url":"http://earth911.com/home/garden/plants-for-the-office/2/",
+					"event_pic":"http://earth911.com/wp-content/uploads/2014/06/Lemon-Balm-Plant.jpg",
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Sasha",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
+					"event":"Golden pothos",
+					"event_url":"http://earth911.com/home/garden/plants-for-the-office/5/",
+					"event_pic":"http://earth911.com/wp-content/uploads/2014/06/Golden-Pothos.jpg",
 					"price":"",
 					"brand":""
+				},
+				{
+					"category": "Sasha",
+					"event":" Flowerpot Bulbasaur ",
+					"event_url":"https://www.wish.com/search/bulbasaur%20plant#cid=56cac206f4f6f61993418da8",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61%2BE%2BOyuQPL._SL1001_.jpg",
+					"price":"$13 + $5s.h.",
+					"brand":"Wish"
+				},
+				{
+					"category": "Sasha",
+					"event":"Akita Mini Flower Pot Succulent Planter",
+					"event_url":"https://www.amazon.com/Akita-Mini-Flower-Succulent-Planter/dp/B01H0SX8MQ/ref=sr_1_17?s=lawn-garden&ie=UTF8&qid=1482061301&sr=1-17&keywords=cute+planter",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71Zi4nOt91L._SL1500_.jpg",
+					"price":"$11.99 ",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
@@ -1263,7 +1303,7 @@
 					"brand":"Mochi Things"
 				},
 				{
-					"category": "Jackie",
+					"category": "Sarah",
 					"event":"Hedgehog Planter",
 					"event_url":"https://www.amazon.com/Coolbila-Hedgehog-Flower-Ceramic-Planter/dp/B01JGCMD20/ref=sr_1_1?s=lawn-garden&ie=UTF8&qid=1480889435&sr=1-1&keywords=hedgehog+pot+planter",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41hmG3m%2BAzL.jpg",
@@ -1865,6 +1905,14 @@
 					"brand":"Forever21"
 				},
 				{
+					"category": "Sasha",
+					"event":"BOHO PATTERN IPHONE 6/6S CASE",
+					"event_url":"https://shopchapter24.com/collections/10-under-steals/products/boho-patterned-iphone-6-6s-case",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Boho-Phone-Case.jpg?v=1470249885",
+					"price":"$6.99",
+					"brand":"Shop Chapter 24"
+				},
+				{
 					"category": "Jackie",
 					"event":"GISELLE LACE HALTER BRALETTE",
 					"event_url":"https://shopchapter24.com/collections/best-sellers/products/giselle-lace-halter-bralette?variant=11100121539",
@@ -1975,6 +2023,22 @@
 					"event_url":"https://www.amazon.com/dp/B00BR0HQFY?psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61%2BhiCT-JwL._SL1469_.jpg",
 					"price":"$10.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Mom",
+					"event":"Chef Works Butcher Apron (F8)",
+					"event_url":"https://www.amazon.com/Chef-Works-Butcher-Apron-F8/dp/B00OXUPCL0/ref=pd_sbs_201_32?_encoding=UTF8&pd_rd_i=B00OXUPCL0&pd_rd_r=7M7EB2E2VG5C6833G4NN&pd_rd_w=yrTJO&pd_rd_wg=G4wbc&psc=1&refRID=7M7EB2E2VG5C6833G4NN",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/619wG5AEAhL._SL1024_.jpg",
+					"price":"$12.9",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Mom",
+					"event":"Chef Works Chalk Stripe Bib Apron ",
+					"event_url":"https://www.amazon.com/gp/product/B002JM15Z6/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51sVHi7Al6L._SL1024_.jpg",
+					"price":"$10.13 ",
 					"brand":"Amazon"
 				},
 				{
@@ -2406,7 +2470,7 @@
 					"event_url":"https://www.etsy.com/listing/471905539/big-little-sorority-stemless-wine-glass?ga_search_query=big&ref=shop_items_search_7",
 					"event_pic":"https://img0.etsystatic.com/144/1/9904969/il_570xN.1087601206_m5go.jpg",
 					"price":"$9.25",
-					"brand":""
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
@@ -2414,23 +2478,23 @@
 					"event_url":"https://www.etsy.com/listing/476184956/big-little-monogrammed-sorority-socks?ref=related-5",
 					"event_pic":"https://img1.etsystatic.com/168/1/9904969/il_570xN.1121931255_ea20.jpg",
 					"price":"$9.00 + $3.50 S.H.",
-					"brand":""
+					"brand":"Etsy"
 				},
 				{
 					"category": "Ailin",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":"",
-					"brand":""
+					"event":"Monogram Belly Mug 16oz Stoneware A",
+					"event_url":"http://www.target.com/p/monogram-belly-mug-16oz-stoneware-a-z-threshold/-/A-51581657",
+					"event_pic":"http://target.scene7.com/is/image/Target/50976775?wid=450&hei=450&fmt=pjpeg",
+					"price":"$4.99",
+					"brand":"Target"
 				},
 				{
 					"category": "Ailin",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":"",
-					"brand":""
+					"event":"Decorative Baby Pig Ceramic Planter ",
+					"event_url":"https://www.amazon.com/Enkel-Decorative-Ceramic-Succulent-Home/dp/B01M1622QH/ref=sr_1_22?s=lawn-garden&ie=UTF8&qid=1482060868&sr=1-22&keywords=cute+planter",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81xc5YpJErL._SL1500_.jpg",
+					"price":"$12.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Ailin",
@@ -2525,70 +2589,104 @@
 					"event": "Tattoo",
 					"event_url":"https://www.etsy.com/listing/168990036/catch-temporary-tattoo-set-of-2",
 					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.524875950_fgji.jpg",
-					"price":""
+					"price":"",
+					"brand":"Etsy"
 				},
 				{
 					"category": "Misc",
 					"event":"Wine Lip Tint",
 					"event_url":"https://www.amazon.com/CHATEAU-LABIOTTE-Wine-Brand-Shiraz/dp/B01BIPH4Z4/ref=pd_bxgy_121_img_3?_encoding=UTF8&psc=1&refRID=VPRM7P5XTH6F77ZQD87W",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31oHC4k0tKL.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Misc",
 					"event":"Pug Face Mask",
 					"event_url":"https://www.amazon.com/dp/B0146145WW/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=DLGC7ERH70NZ&coliid=I1O5RGI9K4QYWA&th=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71uMm3MSXcL._SL1024_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Misc",
 					"event":"Bunny Planter",
 					"event_url":"https://www.amazon.com/gp/product/B00T6ZQ87O/ref=s9_acsd_al_bw_c_multiyar_1_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=S7H4955AKX7P8VEPKTS2&pf_rd_r=S7H4955AKX7P8VEPKTS2&pf_rd_t=101&pf_rd_p=15e4f6de-10a0-4879-83e8-f8537acdc64b&pf_rd_p=15e4f6de-10a0-4879-83e8-f8537acdc64b&pf_rd_i=15469023011",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81MVmjEJtHL._SL1500_.jpg",
-					"price":"$12.50"
+					"price":"$12.50",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Misc",
 					"event":"Bathbomb",
 					"event_url":"https://www.amazon.com/dp/B010WT7OPW/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=IHYLIZ6P6JPU1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/615No4C4LIL._SX355_.jpg",
-					"price":""
+					"price":"",
+					"brand":"Amazon"
 				},
 				{
-					"category": "Stephanie",
+					"category": "Misc",
 					"event": "Shoot For The Stars Bath Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
-					"price": "$6.95"
+					"price": "$6.95",
+					"brand":"Lush"
 				},
 				{
-					"category": "Emi",
+					"category": "Misc",
 					"event":"Sex Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/sex-bomb/00157.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw0084f5c3/images/product/00157.jpg?sw=300",
-					"price":"$7.95"
+					"price":"$7.95",
+					"brand":"Lush"
+				},
+				{
+					"category": "Misc",
+					"event":"Harney & Sons Green Tea with Thai Flavors 20 ct",
+					"event_url":"http://www.target.com/p/harney-sons-green-tea-with-thai-flavors-20-ct/-/A-14767205?lnk=rec|pdpipadh1|related_prods_vv|pdpipadh1|14767205|3",
+					"event_pic":"http://target.scene7.com/is/image/Target/14767205?wid=450&hei=450&fmt=pjpeg",
+					"price":"$5.99",
+					"brand":"Target"
+				},
+				{
+					"category": "Misc",
+					"event":"Cheeky® Nola 16oz Porcelain Mug",
+					"event_url":"http://www.target.com/p/-/A-50651607",
+					"event_pic":"http://target.scene7.com/is/image/Target/50651607?wid=450&hei=450&fmt=pjpeg",
+					"price":"$4.49",
+					"brand":"Target"
+				},
+				{
+					"category": "Misc",
+					"event":"SheaMoisture Olive & Green Tea Shea Butter Soap",
+					"event_url":"http://www.target.com/p/-/A-14246746",
+					"event_pic":"http://target.scene7.com/is/image/Target/14246746?wid=450&hei=450&fmt=pjpeg",
+					"price":"$4.99",
+					"brand":"Target"
 				},
 				{
 					"category": "Misc",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Misc",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Misc",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		
