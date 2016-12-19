@@ -41,7 +41,11 @@
 			</div>
 			<div class = "col-xs-6 col-md-6">
 					<br><br>
-					<h4> Person: </h4> <h3> {{category}} </h3>
+					<h4> Person: </h4> <h3> {{category}} </h3><br>
+					<h4> Outside Sources: </h4> 
+					{{#each outside_source}}
+					<li><a href="{{source_link}}" target="_blank"> {{source_name}} </a></li>
+					{{/each}}
 			</div> 
 			
 	</div>
