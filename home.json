@@ -564,11 +564,19 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
-					"event_url":"",
-					"event_pic":"",
-					"price": "$",
-					"brand":""
+					"event": "Cable Knit Cold Shoulder Sweater Dress",
+					"event_url":"http://www.charlotterusse.com/cable-knit-cold-shoulder-sweater-dress/302208098.html?dwvar_302208098_color=041&cgid=dresses-weekly-deals",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302208098_041?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$28.99 Sales Price $15.00",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Marled Off-The-Shoulder Sweater Dress",
+					"event_url":"http://www.charlotterusse.com/marled-off-the-shoulder-sweater-dress/302172783.html?dwvar_302172783_color=016&cgid=dresses-weekly-deals",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302172783_016?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$29.99 Sales Price $20.00",
+					"brand":"CharlotteRusse"
 				},
 				{
 					"category": "Stephanie",
@@ -792,6 +800,30 @@
 				},
 				{
 					"category": "Sasha",
+					"event":"Tina Action Figure",
+					"event_url":"https://www.amazon.com/Funko-Animation-Burgers-Action-Figure/dp/B015GMX83C/ref=pd_sim_21_23?_encoding=UTF8&pd_rd_i=B015GMX83C&pd_rd_r=SMPY3AQS4XMNKZ2DFCAH&pd_rd_w=ujhZI&pd_rd_wg=jcLx0&psc=1&refRID=SMPY3AQS4XMNKZ2DFCAH",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51nCkN9E7nL._SL1000_.jpg",
+					"price":"$9.99 ",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Women's Corgi Sock",
+					"event_url":"https://www.amazon.com/Socksmith-Womens-Corgi-Socks-Emerald/dp/B00MX3S3II/ref=cts_ap_1_vtp?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2601945442&pf_rd_r=E1BJKKDHXCV92BQXCAQ2&pd_rd_wg=4x5Gx&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B00MX3S3II&pd_rd_w=d8LNo&pf_rd_i=desktop-detail-softlines&pd_rd_r=E1BJKKDHXCV92BQXCAQ2&_encoding=UTF8",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/615O4WmLAqL._AC_UL200_SR160,200_.jpg",
+					"price":"$9.79",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
+				},
+				{
+					"category": "Sasha",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -814,8 +846,8 @@
 			"category_url": "https://scontent-lax3-1.xx.fbcdn.net/t31.0-8/s960x960/13495510_10206549770238780_9019862902745904585_o.jpg",
 			"outside_source": [
 				{
-					"source_name":"None",
-					"source_link":""
+					"source_name":"Questionare",
+					"source_link":"https://docs.google.com/document/d/1v7rTh4GpMB46KaD6tGIB6caH2aFPVyW7xENhHQ_oLpM/edit?usp=sharing"
 				}
 			],
 			"suggestions": [
@@ -986,6 +1018,46 @@
 					"event_pic":"https://www.tillys.com/tillys/images/catalog/300x300/291316100.jpg",
 					"price":"$12.99",
 					"brand":"Tillys"
+				},
+				{
+					"category": "JFeng",
+					"event":"Bubble Girl Mask Sheet",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=promo-gifts-under-$20&ProductID=1000269431&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00269431-01.jpg",
+					"price":"$5.00",
+					"brand":"Forever21"
+				},
+				{
+					"category": "JFeng",
+					"event":"Hydrating Bubble Mask",
+					"event_url":"http://www.elfcosmetics.com/p/hydrating-bubble-mask",
+					"event_pic":"http://az835686.vo.msecnd.net/images/gallery_large/57021_900px.jpg",
+					"price":"$14.00",
+					"brand":"Forever21"
+				},
+				{
+					"category": "JFeng",
+					"event":" Stay Lit Embroidered Cap",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc_hat&ProductID=2000209564&VariantID=",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00209564-01.jpg",
+					"price":"$9.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "JFeng",
+					"event":"Penguin Earmuff Slippers",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Shoes&productid=2000232836",
+					"event_pic":"http://www.forever21.com/images/default_750/00232836-01.jpg",
+					"price":"$12.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "JFeng",
+					"event":"Body Shop Fuji Green Tea Mini Body Butter",
+					"event_url":"https://www.amazon.com/Body-Shop-Green-Butter-Ounce/dp/B0149HB9LS/ref=sr_1_5_a_it?ie=UTF8&qid=1482392310&sr=8-5&keywords=body+shop+lotion+green+tea",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81tQKF1nlPL._SY355_.jpg",
+					"price":"$9.95",
+					"brand":"Amazon"
 				},
 				{
 					"category": "JFeng",
@@ -1805,11 +1877,43 @@
 				},
 				{
 					"category": "Yvette",
-					"event":"",
-					"price":"",
-					"event_url":"",
-					"event_pic":"",
-					"brand":""
+					"event":"Textured Dress",
+					"price":"$17.99",
+					"event_url":"http://www.hm.com/us/product/56503?article=56503-B#article=56503-C",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/D00%200440311%20003%2042%200622.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[2]&call=url[file:/product/large]",
+					"brand":"H&M"
+				},
+				{
+					"category": "Yvette",
+					"event":"Classic Opaque Tights",
+					"price":"$4.13",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=f21&category=acc_legwear-tights&productid=2000250749",
+					"event_pic":"http://www.forever21.com/images/default_750/00250749-01.jpg",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Yvette",
+					"event":"Off-the-Shoulder Pleated Skater Dress",
+					"price":"$29.99 Sales Price $20.00",
+					"event_url":"http://www.charlotterusse.com/off-the-shoulder-pleated-skater-dress/302194479.html?dwvar_302194479_color=001&cgid=#q=Off%2BThe%2BShoulder%2BSkater%2BDress&lang=default&start=17",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302194479_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"brand":"Charlotte Russe"
+				},
+				{
+					"category": "Yvette",
+					"event":"Scalloped Bib Neck Skater Dress",
+					"price":"$34.99 Sales Price $20.00",
+					"event_url":"http://www.charlotterusse.com/scalloped-bib-neck-skater-dress/302258286.html?dwvar_302258286_color=410&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302258286_410?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"brand":"Charlotte Russe"
+				},
+				{
+					"category": "Yvette",
+					"event":"Scalloped Bib Neck Skater Dress",
+					"price":"$34.99 Sales Price $20.00",
+					"event_url":"http://www.charlotterusse.com/scalloped-bib-neck-skater-dress/302279486.html?dwvar_302279486_color=001&cgid=",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302279486_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Yvette",
@@ -1817,7 +1921,7 @@
 					"price":"",
 					"event_url":"",
 					"event_pic":"",
-					"brand":""
+					"brand":"Charlotte Russe"
 				},
 				{
 					"category": "Yvette",
@@ -2181,6 +2285,20 @@
 				},
 				{
 					"category": "Marvin",
+					"event":"Daenerys Targaryen Vinyl Figure",
+					"event_url":"https://www.amazon.com/Funko-POP-Game-Thrones-Targaryen/dp/B009B0YWDG/ref=pd_sim_21_16?_encoding=UTF8&pd_rd_i=B009B0YWDG&pd_rd_r=FZ7N058753JH43KH1X4T&pd_rd_w=6MAQx&pd_rd_wg=0S5Ty&psc=1&refRID=FZ7N058753JH43KH1X4T",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61qnqLSUP1L._SX355_.jpg",
+					"price":"$6.48 "
+				},
+				{
+					"category": "Marvin",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":""
+				},
+				{
+					"category": "Marvin",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -2400,45 +2518,67 @@
 				},
 				{
 					"category": "Nhung",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
+					"event":"Women's Corgi Sock",
+					"event_url":"https://www.amazon.com/Socksmith-Womens-Corgi-Socks-Emerald/dp/B00MX3S3II/ref=cts_ap_1_vtp?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2601945442&pf_rd_r=E1BJKKDHXCV92BQXCAQ2&pd_rd_wg=4x5Gx&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B00MX3S3II&pd_rd_w=d8LNo&pf_rd_i=desktop-detail-softlines&pd_rd_r=E1BJKKDHXCV92BQXCAQ2&_encoding=UTF8",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/615O4WmLAqL._AC_UL200_SR160,200_.jpg",
+					"price":"$9.79",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Nhung",
+					"event":"Corgi Coloring: Adventures with Scamp",
+					"event_url":"https://www.amazon.com/Corgi-Coloring-Adventures-Katie-Fiete/dp/1539713814/ref=pd_sim_193_5?_encoding=UTF8&psc=1&refRID=QEW6KY8DZMBKS3VDNQDE",
+					"event_pic":"data:image/webp;base64,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",
+					"price":"$8.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Nhung",
+					"event":"Squishable Corgi Plush, 7 inch",
+					"event_url":"https://www.amazon.com/Squishable-Corgi-Plush-White-Mini/dp/B00BWB6J0Q/ref=pd_sim_193_8?_encoding=UTF8&psc=1&refRID=QEW6KY8DZMBKS3VDNQDE",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81V8%2BlW9wVL._SL1500_.jpg",
+					"price":"$19.49",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Nhung",
+					"event":"Welsh Corgi Memo Pad ",
+					"event_url":"https://www.amazon.com/Welsh-Die-cut-Sheets-Designs-Inside/dp/B00TB0VZ0Y/ref=pd_sim_193_21?_encoding=UTF8&psc=1&refRID=QEW6KY8DZMBKS3VDNQDE",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/91%2BzHJKLtHL._SL1500_.jpg",
+					"price":"$10.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Nhung",
+					"event":"Corki Bottle Stopper",
+					"event_url":"https://www.amazon.com/Corki-Bottle-Stopper-by-TrueZoo/dp/B016MDCPG0/ref=pd_sim_193_31?_encoding=UTF8&psc=1&refRID=QEW6KY8DZMBKS3VDNQDE",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31qyMprjWGL.jpg",
+					"price":"$7.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Nhung",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Nhung",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Nhung",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
-				},
-				{
-					"category": "Nhung",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
-				},
-				{
-					"category": "Nhung",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		
@@ -2892,6 +3032,14 @@
 					"event_pic": "https://images-na.ssl-images-amazon.com/images/I/61VzdrFdE-L._SL1000_.jpg",
 					"price":"$11.99",
 					"brand":"Amazon"
+				},
+				{
+					"category": "Xmas Party",
+					"event":"Santa Outfit Sweater Dress",
+					"event_url":"http://www.charlotterusse.com/santa-outfit-sweater-dress/302175114.html?dwvar_302175114_color=642&cgid=dresses-weekly-deals",
+					"event_pic": "http://s7d9.scene7.com/is/image/CharlotteRusse/302175114_642?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price":"$34.99 Sales Price $20.00",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Xmas Party",
