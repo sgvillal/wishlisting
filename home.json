@@ -665,6 +665,22 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Marika Medallion Duvet Set",
+					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=39660725&category=SEARCH+RESULTS",
+					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/39660725_041_f?$mlarge$&defaultImage=",
+					"price": "$79.99",
+					"brand":"urbanoutfitters"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Giraffe Planter",
+					"event_url":"https://www.amazon.com/HEYFAIR-Ceramics-Succulent-Planter-Container/dp/B01N1H22TW/ref=sr_1_123?ie=UTF8&qid=1482841254&sr=8-123&keywords=garden+pots+cute",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/612cNY-TVML._SL1200_.jpg",
+					"price": "9.99  + $6.03 shipping",
+					"brand":""
+				},
+				{
+					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
@@ -982,6 +998,54 @@
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71cKGKsGa2L._SL1000_.jpg",
 					"price":"$14.99",
 					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Turtle Flower Pot",
+					"event_url":"https://www.amazon.com/dp/B01GWA9VDS?psc=1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51FlEcecA7L._SL1000_.jpg",
+					"price":"$9.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":" Turtle Talavera Ceramic Planter",
+					"event_url":"https://www.amazon.com/Peacock-Turtle-Talavera-Ceramic-Planter/dp/B00VVWAHB8/ref=sr_1_63?ie=UTF8&qid=1482837559&sr=8-63&keywords=Ceramic+Turtle+Planter",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/4184bbCwv2L.jpg",
+					"price":"$23.75 + $12.00 shipping",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Turtle Planter and Paintbrush Set ",
+					"event_url":"https://www.amazon.com/Ginormous-Turtle-Planter-Paintbrush-Set/dp/B01MQGEIRA/ref=sr_1_46?ie=UTF8&qid=1482837538&sr=8-46&keywords=Ceramic+Turtle+Planter",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61DRBUMPRjL._SL1420_.jpg",
+					"price":"$24.95",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Animal Ceramic Succulent Plant Holder",
+					"event_url":"https://www.amazon.com/Ceramic-Succulent-Flowerpot-Planter-3-46inches/dp/B01D2UABJE/ref=pd_sbs_86_14?_encoding=UTF8&psc=1&refRID=XCKZ9V0ZJ0G7K5J66P07",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61-8IHN1X9L._SL1000_.jpg",
+					"price":"$12.80",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Planter (sika deer)",
+					"event_url":"https://www.amazon.com/Calunce-Ornament-Succulent-Tabletop-Decorative/dp/B01HREPMJA/ref=sr_1_129?ie=UTF8&qid=1482841905&sr=8-129&keywords=garden%2Bpots%2Bcute&th=1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/611444E4pKL._SL1000_.jpg",
+					"price":"$13.99",
+					"brand":""
+				},
+				{
+					"category": "Sasha",
+					"event":"Bulbasaur Ceramic Succulent",
+					"event_url":"http://www.ebay.com/itm/Pikachu-Pokemon-GO-Bulbasaur-Ceramic-Succulent-Plant-Pot-Min-Vase-Home-Art-Decor/302142032723?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D2220071%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38530%26meid%3D6f801bba46584c49859e10baa28fb69c%26pid%3D100005%26rk%3D6%26rkt%3D6%26sd%3D381881526901",
+					"event_pic":"http://i.ebayimg.com/images/g/0PUAAOSw241YXNg9/s-l1600.jpg",
+					"price":"$10.36 + $6.99",
+					"brand":"Ebay"
 				},
 				{
 					"category": "Sasha",
