@@ -1423,18 +1423,10 @@
 			"suggestions": [
 				{
 					"category": "Sarah",
-					"event":"Doodle Case",
-					"event_url":"http://www.zulily.com/p/doodle-case-for-iphone-44s-215503-29791505.html?pos=146&fromEvent=215503&",
-					"event_pic":"http://mcdn1.zulilyinc.com/images/cache/product/318x1000//148016/zu29791505_main_tm1438967734.jpg",
-					"price":"",
-					"brand":"zulily"
-				},
-				{
-					"category": "Sarah",
 					"event":"Hamsa Tat",
 					"event_url":"https://www.etsy.com/listing/216747801/sealed-temporary-tattoo-set-of-2",
 					"event_pic":"https://img1.etsystatic.com/056/0/7496102/il_570xN.705082647_og37.jpg",
-					"price":"",
+					"price":"$2.99",
 					"brand":"Etsy"
 				},
 				{
@@ -1442,7 +1434,7 @@
 					"event":"Decision Maker",
 					"event_url":"https://www.etsy.com/listing/274336454/list-pad-dilemma-decider-notepad",
 					"event_pic":"https://img1.etsystatic.com/130/1/6872792/il_570xN.995625579_26a4.jpg",
-					"price":"",
+					"price":"$6.24",
 					"brand":"Etsy"
 				},
 				{
@@ -1450,7 +1442,7 @@
 					"event":"Bookworm tat",
 					"event_url":"https://www.etsy.com/listing/173263481/bookworm-temporary-tattoo-set-of-14",
 					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.541255558_poue.jpg",
-					"price":"",
+					"price":"$9.99",
 					"brand":"Etsy"
 				},
 				{
@@ -1458,7 +1450,7 @@
 					"event":"This too Shall pass",
 					"event_url":"https://www.etsy.com/listing/200625178/this-too-shall-pass-temporary-tattoo-set",
 					"event_pic":"https://img0.etsystatic.com/040/0/7496102/il_570xN.642823750_ppf6.jpg",
-					"price":"",
+					"price":"$2.99",
 					"brand":"Etsy"
 				},
 				{
@@ -1466,7 +1458,7 @@
 					"event":"Sloth To-do",
 					"event_url":"https://www.etsy.com/listing/260238451/sloth-to-do-list-sloth-gift-funny-sloth",
 					"event_pic":"https://img0.etsystatic.com/135/1/5117032/il_570xN.937861348_exuv.jpg",
-					"price":"",
+					"price":"$8.00",
 					"brand":"Etsy"
 				},
 				{
@@ -1474,7 +1466,7 @@
 					"event":"Pane Tattoo",
 					"event_url":"https://www.etsy.com/listing/196517096/fly-like-paper-temporary-tattoo-set-of-4",
 					"event_pic":"https://img0.etsystatic.com/028/0/7496102/il_570xN.627787686_5es9.jpg",
-					"price":"",
+					"price":"$2.99",
 					"brand":"Etsy"
 				},
 				{
@@ -1490,7 +1482,7 @@
 					"event":"Coaster",
 					"event_url":"https://www.etsy.com/listing/150106602/cat-coasters-for-cups-set-of-4-fabric",
 					"event_pic":"https://img0.etsystatic.com/059/0/6601502/il_570xN.710545372_9oma.jpg",
-					"price":"",
+					"price":"$15.00",
 					"brand":"Etsy"
 				},
 				{
@@ -1498,7 +1490,7 @@
 					"event":"Wine Lip Tint",
 					"event_url":"https://www.amazon.com/CHATEAU-LABIOTTE-Wine-Brand-Shiraz/dp/B01BIPH4Z4/ref=pd_bxgy_121_img_3?_encoding=UTF8&psc=1&refRID=VPRM7P5XTH6F77ZQD87W",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31oHC4k0tKL.jpg",
-					"price":"",
+					"price":"$11.23",
 					"brand":"Amazon"
 				},
 				{
@@ -1506,7 +1498,7 @@
 					"event":"Calender of Questions",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=40340192&category=GIFTS-UNDER25",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/40340192_000_b?$medium$",
-					"price":"",
+					"price":"$14.99",
 					"brand":"UrbanOutfitters"
 				},
 				{
@@ -1514,7 +1506,7 @@
 					"event":"Game of Phones",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=40202996&category=GIFTS-UNDER25",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/40202996_001_b?$mlarge$&defaultImage=",
-					"price":"",
+					"price":"$22.00",
 					"brand":"UrbanOutfitters"
 				},
 				{
@@ -1522,7 +1514,7 @@
 					"event":"Plushie",
 					"event_url":"https://www.amazon.com/dp/B00BB7YETE/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I2QI1JGQXNFWQK",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/91sq8E37daL._SL1500_.jpg",
-					"price":"",
+					"price":"$14.99",
 					"brand":"Amazon"
 				},
 				{
@@ -1530,7 +1522,7 @@
 					"event":"Words of wisdom",
 					"event_url":"https://www.amazon.com/dp/1441319409/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I317L29LOWKKA8",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/512ji8gDq9L._SX468_BO1,204,203,200_.jpg",
-					"price":"",
+					"price":"$5.95",
 					"brand":"Amazon"
 				},
 				{
@@ -1538,7 +1530,7 @@
 					"event":"Bookmark",
 					"event_url":"https://www.amazon.com/dp/1441317090/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I1V8RHCSL4XQTL",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41Sb50606%2BL._SX193_BO1,204,203,200_.jpg",
-					"price":"",
+					"price":"$12.61",
 					"brand":"Amazon"
 				},
 				{
@@ -1546,7 +1538,7 @@
 					"event":"Beanie",
 					"event_url":"https://www.amazon.com/dp/B00P4NGK02/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I1UGG6CVN7H3H1&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41MgejmAb-L._SL500_SL135_.jpg",
-					"price":"",
+					"price":"$14.95",
 					"brand":"Amazon"
 				},
 				{
@@ -1554,7 +1546,7 @@
 					"event":"Bathbomb",
 					"event_url":"https://www.amazon.com/dp/B010WT7OPW/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=IHYLIZ6P6JPU1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/615No4C4LIL._SX355_.jpg",
-					"price":"",
+					"price":"$8.99",
 					"brand":"Amazon"
 				},
 				{
@@ -1562,7 +1554,7 @@
 					"event":"Journal",
 					"event_url":"https://www.amazon.com/dp/1632170965/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=IGQLXRPIMOTK7",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51pVUFO7PNL._SX322_BO1,204,203,200_.jpg",
-					"price":"",
+					"price":"$11.70",
 					"brand":"Amazon"
 				},
 				{
@@ -1570,7 +1562,7 @@
 					"event":"Planner",
 					"event_url":"https://www.amazon.com/dp/B01G2G7224/ref=gl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I2T1PBVWJKCQ4J&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41C0z0H72wL._AC_SR160,160_.jpg",
-					"price":"",
+					"price":"$20.00",
 					"brand":"Amazon"
 				},
 				{
@@ -1578,24 +1570,16 @@
 					"event":"Decision Maker",
 					"event_url":"https://www.amazon.com/dp/1601061641/ref=gl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I1LJ02XA24IZSP",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51nMzBApu%2BL._SY498_BO1,204,203,200_.jpg",
-					"price":"",
+					"price":"$4.64",
 					"brand":"Amazon"
 				},
 				{
 					"category": "Sarah",
 					"event":"Sloth Onesie",
-					"event_url":"https://www.amazon.com/dp/B00Y338T9Y/ref=gl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=2APWYUXQO91QX&coliid=I28FSVU6A28TE9",
+					"event_url":"https://www.amazon.com/WOTOGOLD-Animal-Cosplay-Costume-Pajamas/dp/B01FZ2PZB6/ref=cts_ap_1_vtp?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2601945442&pf_rd_r=V9ZP8V3T0NV95T2NMB4W&pd_rd_wg=PSB79&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B01FZ2PZB6&pd_rd_w=wsEeU&pf_rd_i=desktop-detail-softlines&pd_rd_r=V9ZP8V3T0NV95T2NMB4W&_encoding=UTF8",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31-h2kG6WgL._SL500_SL135_.jpg",
-					"price":"",
+					"price":"$28.90",
 					"brand":"Amazon"
-				},
-				{
-					"category": "Sarah",
-					"event":"Weekly Planner",
-					"event_url":"http://www.mochithings.com/products/18219?utm_source=pinterest&utm_medium=cpc&utm_campaign=brilliant-weekly-scheduler&utm_term=school-231161393352637442&utm_content=p231161393352637442&pp=1",
-					"event_pic":"http://d2dog1d9ysauaf.cloudfront.net/attachments/f9c25deb51a5467eecd850d447ca1522dc478caa/store/limit_optimized/1000/550/08901e5e0f4a316899e4851e515cab2762be85f3f83b87070b7342e105cf/brilliant-weekly-scheduler.jpg",
-					"price":"",
-					"brand":"Mochi Things"
 				},
 				{
 					"category": "Sarah",
