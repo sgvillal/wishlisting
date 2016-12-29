@@ -1,0 +1,93 @@
+.<!document html>
+<html>
+<head> 
+	<title>Wishlist for {{category}} </title>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet"/>
+	<link href="stylesheets/bootstrap-theme.min.css" rel="stylesheet"/>
+	<link href="stylesheets/home.css" rel="stylesheet"/>
+	
+	<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/public/stylesheets/bootstrap.min.js"></script> -->
+	
+</head>
+
+<body>
+	<div class = "jumbotron app-name page-header">
+		<div class = "container1" >
+			<h1> Wishlisting </h1>
+		</div>
+	</div>
+	
+
+	<div class="col-xs-12 col-md-12">
+
+	<!-- WHERE THE PICTURES START -->
+	<div class = "picturebody container " style = "margin-top: 10px;">
+			<div class = "col-xs-6 col-md-6" >
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.3),
+      					rgba(0, 0, 0, 0.3)),
+     				url({{category_pic}});
+     				background-size: cover">
+					<div class = "caption text-center">
+						<h4> {{category}} </h4>
+					</div>
+				</div>
+			</div>
+			<div class = "col-xs-6 col-md-6">
+					<br>
+					<h4> Location: </h4> <h5> <a href="{{category_url}}" target="_blank"> &nbsp;&nbsp;&nbsp;{{category}} </a> </h5><br>
+					<h4> Distance from Universal: </h4> <h5> &nbsp;&nbsp;&nbsp;{{distance}} </h5><br>
+					<h4> Total Price: </h4> <h5> &nbsp;&nbsp;&nbsp;{{price}} {{guests}} </h5><br>
+					<h4> Room info: </h4> <h6>
+					<li> {{bedrooms}} </li>
+					<li> {{beds}}</li>
+					<li>{{sofas}}</li> 
+					</h6><br>
+			</div> 
+			
+	</div>
+	<br><br>
+	</div>
+
+
+	<hr size="20">
+
+	<div class = "picturebody container" style="margin-top: 10px;">
+			<h1 class="text-center" style="font-family: 'Shadows Into Light', cursive;"> Gift Ideas </h1>
+			{{#each suggestions}}
+			<meta property="og:image" content="{{event_pic}}">
+			<div class = "col-xs-6 col-md-6" >
+				<a href="{{event_url}}" target="_blank">
+				<div class = "thumbnail img-thumbnail  module mid" style="background: 
+    				linear-gradient(
+      					rgba(0, 0, 0, 0.15),
+      					rgba(0, 0, 0, 0.15)),
+     				url({{event_pic}});
+     				background-size: cover" >
+					<div class = "caption text-center">
+						<h4> {{event}} </h4>
+						<h5 style="transform: translate(0%, 750%); color: black; border-style: outset;"> {{brand}} </h5>
+					</div>
+				</div> 
+				</a>
+			</div>	
+			{{/each}}	
+	</div>
+	<br><br>
+
+
+	<!-- 	FOOTER 		-->
+	<nav class = "footer nav navbar-default" >
+		<div class = "container-fluid container2">
+			
+		</div>
+	</nav>
+	<script src="javascripts/button_interactions/homexpand_interaction_air.js"></script>
+</body>
+</html>

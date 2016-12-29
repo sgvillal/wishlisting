@@ -1,6 +1,8 @@
 var data = require('../../home.json');
+var data2 = require('../../airBB.json');
 var buttonIDEncrypt;
 var buttonID1;
+var buttonID;
 exports.view = function (req, res){
 	buttonIDEncrypt = req.query.buttonID;
 	buttonIDArray = buttonIDEncrypt.split("5676890");
@@ -12,6 +14,14 @@ exports.view = function (req, res){
 }
 
 exports.view2 = function (req, res){
+	var buttonID = req.query.buttonID;
+	console.log('homexpand: ' + buttonID);
+	//console.log('data: ' + data['myhomepage']);
+	res.render('homexpanded_airBB', data2.universalAirBB[buttonID]); 
+	// will only send the first element of the array "myhomepage"
+}
+
+exports.view5 = function (req, res){
 	var buttonID = req.query.buttonID;
 	console.log('homevent: ' + req.query['buttonID']);
 	console.log('data: ' + data['myhomepage']);

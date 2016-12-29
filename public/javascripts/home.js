@@ -1,4 +1,5 @@
 var data = require('../../home.json');
+var data2 = require('../../airBB.json');
 
 exports.view = function (req, res){
 	console.log(data);
@@ -7,7 +8,7 @@ exports.view = function (req, res){
 
 exports.view1 = function (req, res){
 	console.log(data);
-	res.render('home1', data);
+	res.render('home_airBB', data2);
 }
 
 

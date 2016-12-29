@@ -35,7 +35,9 @@ router.get('/detail', function(req, res, next) {
 //router.get('/bucketExpanded', bucketlistexpanded.view);
 //router.get('/', login.view);
 router.get('/masterhomepage123', home.view);
+router.get('/Universal_airBB', home.view1);
 router.get('/homeExpanded', homexpanded.view);
+router.get('/homeExpanded2', homexpanded.view2);
 router.get('/homeEvents', homexpanded.view2);
 
 
