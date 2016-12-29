@@ -5,7 +5,8 @@
 			"category_pic":"https://a2.muscache.com/im/pictures/09439a07-3004-471b-8b49-f363b48d2325.jpg?aki_policy=xx_large",
 			"category_url": "https://www.airbnb.com/rooms/4275461?checkin=01%2F06%2F2017&checkout=01%2F07%2F2017&guests=7&adults=7&children=0&infants=0&s=1FqYE7Pj",
 			"distance":"5 minutes",
-			"price":"$298/7 people ",
+			"hood":"",
+			"price":"$298/7peeps = $42 ",
 			"guests":"(can have 4 free guests)",
 			"bedrooms":"3 bedrooms", 
 			"beds":"3 beds, 1 sofa bed", 
@@ -54,7 +55,8 @@
 			"category_pic":"https://a2.muscache.com/im/pictures/3c692ec4-8f0d-43be-a7ac-3d9ddf133b72.jpg?aki_policy=xx_large",
 			"category_url":"https://www.airbnb.com/rooms/16061068?checkin=01%2F06%2F2017&checkout=01%2F07%2F2017&guests=7&adults=7&children=0&infants=0&s=1FqYE7Pj",
 			"distance":"7 minutes",
-			"price":"$230/7 people ",
+			"hood":"",
+			"price":"$230/7peeps = $32 ",
 			"guests":"(extra peeps no charge)",
 			"bedrooms":"2 bedrooms", 
 			"beds":"1 queen bed, 2 twin beds",
@@ -95,7 +97,8 @@
 			"category_pic":"https://a2.muscache.com/im/pictures/268096c5-9402-4c35-b249-751b8b9ab8a9.jpg?aki_policy=xx_large",
 			"category_url": "https://www.airbnb.com/rooms/16323575?checkin=01%2F06%2F2017&checkout=01%2F07%2F2017&guests=7&adults=7&children=0&infants=0&s=QWM6zHpW",
 			"distance":"14 mins (4.9 miles)",
-			"price":"$195/7 people",
+			"hood":"West Hollywood",
+			"price":"$195/7peeps = $28",
 			"guests":"(guests free)",
 			"bedrooms":"3 bedrooms", 
 			"beds":"3 queen beds",
@@ -132,10 +135,79 @@
 			]
 		},
 		{
+			"category": "Luxury Penthouse, 2 bed/2 bath",
+			"category_pic":"https://a0.muscache.com/im/pictures/67591392/9479976c_original.jpg?aki_policy=xx_large",
+			"category_url": "https://www.airbnb.com/rooms/5414714?checkin=01%2F06%2F2017&checkout=01%2F07%2F2017&guests=7&adults=7&children=0&infants=0&s=GiFZFSzo",
+			"distance":"",
+			"hood":"",
+			"price":"$290/7peeps = $41",
+			"guests":"(4 guests free)",
+			"bedrooms":"2 bedrooms", 
+			"beds":"2 queen, 1 full bed",
+			"sofas":" 1 futon, 1 mattress, 1 couch",
+			"suggestions": [
+				{
+					"event":"Bedroom 1",
+					"event_pic": "https://a2.muscache.com/im/pictures/68692399/30c07f4c_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"Bedroom 1",
+					"event_pic": "https://a0.muscache.com/im/pictures/68692433/bf54fc4e_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"Bedroom 1 (futon)",
+					"event_pic": "https://a0.muscache.com/im/pictures/69471014/45fadc9c_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"Bedroom 2 (full bed)",
+					"event_pic": "https://a0.muscache.com/im/pictures/68692465/edd855ee_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"Kitchen",
+					"event_pic": "https://a0.muscache.com/im/pictures/68692576/01aafa0e_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"Living Room",
+					"event_pic": "https://a2.muscache.com/im/pictures/68692542/e2da76a5_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"Living Room2",
+					"event_pic": "https://a0.muscache.com/im/pictures/68692536/9c848edd_original.jpg?aki_policy=x_large"
+				},
+				{
+					"event":"",
+					"event_pic": ""
+				}
+			]
+		},
+		{
 			"category": "",
 			"category_pic":"",
 			"category_url": "",
 			"distance":"",
+			"hood":"",
+			"price":"",
+			"guests":"()",
+			"bedrooms":"", 
+			"beds":"",
+			"sofas":"",
+			"suggestions": [
+				{
+					"event":"",
+					"event_pic": ""
+				},
+				{
+					"event":"",
+					"event_pic": ""
+				}
+			]
+		},
+		{
+			"category": "",
+			"category_pic":"",
+			"category_url": "",
+			"distance":"",
+			"hood":"",
 			"price":"",
 			"guests":"()",
 			"bedrooms":"", 
