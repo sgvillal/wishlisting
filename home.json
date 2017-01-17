@@ -751,6 +751,22 @@
 				},
 				{
 					"category": "Makeup",
+					"event":"Make Me Brow Eyebrow Gel Mascara, 03 Soft Browny Brows",
+					"event_url":"https://www.amazon.com/essence-Eyebrow-Mascara-Browny-Brows/dp/B01D4VA4AW/ref=sr_1_1_a_it?ie=UTF8&qid=1483663260&sr=8-1&keywords=essence+make+me+brow",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71RSlhpaxKL._SY679_.jpg",
+					"price":"$2.99",
+					"brand":"essence"
+				},
+				{
+					"category": "Makeup",
+					"event":"Beautifully Bare Lip Tint - Cheers to Champagne",
+					"event_url":"https://www.amazon.com/e-l-f-Beautifully-Bare-Lip-Tint/dp/B01K3AQFA0/ref=sr_1_6_a_it?ie=UTF8&qid=1483664347&sr=8-6&keywords=elf+lip+tint",
+					"event_pic":"",
+					"price":"$8.72",
+					"brand":"e.l.f."
+				},
+				{
+					"category": "Makeup",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -1046,6 +1062,78 @@
 					"event_pic":"http://i.ebayimg.com/images/g/0PUAAOSw241YXNg9/s-l1600.jpg",
 					"price":"$10.36 + $6.99",
 					"brand":"Ebay"
+				},
+				{
+					"category": "Sasha",
+					"event":"Sprinkler Planter",
+					"event_url":"https://www.amazon.com/dp/B01KNXUGES?th=1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41s5CxAkjKL._SX355_.jpg",
+					"price":"$9.99 & FREE Shipping ",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"https://images.bigcartel.com/product_images/191013700/Pack1_bigcartel.jpg?auto=format&fit=max&h=1000&w=1000",
+					"event_url":"http://spaceplague.bigcartel.com/product/space-bois-sticker-pack",
+					"event_pic":"https://images.bigcartel.com/product_images/191013700/Pack1_bigcartel.jpg?auto=format&fit=max&h=1000&w=1000",
+					"price":"$15.00",
+					"brand":"Space Plague"
+				},
+				{
+					"category": "Sasha",
+					"event":"burdco Homer Pin",
+					"event_url":"https://www.instagram.com/p/BIQRtqEjUAB/?taken-by=burdco",
+					"event_pic":"https://scontent.cdninstagram.com/t51.2885-15/e35/13734335_278557175854810_897651255_n.jpg?ig_cache_key=MTMwMTYxODE5NjY1MDczNzY2NQ%3D%3D.2",
+					"price":"$10 - $3.50 shipping",
+					"brand":"burdco"
+				},
+				{
+					"category": "Sasha",
+					"event":"Space Plague Wizard #5. SOLD",
+					"event_url":"https://www.instagram.com/p/BGz-m4PNiCb/?taken-by=burdco",
+					"event_pic":"https://scontent.cdninstagram.com/t51.2885-15/e35/13391077_1197714283612914_1298980056_n.jpg?ig_cache_key=MTI3NTYzODQ3MDA4NDUzNDQyNw%3D%3D.2",
+					"price":"",
+					"brand":"burdco"
+				},
+				{
+					"category": "Sasha",
+					"event":"Stargaze No Face #6/6. SOLD",
+					"event_url":"https://www.instagram.com/p/BGK5HdytiL7/?taken-by=burdco",
+					"event_pic":"https://scontent.cdninstagram.com/t51.2885-15/e35/13277604_1014479818589680_1603164868_n.jpg?ig_cache_key=MTI2NDA3Mzg0NzEwNzYyNTcyMw%3D%3D.2",
+					"price":"",
+					"brand":"burdco"
+				},
+				{
+					"category": "Sasha",
+					"event":"Neon Sharpies",
+					"event_url":"https://www.amazon.com/Sharpie-Permanent-Markers-Assorted-5-Count/dp/B00BEYXGNY/ref=sr_1_1?ie=UTF8&qid=1484635974&sr=8-1&keywords=Neon+Sharpies",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51ZP9%2BcQknL._SX425_.jpg",
+					"price":"$6.75",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Burdco Notebook (Winsor & Newton Heavyweight)",
+					"event_url":"https://www.amazon.com/Winsor-Newton-Heavy-Weight-Sketch/dp/B000VOF5BO/ref=sr_1_fkmr0_1?ie=UTF8&qid=1484636067&sr=8-1-fkmr0&keywords=Winsor+%26+Newton+Heavy+Weight+Wire-O+Sketch+Book.%22+170gs",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51A3iYJbz2L._SL1000_.jpg",
+					"price":"	$17.00 + $7.49 shipping ",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"Molotow Basic Blackliner Marker Complete Set by Molotow",
+					"event_url":"https://www.amazon.com/Molotow-Basic-Blackliner-Marker-Complete/dp/B00EXFFDX2/ref=sr_1_1?ie=UTF8&qid=1484636240&sr=8-1&keywords=Molotow+Blackliner+set",
+					"event_pic":"https://scontent.cdninstagram.com/t51.2885-15/e35/13188213_699789783495745_1971740204_n.jpg?ig_cache_key=MTI0ODcwOTg4OTU1MTExNDk3MQ%3D%3D.2",
+					"price":"$22.50 + $4.62 shipping ",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Sasha",
+					"event":"#5/5. Approx. 205×205mm. SOLD. (Week of Anniversary 041216)",
+					"event_url":"https://www.instagram.com/p/BEFiCooNiKh/?taken-by=burdco",
+					"event_pic":"https://scontent.cdninstagram.com/t51.2885-15/e35/12328499_842420929201727_974721496_n.jpg?ig_cache_key=MTIyNjUzNjE4ODE3Mjk2ODYwOQ%3D%3D.2",
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Sasha",
@@ -2378,7 +2466,7 @@
 					"brand":"Forever21"
 				},
 				{
-					"category": "Sasha",
+					"category": "Jackie",
 					"event":"BOHO PATTERN IPHONE 6/6S CASE",
 					"event_url":"https://shopchapter24.com/collections/10-under-steals/products/boho-patterned-iphone-6-6s-case",
 					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Boho-Phone-Case.jpg?v=1470249885",
@@ -2418,38 +2506,43 @@
 				},
 				{
 					"category": "Jackie",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":""
+					"event":"2017 BLOGILATES FIT PLANNER",
+					"event_url":"https://www.popflexactive.com/products/2017-blogilates-fit-planner?utm_medium=cpc&utm_source=googlepla&variant=30725996428&gclid=Cj0KEQiAhZPDBRCz642XqYOCpb8BEiQANUcwT0C5dyPPUEyyef0uopWVgO_u6r9eKMEWGNok_pmkBVYaAt2r8P8HAQ",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1089/2102/products/09-EF2A0121_1024x1024.JPG?v=1479338159",
+					"price":"$36.00",
+					"brand":"Pop Flex Active"
 				},
 				{
 					"category": "Jackie",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Jackie",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Jackie",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				},
 				{
 					"category": "Jackie",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
-					"price":""
+					"price":"",
+					"brand":""
 				}
 			]
 		
