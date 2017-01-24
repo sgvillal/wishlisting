@@ -1153,6 +1153,22 @@
 				},
 				{
 					"category": "Sasha",
+					"event":"Solo Jazz Sweater",
+					"event_url":"https://www.rageon.com/products/paper-cup-crewneck-sweatshirt",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0228/8535/products/AOPSS1972U_Paper_Cup_Mockup_1024x1024.jpg?v=1445270997",
+					"price":"$69.99 USD",
+					"brand":"Rage On"
+				},
+				{
+					"category": "Sasha",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
+				},
+				{
+					"category": "Sasha",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
