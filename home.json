@@ -783,6 +783,30 @@
 				},
 				{
 					"category": "Makeup",
+					"event":"Shimmering Skin Perfector® Liquid Highlighter",
+					"event_url":"http://www.sephora.com/shimmering-skin-perfector-spf-25-P375987?skuId=1901867&om_mmc=ppc-GG_652230409_33322554699_dsa-186686683474__140881059288_9060052_c&country_switch=us&lang=en&gclid=Cj0KEQjwldzHBRCfg_aImKrf7N4BEiQABJTPKDtkAkZCOzi3H2tRerGG65zBJ8Pwd1XI5PIbzUNDlSkaAsCp8P8HAQ&gclsrc=aw.ds",
+					"event_pic":"http://www.sephora.com/productimages/sku/s1901867-main-Lhero.jpg",
+					"price":"$41",
+					"brand":"Sephora"
+				},
+				{
+					"category": "Makeup",
+					"event":"MakeupForever - Ultra HD Invisible Cover",
+					"event_url":"http://www.sephora.com/ultra-hd-invisible-cover-foundation-P398321?om_mmc=ppc-GG_704370616_36229718549_aud-261422035151%3Adsa-183315867412__161946791904_9060052_c&publisher_id=255779&sub_publisher=g&gdevice=c&sub_campaign=704370616&gclid=Cj0KEQjwldzHBRCfg_aImKrf7N4BEiQABJTPKPsIZdqyp1Zq8Mkwx9H5XSStz447RGCvhzbPdcFjstAaAmRi8P8HAQ&site=_search&lang=en&gclsrc=aw.ds&sub_ad=161946791904&skuId=1709054",
+					"event_pic":"http://www.sephora.com/productimages/sku/s1709054-main-Lhero.jpg",
+					"price":"$43",
+					"brand":"Sephora"
+				},
+				{
+					"category": "Makeup",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
+				},
+				{
+					"category": "Makeup",
 					"event":"",
 					"event_url":"",
 					"event_pic":"",
@@ -1277,7 +1301,7 @@
 					"event_url":"http://www.ebay.com/itm/Rick-Morty-t-shirt-All-Over-printed-Rick-tee-geek-funny-image-Schwifty-print-/152349846843?var=&hash=item2378c22d3b:m:m4TfNuELBN6qQJ9T38L-kMw",
 					"event_pic":"http://i.ebayimg.com/images/g/x4MAAOSwEzxYSp4c/s-l1600.jpg",
 					"price":"$24.70 + $6.30",
-					"brand":""
+					"brand":"Ebay"
 				},
 				{
 					"category": "Sasha",
@@ -1285,7 +1309,15 @@
 					"event_url":"http://www.ebay.com/itm/Cosmic-DJ-t-shirt-rave-EDM-clothes-cool-tee-for-party-night-city-people/162365431796?_trksid=p2045573.c100507.m3226&_trkparms=aid%3D555014%26algo%3DPL.DEFAULT%26ao%3D1%26asc%3D41376%26meid%3Dff6ab8ccbef24521ba9300fbd2cd870b%26pid%3D100507%26rk%3D1%26rkt%3D1%26",
 					"event_pic":"http://i.ebayimg.com/images/g/vDIAAOSwopRYgfw8/s-l1600.jpg",
 					"price":"$24.70 + $6.30",
-					"brand":""
+					"brand":"Ebay"
+				},
+				{
+					"category": "Sasha",
+					"event":"Men's Tropical Dress Socks",
+					"event_url":"https://www.amazon.com/Tropical-Island-Hibiscus-Floral-Flowers/dp/B01NH50GQT/ref=sr_1_1?s=apparel&rps=1&ie=UTF8&qid=1494291336&sr=1-1&nodeID=7147441011&psd=1&keywords=mens+socks+hibiscus&refinements=p_76%3A2661625011",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41ULGJ0ihZL._AC_UL260_SR200,260_.jpg",
+					"price":"$14.95",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
@@ -1303,6 +1335,25 @@
 					"price":"",
 					"brand":""
 				}
+,
+				{
+					"category": "Sasha",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
+				}
+,
+				{
+					"category": "Sasha",
+					"event":"",
+					"event_url":"",
+					"event_pic":"",
+					"price":"",
+					"brand":""
+				}
+
 
 			]
 		
