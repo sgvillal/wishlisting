@@ -16,6 +16,28 @@
 			"suggestions": [
 				{
 					"category": "Stephanie",
+					"event": "JBL Pulse 2",
+					"event_url":"http://www.jbl.com/bluetooth-speakers/JBL+PULSE+2.html?dwvar_JBL%20PULSE%202_color=Black#q=Portable%2BBluetooth%2Bspeaker&start=1",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
+					"price": "$199.95",
+					"brand":"JBL"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Colourpop: Tulle",
+					"event_url":"https://colourpop.com/products/tulle",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Tulle_36013a88-7724-4d8c-b93f-79275aece1ce_1024x1024.jpeg?v=1465843687",
+					"price": "$6.00",
+					"brand":"Colourpop"
+				},
+
+
+
+
+
+
+				{
+					"category": "Stephanie",
 					"event":"Signature Series ITX-2000",
 					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/ITX-2000.html?dwvar_ITX-2000_color=Black",
 					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50131943/YBSSSSIX02SILAM_SS_ITX-2000_1_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
@@ -32,14 +54,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "JBL Pulse 2",
-					"event_url":"http://www.jbl.com/bluetooth-speakers/JBL+PULSE+2.html?dwvar_JBL%20PULSE%202_color=Black#q=Portable%2BBluetooth%2Bspeaker&start=1",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
-					"price": "$199.95",
-					"brand":"JBL"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Polariod Printer",
 					"event_url":"http://www.target.com/p/polaroid-zip-instant-mobile-printer/-/A-17268904",
 					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
@@ -48,58 +62,10 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Colourpop: Calypso",
-					"event_url":"https://colourpop.com/products/gypsy",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Satin-_Gypsy_1024x1024.png?v=1473877198",
-					"price": "$6.00",
-					"brand":"Colourpop"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Colourpop: Tulle",
-					"event_url":"https://colourpop.com/products/tulle",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Tulle_36013a88-7724-4d8c-b93f-79275aece1ce_1024x1024.jpeg?v=1465843687",
-					"price": "$6.00",
-					"brand":"Colourpop"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Colourpop: Notion",
-					"event_url":"https://colourpop.com/products/notion",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Notion_1024x1024.jpg?v=1474924243",
-					"price": "$6.00",
-					"brand":"Colourpop"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Colourpop: Bumble",
-					"event_url":"https://colourpop.com/products/bumble",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Bumble_03986df0-905e-49da-9010-6db5fe2a1f03_1024x1024.jpeg?v=1468954458",
-					"price": "$6.00",
-					"brand":"Colourpop"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heart LED",
-					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=38667556&category=GIFT_HERFAVS",
-					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/38667556_066_b?$mlarge$&defaultImage=",
-					"price": "$129.00",
-					"brand":"UrbanOutfitters"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Scratch Map",
 					"event_url":"https://www.amazon.com/dp/B01LRLEWJU/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=308YWL1F6VWGM&coliid=I1WEGZT3H32C8G",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71nenRs5jVL._SL1500_.jpg",
 					"price": "$35.00",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Phone case",
-					"event_url":"https://www.amazon.com/Iphone-IiEXCEL-Marble-Pattern-Flexible/dp/B01AXMUKZE/ref=sr_1_4?s=wireless&ie=UTF8&qid=1480286301&sr=1-4&keywords=marble+5s+case",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51MZ%2B2oi%2BZL._SL1001_.jpg",
-					"price": "$8.45",
 					"brand":"Amazon"
 				},
 				{
@@ -128,34 +94,10 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Moon Tattoo",
-					"event_url":"https://www.etsy.com/listing/468383894/set-of-two-moon-phase-temporary-tattoos?ref=related-3",
-					"event_pic":"https://img1.etsystatic.com/104/1/9118558/il_570xN.1098251447_owrk.jpg",
-					"price": "$4.00",
-					"brand":"Etsy"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Table Space Saving Bottle Hanger",
-					"event_url":"http://www.uncommongoods.com/product/table-space-saving-bottle-hanger",
-					"event_pic":"http://www.uncommongoods.com/images/items/42600/42603_1_360px.jpg",
-					"price": "$12.00",
-					"brand":"uncommongoods"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Heels",
 					"event_url":"http://www.payless.com/womens-layla-front-zip-heel/77338.html?dwvar_77338_color=silver",
 					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dweff9107a/images/hi-res/162730_6_1400x1400.jpg?sw=556",
 					"price": "$34.99",
-					"brand":"Payless"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heels",
-					"event_url":"http://www.payless.com/womens-sadee-high-wedge-sandal/77378.html?dwvar_77378_color=black",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw0c30fcd5/images/hi-res/162762_6_1400x1400.jpg?sw=556",
-					"price": "$29.99",
 					"brand":"Payless"
 				},
 				{
@@ -165,30 +107,6 @@
 					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw2d878927/images/hi-res/163569_6_1400x1400.jpg?sw=556",
 					"price": "$29.99",
 					"brand":"Payless"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heels ",
-					"event_url":"http://www.payless.com/womens-tansy-high-wedge/77775.html?dwvar_77775_color=black",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw42273e2c/images/hi-res/163626_6_1400x1400.jpg?sw=556",
-					"price": "$29.99",
-					"brand":"Payless"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Press on Nails",
-					"event_url":"http://www.refinery29.com/2016/12/131629/makeup-artist-hairstylist-product-recommendations#slide-40",
-					"event_pic":"http://s1.r29static.com//bin/entry/084/x/1703863/image.gif",
-					"price": "$5.99",
-					"brand":"refinery29"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Ribbed Twist-Front Headwrap",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc_hair&ProductID=1000209508&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00209508-01.jpg",
-					"price": "$3.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -208,26 +126,18 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Press on Nails",
+					"event_url":"http://www.refinery29.com/2016/12/131629/makeup-artist-hairstylist-product-recommendations#slide-40",
+					"event_pic":"http://s1.r29static.com//bin/entry/084/x/1703863/image.gif",
+					"price": "$5.99",
+					"brand":"refinery29"
+				},
+				{
+					"category": "Stephanie",
 					"event": "Embroidered Knit Bomber Jacket",
 					"event_url":"http://www.charlotterusse.com/varsity-stripe-embroidered-knit-bomber-jacket/302285263.html?dwvar_302285263_color=001&cgid=shop-all-new",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302285263_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
 					"price": "$25.34 SALE($20)",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event":"Patched Varsity Stripe Boyfriend Cardigan",
-					"price":"$18.84",
-					"event_url":"http://www.charlotterusse.com/patched-varsity-stripe-boyfriend-cardigan/302241024.html?dwvar_302241024_color=006&cgid=clothes",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302241024_006?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Belted Mixed Stitch Cardigan Sweater",
-					"event_url":"http://www.charlotterusse.com/belted-mixed-stitch-cardigan-sweater/302198924.html?dwvar_302198924_color=232&cgid=clothes",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302198924_232?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$18.84",
 					"brand":"CharlotteRusse"
 				},
 				{
@@ -248,43 +158,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Glittery Dress",
-					"event_url":"http://www.hm.com/us/product/58106?article=58106-B",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0147_022R.jpg]&set=key[rotate],value[0.05]&set=key[width],value[3932]&set=key[height],value[4597]&set=key[x],value[494]&set=key[y],value[351]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$29.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Suade Skirt",
 					"event_url":"http://www.hm.com/us/product/49684?article=49684-C&cm_vc=SEARCH",
 					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7NZ_2247_004R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3600]&set=key[height],value[4209]&set=key[x],value[852]&set=key[y],value[496]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
 					"price": "$24.99",
 					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Suede Wedges(black)",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Shoes&productid=2000230624",
-					"event_pic":"http://www.forever21.com/images/1_front_330/00230624-01.jpg",
-					"price": "$29.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Corduroy Buttoned Skirt",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms_skirt&ProductID=2000182243&VariantID=",
-					"event_pic":"http://www.forever21.com/images/5_detail_750/00182243-04.jpg",
-					"price": "$19.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Corduroy Button-Down Mini Skirt",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms_skirt&ProductID=2000237367&VariantID=",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00237367-03.jpg",
-					"price": "$17.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -320,139 +198,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Off-the-shoulder Top",
-					"event_url":"http://www.hm.com/us/product/58147?article=58147-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7OZ_0187_021R.jpg]&set=key[rotate],value[-0.15]&set=key[width],value[3724]&set=key[height],value[4355]&set=key[x],value[865]&set=key[y],value[167]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
-					"price": "$12.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Slim-fit Pants",
-					"event_url":"http://www.hm.com/us/product/81801?article=81801-P",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200304946%20027%2042%201074.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$12.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Joggers",
-					"event_url":"http://www.hm.com/us/product/60322?article=60322-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200470146%20001%2014%200746.jpg]&set=key[rotate],value[0.65]&set=key[width],value[1298]&set=key[height],value[1518]&set=key[x],value[445]&set=key[y],value[110]&set=key[type],value[DETAIL]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$12.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Velour and Lace Dress",
-					"event_url":"http://www.hm.com/us/product/60119?article=60119-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7XZ_0009_013R.jpg]&set=key[rotate],value[0.05]&set=key[width],value[3829]&set=key[height],value[4477]&set=key[x],value[672]&set=key[y],value[583]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$29.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Swimsuit",
-					"event_url":"http://www.hm.com/us/product/54501?article=54501-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7SZ_0042_003R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3692]&set=key[height],value[4317]&set=key[x],value[735]&set=key[y],value[262]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$34.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Fine-knit Cardigan",
-					"event_url":"http://www.hm.com/us/product/53418?article=53418-B",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7NZ_5255_013R.jpg]&set=key[rotate],value[-0.2]&set=key[width],value[3703]&set=key[height],value[4330]&set=key[x],value[795]&set=key[y],value[232]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
-					"price": "$24.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Patterned Bomber Jacket",
-					"event_url":"http://www.hm.com/us/product/54295?article=54295-E",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/D00%200427617%20004%2036%202838.jpg]&set=key[rotate],value[-1]&set=key[width],value[1437]&set=key[height],value[1680]&set=key[x],value[885]&set=key[y],value[184]&set=key[type],value[DETAIL]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$29.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Short Turtleneck Top",
-					"event_url":"http://www.hm.com/us/product/88067?article=88067-D&cm_vc=SEARCH",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2015/B00%200273524%20008%2057%200140.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[2]&call=url[file:/product/large]",
-					"price": "$7.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Belted Trench Coat",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=outerwear_coats-and-jackets&productid=2000212722",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00212722-02.jpg",
-					"price": "$29.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Stripe Open-Shoulder Crop Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000230807",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00230807-02.jpg",
-					"price": "$12.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Ribbed Knit Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=sweater&ProductID=2000198810&VariantID=&recid=product5_rr-_-62;-_-2000198810-_-1574-_-5",
-					"event_pic":"http://www.forever21.com/images/2_side_750/00198810-06.jpg",
-					"price": "$17.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heathered Knit Skater Dress",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=dress&productid=2000232006",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00232006-04.jpg",
-					"price": "$12.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Stretch-Knit Skater Dress",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=women-features&ProductID=2000193657&VariantID=&recid=product5_rr-_-06;-_-2000193657-_-1574-_-3",
-					"event_pic":"http://www.forever21.com/images/2_side_750/00193657-06.jpg",
-					"price": "$9.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Thug Life Flowers Doormat ",
-					"event_url":"https://www.amazon.com/dp/B01EMMM4DW/ref=strm_fn_nad_58_1",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51bUTYqVESL._SY355_.jpg",
-					"price": "$9.20",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Shoot For The Stars Bath Bomb",
 					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
 					"price": "$6.95",
 					"brand":"Lust"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Ribbed Dolman Cropped Sweater",
-					"event_url":"http://www.charlotterusse.com/ribbed-dolman-cropped-sweater/302259389.html?dwvar_302259389_color=502&cgid=tops",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302259389_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$21.99",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Shaker Stitch Varsity Stripe Sweater",
-					"event_url":"http://www.charlotterusse.com/shaker-stitch-varsity-stripe-sweater/302244238.html?dwvar_302244238_color=1105&cgid=tops",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302244238_1105?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$20.00",
-					"brand":"CharlotteRusse"
 				},
 				{
 					"category": "Stephanie",
@@ -474,25 +224,9 @@
 					"category": "Stephanie",
 					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
 					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
-					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/Womens_Kenze_Off_Shoulder_Crop_Top_-_Black_-_4_grande.jpg?v=1476895616",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/TEP_Product_Kenze-1210108_copywomens-off-the-shoulder-crop-top-black-elephant-2_grande.jpg?v=1486577855",
 					"price": "$18",
 					"brand":"The Elephant Pants"
-				},
-				{
-					"category": "Stephanie",
-					"event": "TEGAN LACE STRAPPY BACK BRALETTE",
-					"event_url":"https://shopchapter24.com/collections/new-arrivals/products/tegan-lace-strappy-back-bralette?variant=31505728003",
-					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/5958902_AMY160812OJ01-GREY-D-2.jpg?v=1481227504",
-					"price": "$11.99",
-					"brand":"Chapter24"
-				},
-				{
-					"category": "Stephanie",
-					"event": "OPHELIA STRAPPY LACE BRALETTE(Black)",
-					"event_url":"https://shopchapter24.com/collections/best-sellers/products/ophelia-strappy-lace-bralette?variant=11101469251",
-					"event_pic":"https://cdn.shopify.com/s/files/1/0690/3889/products/Ophelia_Model.jpg?v=1464365553",
-					"price": "$14.99",
-					"brand":"Chapter24"
 				},
 				{
 					"category": "Stephanie",
@@ -508,38 +242,6 @@
 					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses-three-quarter&ProductID=2000214729&VariantID=",
 					"event_pic":"http://www.forever21.com/images/1_front_750/00214729-04.jpg",
 					"price": "$17.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tasseled Poncho",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=sweater&ProductID=2000214453&VariantID=&recid=product5_rr-_-77;-_-2000214453-_-1574-_-5",
-					"event_pic":"http://www.forever21.com/images/default_750/00214453-05.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Ribbed Knit Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=sweater&ProductID=2000198810&VariantID=&recid=product5_rr-_-62;-_-2000198810-_-1574-_-5",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00198810-06.jpg",
-					"price": "$17.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "I Lava You Graphic Socks",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=2000208258&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00208258-01.jpg",
-					"price": "$1.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Men Rock On Baseball Cap",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=2000192029&VariantID=",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00192029-01.jpg",
-					"price": "$9.90",
 					"brand":"Forever21"
 				},
 				{
@@ -560,22 +262,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Caged Platform Dress Sandals",
-					"event_url":"http://www.charlotterusse.com/caged-platform-dress-sandals/302211015.html?dwvar_302211015_color=001&cgid=shop-all-new",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302211015_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$38.99 Sales Price $20.00",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Cable Knit Cold Shoulder Sweater Dress",
-					"event_url":"http://www.charlotterusse.com/cable-knit-cold-shoulder-sweater-dress/302208098.html?dwvar_302208098_color=041&cgid=dresses-weekly-deals",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302208098_041?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$28.99 Sales Price $15.00",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Marled Off-The-Shoulder Sweater Dress",
 					"event_url":"http://www.charlotterusse.com/marled-off-the-shoulder-sweater-dress/302172783.html?dwvar_302172783_color=016&cgid=dresses-weekly-deals",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302172783_016?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
@@ -584,26 +270,10 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Neogen Dermalogy Bio-Peel Gauze Peeling Wine",
-					"event_url":"https://www.amazon.com/Neogen-Dermalogy-Bio-Peel-Gauze-Peeling/dp/B019RTEKO6/ref=sr_1_1_a_it?ie=UTF8&qid=1482483830&sr=8-1&keywords=neogen+dermalogy+bio-peel+gauze+peeling+wine",
-					"event_pic":"https://typeset-beta.imgix.net/2016/11/2/peel-9160287f-a961-42dc-89f3-f2be3a9c5728.jpg?w=740&h=652&fit=crop&crop=faces&auto=format&q=70",
-					"price": "$18.68",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Innisfree Green Tea Pure Cleansing Foam",
 					"event_url":"https://www.amazon.com/Innisfree-Green-Pure-Cleansing-150Ml/dp/B0119Q9FYU/ref=cm_wl_huc_item",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/411pLx86XML._SX425_.jpg",
 					"price": "$8.46",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Aoyoho 8pcs Fake Septum Clicker Nose Hoop Ring Non Piercing Clip",
-					"event_url":"https://www.amazon.com/Aoyoho-8pcs-Septum-Clicker-Piercing/dp/B01HWDDJ9G/ref=pd_sbs_201_2?_encoding=UTF8&psc=1&refRID=7Q3Y9VGENFXGJQNH8QB6",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61STuNASmjL._SL1000_.jpg",
-					"price": "$6.29",
 					"brand":"Amazon"
 				},
 				{
@@ -632,14 +302,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Seamless Skull Mask Pack of 3",
-					"event_url":"https://www.amazon.com/WOVTE-Black-Seamless-Skull-Face/dp/B011NSMVZ4/ref=cts_ap_1_vtp?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2601945442&pf_rd_r=G6RBZ5HB0BFKBNXAHNHT&pd_rd_wg=vEw0o&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B011NSMS3E&pd_rd_w=ZI13O&pf_rd_i=desktop-detail-softlines&pd_rd_r=G6RBZ5HB0BFKBNXAHNHT&_encoding=UTF8&th=1",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61jyeD6mw8L._SL1000_.jpg",
-					"price": "$7.99 (2 for $5.99)",
-					"brand":""
-				},
-				{
-					"category": "Stephanie",
 					"event": "LIQUID LIPSTICK - KATHRYN",
 					"event_url":"http://www.anastasiabeverlyhills.com/liquid-lipstick/liquid-lipstick.html?dwvar_liquid-lipstick_color=Pure%20Hollywood&cgid=makeup-lips#start=1&cgid=makeup-lips",
 					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/BBLL_PRD/on/demandware.static/-/Sites-anastasia-master-catalog/default/dw602c1da9/images/products/Lips/Liquid%20Lipstick/Kathryn/liquid-lipstick-kathryn.jpg?sw=1350&sh=1000&sm=fit",
@@ -657,27 +319,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Berrisom Oops Soda Bubble Mask",
-					"event_url":"https://www.amazon.com/Berrisom-Oops-Soda-Bubble-Mask/dp/B01A7YIGQ8/ref=sr_1_fkmr0_1_a_it?ie=UTF8&qid=1482756443&sr=8-1-fkmr0&keywords=bubble+Mask+Sheet+soda+carbonated",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61wm5atNmML._SY355_.jpg",
-					"price": "$14.55",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Marika Medallion Duvet Set",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=39660725&category=SEARCH+RESULTS",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/39660725_041_f?$mlarge$&defaultImage=",
 					"price": "$79.99",
 					"brand":"urbanoutfitters"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Giraffe Planter",
-					"event_url":"https://www.amazon.com/HEYFAIR-Ceramics-Succulent-Planter-Container/dp/B01N1H22TW/ref=sr_1_123?ie=UTF8&qid=1482841254&sr=8-123&keywords=garden+pots+cute",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/612cNY-TVML._SL1200_.jpg",
-					"price": "9.99  + $6.03 shipping",
-					"brand":""
 				},
 				{
 					"category": "Stephanie",
@@ -689,11 +335,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
-					"event_url":"",
-					"event_pic":"",
-					"price": "$",
-					"brand":""
+					"event": "She Pressed Powder Shadow Palette",
+					"event_url":"https://colourpop.com/products/she?utm_campaign=Fem+Rosa+RESTOCK+%2B+New+New+%28HGHFUA%29&utm_medium=email&_ke=b29rYW1pc3RlcGhAZ21haWwuY29t&utm_source=Engaged+Segment#",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/she_a_1024x1024.jpg?v=1499902137",
+					"price": "$16.00",
+					"brand":"Colourpop"
 				},
 				{
 					"category": "Stephanie",
@@ -1213,18 +859,18 @@
 				},
 				{
 					"category": "Sasha",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":"",
-					"brand":""
+					"event":"Fallout Nuka Cola Hat",
+					"event_url":"https://www.amazon.com/Nuka-Cola-Fallout-Hat/dp/B01AMJBDXG/ref=sr_1_4?ie=UTF8&qid=1500581467&sr=8-4&keywords=nuka+cola",
+					"event_pic":"data:image/webp;base64,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",
+					"price":"$15.98",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Sasha",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":"",
+					"event":"Fallout Nuka Cola Machine Mini Refrigerator",
+					"event_url":"https://www.amazon.com/Fallout-Nuka-Cola-Machine-Refrigerator/dp/B0732KCRGB/ref=sr_1_3?ie=UTF8&qid=1500581467&sr=8-3&keywords=nuka+cola",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51jdgkgZ1DL.jpg",
+					"price":"$224.99 + $10.49 shipping",
 					"brand":""
 				}
 ,
