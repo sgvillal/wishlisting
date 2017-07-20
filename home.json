@@ -46,6 +46,40 @@
 					"price": "$16.00",
 					"brand":"Colourpop"
 				},
+								{
+					"category": "Stephanie",
+					"event": "Innisfree Green Tea Pure Cleansing Foam",
+					"event_url":"https://www.amazon.com/Innisfree-Green-Pure-Cleansing-150Ml/dp/B0119Q9FYU/ref=cm_wl_huc_item",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/411pLx86XML._SX425_.jpg",
+					"price": "$8.46",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "White Marble Keyboard Cover",
+					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=41106162&category=GIFT_HERFAVS",
+					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/41106162_010_b?$mlarge$&defaultImage=",
+					"price": "$12 • +20% off",
+					"brand":"UrbanOutfitters"
+				},
+								{
+					"category": "Stephanie",
+					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
+					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/TEP_Product_Kenze-1210108_copywomens-off-the-shoulder-crop-top-black-elephant-2_grande.jpg?v=1486577855",
+					"price": "$18",
+					"brand":"The Elephant Pants"
+				},
+							{
+					"category": "Stephanie",
+					"event": "Embroidered Knit Bomber Jacket",
+					"event_url":"http://www.charlotterusse.com/varsity-stripe-embroidered-knit-bomber-jacket/302285263.html?dwvar_302285263_color=001&cgid=shop-all-new",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302285263_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$25.34 SALE($20)",
+					"brand":"CharlotteRusse"
+				},
+
+				
 
 
 
@@ -123,14 +157,6 @@
 					"event_pic":"http://s1.r29static.com//bin/entry/084/x/1703863/image.gif",
 					"price": "$5.99",
 					"brand":"refinery29"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Embroidered Knit Bomber Jacket",
-					"event_url":"http://www.charlotterusse.com/varsity-stripe-embroidered-knit-bomber-jacket/302285263.html?dwvar_302285263_color=001&cgid=shop-all-new",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302285263_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$25.34 SALE($20)",
-					"brand":"CharlotteRusse"
 				},
 				{
 					"category": "Stephanie",
@@ -214,14 +240,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
-					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
-					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/TEP_Product_Kenze-1210108_copywomens-off-the-shoulder-crop-top-black-elephant-2_grande.jpg?v=1486577855",
-					"price": "$18",
-					"brand":"The Elephant Pants"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Hollow Flower Earrings",
 					"event_url":"https://eliterepublik.com/products/hollow-flower-earrings",
 					"event_pic":"https://cdn.shopify.com/s/files/1/1539/5055/products/a757d6efece9404589f1df58bd37a1d5_1024x1024.png?v=1479918421",
@@ -251,30 +269,6 @@
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302243791_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
 					"price": "$30.99 (Curr $20)",
 					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Marled Off-The-Shoulder Sweater Dress",
-					"event_url":"http://www.charlotterusse.com/marled-off-the-shoulder-sweater-dress/302172783.html?dwvar_302172783_color=016&cgid=dresses-weekly-deals",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302172783_016?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$29.99 Sales Price $20.00",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Innisfree Green Tea Pure Cleansing Foam",
-					"event_url":"https://www.amazon.com/Innisfree-Green-Pure-Cleansing-150Ml/dp/B0119Q9FYU/ref=cm_wl_huc_item",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/411pLx86XML._SX425_.jpg",
-					"price": "$8.46",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
-					"event": "White Marble Keyboard Cover",
-					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=41106162&category=GIFT_HERFAVS",
-					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/41106162_010_b?$mlarge$&defaultImage=",
-					"price": "$12 • +20% off",
-					"brand":"UrbanOutfitters"
 				},
 				{
 					"category": "Stephanie",
