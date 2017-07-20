@@ -30,36 +30,28 @@
 					"price": "$6.00",
 					"brand":"Colourpop"
 				},
-
-
-
-
-
-
 				{
 					"category": "Stephanie",
-					"event":"Signature Series ITX-2000",
-					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/ITX-2000.html?dwvar_ITX-2000_color=Black",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50131943/YBSSSSIX02SILAM_SS_ITX-2000_1_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
-					"price": "$59.99",
-					"brand":"JBL"
+					"event":"Sheriff of Nottingham",
+					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
+					"price":"$22.99",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Stephanie",
-					"event": "Inspire 300",
-					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/IRONMAN+INSPIRE+TALK+SPORT.html?dwvar_IRONMAN%20INSPIRE%20TALK%20SPORT_color=White",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6bfb7f25/YB_Ironman_Inspire_Talk_Sport_White_001_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
-					"brand":"JBL"
-					
+					"event": "She Pressed Powder Shadow Palette",
+					"event_url":"https://colourpop.com/products/she?utm_campaign=Fem+Rosa+RESTOCK+%2B+New+New+%28HGHFUA%29&utm_medium=email&_ke=b29rYW1pc3RlcGhAZ21haWwuY29t&utm_source=Engaged+Segment#",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/she_a_1024x1024.jpg?v=1499902137",
+					"price": "$16.00",
+					"brand":"Colourpop"
 				},
-				{
-					"category": "Stephanie",
-					"event": "Polariod Printer",
-					"event_url":"http://www.target.com/p/polaroid-zip-instant-mobile-printer/-/A-17268904",
-					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
-					"price": "129.99",
-					"brand":"Target"
-				},
+
+
+
+
+
+
 				{
 					"category": "Stephanie",
 					"event": "Scratch Map",
@@ -327,19 +319,27 @@
 				},
 				{
 					"category": "Stephanie",
-					"event":"Sheriff of Nottingham",
-					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
-					"price":"$22.99",
-					"brand":"Amazon"
+					"event":"Signature Series ITX-2000",
+					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/ITX-2000.html?dwvar_ITX-2000_color=Black",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50131943/YBSSSSIX02SILAM_SS_ITX-2000_1_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
+					"price": "$59.99",
+					"brand":"JBL"
 				},
 				{
 					"category": "Stephanie",
-					"event": "She Pressed Powder Shadow Palette",
-					"event_url":"https://colourpop.com/products/she?utm_campaign=Fem+Rosa+RESTOCK+%2B+New+New+%28HGHFUA%29&utm_medium=email&_ke=b29rYW1pc3RlcGhAZ21haWwuY29t&utm_source=Engaged+Segment#",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/she_a_1024x1024.jpg?v=1499902137",
-					"price": "$16.00",
-					"brand":"Colourpop"
+					"event": "Inspire 300",
+					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/IRONMAN+INSPIRE+TALK+SPORT.html?dwvar_IRONMAN%20INSPIRE%20TALK%20SPORT_color=White",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6bfb7f25/YB_Ironman_Inspire_Talk_Sport_White_001_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
+					"brand":"JBL"
+					
+				},
+				{
+					"category": "Stephanie",
+					"event": "Polariod Printer",
+					"event_url":"http://www.target.com/p/polaroid-zip-instant-mobile-printer/-/A-17268904",
+					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
+					"price": "129.99",
+					"brand":"Target"
 				},
 				{
 					"category": "Stephanie",
