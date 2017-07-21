@@ -1065,6 +1065,14 @@
 			"suggestions": [
 				{
 					"category": "Sarah",
+					"event":"GoPro HERO Session",
+					"event_url":"https://www.amazon.com/GoPro-CHDHS-102-HERO-Session/dp/B01C80O0ZU/ref=sr_1_5?s=photo&ie=UTF8&qid=1500371585&sr=1-5&keywords=gopro",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71zUlQxkpQL._SL1500_.jpg",
+					"price":"$149.00",
+					"brand":""
+				},
+				{
+					"category": "Sarah",
 					"event": "Sheer Wrap Crop Top",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000175711",
 					"event_pic":"http://www.forever21.com/images/4_full_750/00175711-01.jpg",
