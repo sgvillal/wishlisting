@@ -176,10 +176,34 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
-					"event_url":"",
-					"event_pic":"",
-					"price": "$",
+					"event": "Off-the-Shoulder Floral Dress",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000158810&VariantID=",
+					"event_pic":"http://www.forever21.com/images/3_back_750/00158810-01.jpg",
+					"price": "$24.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Abstract Tulip Maxi Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=bottoms&ProductID=2000192980&VariantID=&recid=product6_rr-_-57;-_-2000192980-_-1982-_-16",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00192980-03.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Off-the-Shoulder Bell Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000211335&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00211335-03.jpg",
+					"price": "$35.00",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Satin Palazzo Pants",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=bottoms&productid=2000322672",
+					"event_pic":"http://www.forever21.com/images/5_detail_750/00322672-03.jpg",
+					"price": "$15.90",
 					"brand":"Forever21"
 				},
 				{
