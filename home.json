@@ -21,6 +21,489 @@
 					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
 					"price": "$199.95",
 					"brand":"JBL"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Colourpop: Tulle",
+					"event_url":"https://colourpop.com/products/tulle",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Tulle_36013a88-7724-4d8c-b93f-79275aece1ce_1024x1024.jpeg?v=1465843687",
+					"price": "$6.00",
+					"brand":"Colourpop"
+				},
+				{
+					"category": "Stephanie",
+					"event":"Sheriff of Nottingham",
+					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
+					"price":"$22.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "She Pressed Powder Shadow Palette",
+					"event_url":"https://colourpop.com/products/she?utm_campaign=Fem+Rosa+RESTOCK+%2B+New+New+%28HGHFUA%29&utm_medium=email&_ke=b29rYW1pc3RlcGhAZ21haWwuY29t&utm_source=Engaged+Segment#",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/she_a_1024x1024.jpg?v=1499902137",
+					"price": "$16.00",
+					"brand":"Colourpop"
+				},
+								{
+					"category": "Stephanie",
+					"event": "Innisfree Green Tea Pure Cleansing Foam",
+					"event_url":"https://www.amazon.com/Innisfree-Green-Pure-Cleansing-150Ml/dp/B0119Q9FYU/ref=cm_wl_huc_item",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/411pLx86XML._SX425_.jpg",
+					"price": "$8.46",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "White Marble Keyboard Cover",
+					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=41106162&category=GIFT_HERFAVS",
+					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/41106162_010_b?$mlarge$&defaultImage=",
+					"price": "$12 • +20% off",
+					"brand":"UrbanOutfitters"
+				},
+								{
+					"category": "Stephanie",
+					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
+					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
+					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/TEP_Product_Kenze-1210108_copywomens-off-the-shoulder-crop-top-black-elephant-2_grande.jpg?v=1486577855",
+					"price": "$18",
+					"brand":"The Elephant Pants"
+				},
+							{
+					"category": "Stephanie",
+					"event": "Embroidered Knit Bomber Jacket",
+					"event_url":"http://www.charlotterusse.com/varsity-stripe-embroidered-knit-bomber-jacket/302285263.html?dwvar_302285263_color=001&cgid=shop-all-new",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302285263_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$25.34 SALE($20)",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Large Hoop Earrings",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=1000149356&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00149356-02.jpg",
+					"price": "$4.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Prob dont need more chockers but I like gold chain chockers",
+					"event_url":"http://www.hm.com/us/product/65196?article=65196-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2017/E00%200490097%20002%2000%203218.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$7.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Marble iPhone Case",
+					"event_url":"http://www.hm.com/us/product/38698?article=38698-B",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200351777%20001%2010%202248.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$7.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Active Striped Tube Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000125845",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00125845-02.jpg",
+					"price": "$9.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Metallic Bandeau Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates&productid=2000104529",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00104529-03.jpg",
+					"price": "$8.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tube Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=top_blouses_b&productid=2000112870",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00112870-01.jpg",
+					"price": "$12.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Woven Lace-Up Shorts",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000139571&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00139571-02.jpg",
+					"price": "$17.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Floral Pleated Shorts",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000211345&VariantID=",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00211345-01.jpg",
+					"price": "$28.00",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Contrast Stripe Midi Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000113350&VariantID=",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00113350-03.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Skinny Jeans",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=bottom_jeans&productid=2000227444",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00227444-07.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Medium Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000103415",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00103415-02.jpg",
+					"price": "$14.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Medium Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000089072",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00089072-01.jpg",
+					"price": "$12.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Off-the-Shoulder Floral Dress",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000158810&VariantID=",
+					"event_pic":"http://www.forever21.com/images/3_back_750/00158810-01.jpg",
+					"price": "$24.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Abstract Tulip Maxi Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=bottoms&ProductID=2000192980&VariantID=&recid=product6_rr-_-57;-_-2000192980-_-1982-_-16",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00192980-03.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Off-the-Shoulder Bell Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000211335&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00211335-03.jpg",
+					"price": "$35.00",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Satin Palazzo Pants",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=bottoms&productid=2000322672",
+					"event_pic":"http://www.forever21.com/images/5_detail_750/00322672-03.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				{
+					"category": "Stephanie",
+					"event": "Scratch Map",
+					"event_url":"https://www.amazon.com/dp/B01LRLEWJU/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=308YWL1F6VWGM&coliid=I1WEGZT3H32C8G",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71nenRs5jVL._SL1500_.jpg",
+					"price": "$35.00",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Foot Hammock",
+					"event_url":"https://www.amazon.com/dp/B00NSZUVGW/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=308YWL1F6VWGM&coliid=I1XIMQ5KW8R7J9&psc=1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61Vi3FaI4ML._SL1080_.jpg",
+					"price": "$5.99",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Phone case",
+					"event_url":"https://www.amazon.com/dp/B013JESYYM/ref=wl_it_dp_o_pd_nS_img?_encoding=UTF8&colid=1FBREMAIEOQV1&coliid=I13V56PAKZ5WRV&psc=1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71I12zxkTzL._SL1280_.jpg",
+					"price": "$8.96",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event":"Weekly Planner(Things similiar to this)",
+					"event_url":"http://www.mochithings.com/products/18219?utm_source=pinterest&utm_medium=cpc&utm_campaign=brilliant-weekly-scheduler&utm_term=school-231161393352637442&utm_content=p231161393352637442&pp=1",
+					"event_pic":"http://d2dog1d9ysauaf.cloudfront.net/attachments/f9c25deb51a5467eecd850d447ca1522dc478caa/store/limit_optimized/1000/550/08901e5e0f4a316899e4851e515cab2762be85f3f83b87070b7342e105cf/brilliant-weekly-scheduler.jpg",
+					"price": "$19.95",
+					"brand":"Mochithings"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heels",
+					"event_url":"http://www.payless.com/womens-layla-front-zip-heel/77338.html?dwvar_77338_color=silver",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dweff9107a/images/hi-res/162730_6_1400x1400.jpg?sw=556",
+					"price": "$34.99",
+					"brand":"Payless"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Sandle",
+					"event_url":"http://www.payless.com/womens-victoria-chopout-low-wedge/77626.html?dwvar_77626_color=brown",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw2d878927/images/hi-res/163569_6_1400x1400.jpg?sw=556",
+					"price": "$29.99",
+					"brand":"Payless"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heels Chunky",
+					"event_url":"http://www.charlotterusse.com/lace-up-chunky-platform-dress-sandals/302194655.html?dwvar_302194655_color=001&cgid=heels#sz=30&start=142",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302228059_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=290&hei=375",
+					"price": "$24.04 SALE($18.49)",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Heel Chunky",
+					"event_url":"http://www.charlotterusse.com/caged-lace-up-chunky-heel-sandals/302149935.html?rrec=true",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$22.74 SALE($17.49)",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Press on Nails",
+					"event_url":"http://www.refinery29.com/2016/12/131629/makeup-artist-hairstylist-product-recommendations#slide-40",
+					"event_pic":"http://s1.r29static.com//bin/entry/084/x/1703863/image.gif",
+					"price": "$5.99",
+					"brand":"refinery29"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Shawl Collar Cocoon Cardigan",
+					"event_url":"http://www.charlotterusse.com/shawl-collar-cocoon-cardigan/302280830.html?dwvar_302280830_color=001&cgid=#q=Shawl%2BCollar%2BCocoon%2BCardigan&lang=default&start=1",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302280830_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$10.39",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Scalloped Bib Neck Skater Dress",
+					"event_url":"http://www.charlotterusse.com/scalloped-bib-neck-skater-dress/302279509.html?dwvar_302279509_color=283&cgid=shop-all-new",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302279509_283?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$22.74",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Suade Skirt",
+					"event_url":"http://www.hm.com/us/product/49684?article=49684-C&cm_vc=SEARCH",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7NZ_2247_004R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3600]&set=key[height],value[4209]&set=key[x],value[852]&set=key[y],value[496]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$24.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Knit Open-Shoulder Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals-clothing-tops&ProductID=2000213206&VariantID=",
+					"event_pic":"http://www.forever21.com/images/2_side_750/00213206-02.jpg",
+					"price": "$19.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattify Tattoo: Death Petal",
+					"event_url":"https://www.etsy.com/listing/238922579/death-petal-temporary-tattoo-set-of-2?ref=hp_rf",
+					"event_pic":"https://img0.etsystatic.com/063/0/7496102/il_570xN.795615556_34aw.jpg",
+					"price": "$2.99",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattoo",
+					"event_url":"https://www.etsy.com/listing/115031630/sunflower-temporary-tattoo-set-of-2",
+					"event_pic":"https://img0.etsystatic.com/002/0/7496102/il_570xN.395840882_1kq6.jpg",
+					"price": "$2.99",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tattoo",
+					"event_url":"https://www.etsy.com/listing/208434780/selene-temporary-tattoo-set-of-2",
+					"event_pic":"https://img0.etsystatic.com/051/0/7496102/il_570xN.672032956_5tv1.jpg",
+					"price": "$2.99",
+					"brand":"Etsy"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Shoot For The Stars Bath Bomb",
+					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
+					"price": "$6.95",
+					"brand":"Lust"
+				},
+				{
+					"category": "Stephanie",
+					"event": "AERIE LACE HALTER BRALETTE",
+					"event_url":"https://www.ae.com/aerie-lace-halter-bralette-deep-plum/aerie/s-prod/4447_7515_536?cm=sUS-cUSD&catId=cat7530007&mmCat=cat7900126",
+					"event_pic":"https://pics.ae.com/is/image/aeo/4447_7515_536_f?$pdp-main$",
+					"price": "$18.71",
+					"brand":"Aerie"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Semi-Sheer Lace Bralette",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
+					"event_pic":"http://www.forever21.com/images/default_750/00203639-05.jpg",
+					"price": "$10.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Hollow Flower Earrings",
+					"event_url":"https://eliterepublik.com/products/hollow-flower-earrings",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1539/5055/products/a757d6efece9404589f1df58bd37a1d5_1024x1024.png?v=1479918421",
+					"price": "$5.95",
+					"brand":"Elite Republik"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Crisscross Cutout Bodysuit",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses-three-quarter&ProductID=2000214729&VariantID=",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00214729-04.jpg",
+					"price": "$17.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Cutout Leaf Ear Pins",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=1000218607&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00218607-01.jpg",
+					"price": "$3.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Two-Piece Platform Dress Sandals",
+					"event_url":"http://www.charlotterusse.com/two-piece-platform-dress-sandals/302243791.html?rrec=true",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302243791_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$30.99 (Curr $20)",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
+					"event": "101 Essays That Will Change The Way You Think",
+					"event_url":"https://gumroad.com/l/FTUpY",
+					"event_pic":"https://static-2.gumroad.com/res/gumroad/4204076766441/asset_previews/6908e4c6322dbc53d9719b96e9e73860/retina/101_20Essays_20That_20Will_20Change_20The_20Way_20You_20Think_cover_perspective1.jpg",
+					"price": "$14.99",
+					"brand":"Brianna Wiest "
+				},
+				{
+					"category": "Stephanie",
+					"event": "Seamless Mask Alien Bandana",
+					"event_url":"https://www.amazon.com/iHeartRaves-Peace-Seamless-Alien-Bandana/dp/B00YZMDFZ6/ref=pd_sim_193_7?_encoding=UTF8&psc=1&refRID=4RPRH4CYNWSSZRH9K3YV",
+					"event_pic":"data:image/webp;base64,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",
+					"price": "$6.95",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "LIQUID LIPSTICK - KATHRYN",
+					"event_url":"http://www.anastasiabeverlyhills.com/liquid-lipstick/liquid-lipstick.html?dwvar_liquid-lipstick_color=Pure%20Hollywood&cgid=makeup-lips#start=1&cgid=makeup-lips",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/BBLL_PRD/on/demandware.static/-/Sites-anastasia-master-catalog/default/dw602c1da9/images/products/Lips/Liquid%20Lipstick/Kathryn/liquid-lipstick-kathryn.jpg?sw=1350&sh=1000&sm=fit",
+					"price": "$20",
+					"brand":"Anastasia Beverly Hills",
+					"colors":"bloodline, american doll, heathers, sarafine, dusty rose, sweet talker??(too pink)"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Liquid Lipstick",
+					"event_url":"http://www.sephora.com/everlasting-love-liquid-lipstick-P384954?keyword=KAT%20VON%20D%20Everlasting%20Liquid%20Lipstick%20P384954&skuId=1552454&_requestid=107519",
+					"event_pic":"http://www.sephora.com/productimages/sku/s1552454-main-Lhero.jpg",
+					"price": "$20",
+					"brand":"Kat Von Dee"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Marika Medallion Duvet Set",
+					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=39660725&category=SEARCH+RESULTS",
+					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/39660725_041_f?$mlarge$&defaultImage=",
+					"price": "$79.99",
+					"brand":"urbanoutfitters"
+				},
+				{
+					"category": "Stephanie",
+					"event":"Signature Series ITX-2000",
+					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/ITX-2000.html?dwvar_ITX-2000_color=Black",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50131943/YBSSSSIX02SILAM_SS_ITX-2000_1_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
+					"price": "$59.99",
+					"brand":"JBL"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Inspire 300",
+					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/IRONMAN+INSPIRE+TALK+SPORT.html?dwvar_IRONMAN%20INSPIRE%20TALK%20SPORT_color=White",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6bfb7f25/YB_Ironman_Inspire_Talk_Sport_White_001_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
+					"brand":"JBL"
+					
+				},
+				{
+					"category": "Stephanie",
+					"event": "Polariod Printer",
+					"event_url":"http://www.target.com/p/polaroid-zip-instant-mobile-printer/-/A-17268904",
+					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
+					"price": "129.99",
+					"brand":"Target"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Jersey Skirt",
+					"event_url":"http://www.hm.com/us/product/70463?article=70463-A&cm_vc=SEARCH",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2017/8SZ_0222_027R.jpg]&set=key[rotate],value[0]&set=key[width],value[3680]&set=key[height],value[4303]&set=key[x],value[0]&set=key[y],value[-1]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$12.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Sheer Wrap Crop Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000175711",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00175711-01.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":""
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":""
 				}
 
 			]
@@ -580,30 +1063,6 @@
 
 			],
 			"suggestions": [
-				{
-					"category": "Sarah",
-					"event": "High-Impact - Sports Bra",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=app-main&productid=2000190685",
-					"event_pic":"http://www.forever21.com/images/6_flat_750/00190685-01.jpg",
-					"price": "$9.99",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Sarah",
-					"event": "Medium Impact - Sports Bra",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000089132",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00089132-01.jpg",
-					"price": "$14.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Sarah",
-					"event": "Medium Impact - Sports Bra",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000103403&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00103403-02.jpg",
-					"price": "$12.90",
-					"brand":"Forever21"
-				},
 				{
 					"category": "Sarah",
 					"event":"Coup",
