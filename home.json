@@ -78,8 +78,130 @@
 					"price": "$25.34 SALE($20)",
 					"brand":"CharlotteRusse"
 				},
+				{
+					"category": "Stephanie",
+					"event": "Large Hoop Earrings",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=1000149356&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00149356-02.jpg",
+					"price": "$4.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Prob dont need more chockers but I like gold chain chockers",
+					"event_url":"http://www.hm.com/us/product/65196?article=65196-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2017/E00%200490097%20002%2000%203218.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$7.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Marble iPhone Case",
+					"event_url":"http://www.hm.com/us/product/38698?article=38698-B",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200351777%20001%2010%202248.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$7.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Active Striped Tube Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000125845",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00125845-02.jpg",
+					"price": "$9.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Metallic Bandeau Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates&productid=2000104529",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00104529-03.jpg",
+					"price": "$8.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tube Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=top_blouses_b&productid=2000112870",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00112870-01.jpg",
+					"price": "$12.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Woven Lace-Up Shorts",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000139571&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00139571-02.jpg",
+					"price": "$17.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Floral Pleated Shorts",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000211345&VariantID=",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00211345-01.jpg",
+					"price": "$28.00",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Contrast Stripe Midi Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000113350&VariantID=",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00113350-03.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Skinny Jeans",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=bottom_jeans&productid=2000227444",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00227444-07.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Medium Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000103415",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00103415-02.jpg",
+					"price": "$14.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Medium Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000089072",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00089072-01.jpg",
+					"price": "$12.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":"Forever21"
+				},
 
-				
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -334,6 +456,30 @@
 					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
 					"price": "129.99",
 					"brand":"Target"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Jersey Skirt",
+					"event_url":"http://www.hm.com/us/product/70463?article=70463-A&cm_vc=SEARCH",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2017/8SZ_0222_027R.jpg]&set=key[rotate],value[0]&set=key[width],value[3680]&set=key[height],value[4303]&set=key[x],value[0]&set=key[y],value[-1]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$12.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Sheer Wrap Crop Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000175711",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00175711-01.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":""
 				},
 				{
 					"category": "Stephanie",
@@ -895,11 +1041,36 @@
 			"category_url": "../images/Sarah1.jpg",
 			"outside_source": [
 				{
-					"source_name":"None",
-					"source_link":""
-				}
+					"source_name":"Fave Rave shop",
+					"source_link":"https://www.freedomravewear.com/"
+				},
+
 			],
 			"suggestions": [
+				{
+					"category": "Sarah",
+					"event": "High-Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=app-main&productid=2000190685",
+					"event_pic":"http://www.forever21.com/images/6_flat_750/00190685-01.jpg",
+					"price": "$9.99",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Sarah",
+					"event": "Medium Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000089132",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00089132-01.jpg",
+					"price": "$14.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Sarah",
+					"event": "Medium Impact - Sports Bra",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000103403&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00103403-02.jpg",
+					"price": "$12.90",
+					"brand":"Forever21"
+				},
 				{
 					"category": "Sarah",
 					"event":"Coup",
@@ -915,6 +1086,14 @@
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71zUlQxkpQL._SL1500_.jpg",
 					"price":"$149.00",
 					"brand":""
+				},
+				{
+					"category": "Sarah",
+					"event": "Sheer Wrap Crop Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000175711",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00175711-01.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Sarah",
