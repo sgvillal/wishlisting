@@ -32,14 +32,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Skinny Jeans",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000227444&VariantID=",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00227444-07.jpg",
-					"price": "$15.90",
-					"brand":"Forever"
-				},
-				{
-					"category": "Stephanie",
 					"event": "LACE-UP SPORT BRA",
 					"event_url":"https://www.victoriassecret.com/vs-sport/all-sport-bras/lace-up-sport-bra-victoria-sport?ProductID=328156&CatalogueType=OLS",
 					"event_pic":"https://dm.victoriassecret.com/p/760x1013/tif/70/08/7008f5bfddaf486fac7dccf55c065b01/V486999_OM_F.jpg",
@@ -64,6 +56,14 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Woven Lace-Up Shorts",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000139571&VariantID=",
+					"event_pic":"http://www.forever21.com/images/default_750/00139571-02.jpg",
+					"price": "$17.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
 					"event": "JBL Pulse 2",
 					"event_url":"http://www.jbl.com/bluetooth-speakers/JBL+PULSE+2.html?dwvar_JBL%20PULSE%202_color=Black#q=Portable%2BBluetooth%2Bspeaker&start=1",
 					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
@@ -72,11 +72,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event":"Sheriff of Nottingham",
-					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
-					"price":"$22.99",
-					"brand":"Amazon"
+					"event": "Abstract Tulip Maxi Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=bottoms&ProductID=2000192980&VariantID=&recid=product6_rr-_-57;-_-2000192980-_-1982-_-16",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00192980-03.jpg",
+					"price": "$15.90",
+					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -104,35 +104,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Prob dont need more chockers but I like gold chain chockers",
-					"event_url":"http://www.hm.com/us/product/65196?article=65196-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2017/E00%200490097%20002%2000%203218.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
-					"price": "$7.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Marble iPhone Case",
-					"event_url":"http://www.hm.com/us/product/38698?article=38698-B",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200351777%20001%2010%202248.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$7.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tube Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=top_blouses_b&productid=2000112870",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00112870-01.jpg",
-					"price": "$12.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Woven Lace-Up Shorts",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000139571&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00139571-02.jpg",
-					"price": "$17.90",
-					"brand":"Forever21"
+					"event": "Blackhead Acne Removal Activated Carbon Mask Set",
+					"event_url":"https://www.amazon.com/gp/product/B00WRHUWJ8/ref=ox_sc_sfl_title_3?ie=UTF8&psc=1&smid=A3OVLZ7EDDB9P1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71hdDCCVm0L._SX522_.jpg",
+					"price": "$",
+					"brand":"Amazon"
 				},
 				{
 					"category": "Stephanie",
@@ -156,22 +132,6 @@
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000089072",
 					"event_pic":"http://www.forever21.com/images/1_front_750/00089072-01.jpg",
 					"price": "$12.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Off-the-Shoulder Floral Dress",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000158810&VariantID=",
-					"event_pic":"http://www.forever21.com/images/3_back_750/00158810-01.jpg",
-					"price": "$24.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Abstract Tulip Maxi Skirt",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=bottoms&ProductID=2000192980&VariantID=&recid=product6_rr-_-57;-_-2000192980-_-1982-_-16",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00192980-03.jpg",
-					"price": "$15.90",
 					"brand":"Forever21"
 				},
 				{
@@ -216,18 +176,18 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "SCINIC Honey All In One Ampoule",
-					"event_url":"https://www.amazon.com/dp/B00STAV016/_encoding=UTF8?coliid=I170TTW92IYSRX&colid=308YWL1F6VWGM",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61hDQhxfxYL._SX522_.jpg",
-					"price": "$20.73",
+					"event":"Sheriff of Nottingham",
+					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
+					"price":"$22.99",
 					"brand":"Amazon"
 				},
 				{
 					"category": "Stephanie",
-					"event": "Blackhead Acne Removal Activated Carbon Mask Set",
-					"event_url":"https://www.amazon.com/gp/product/B00WRHUWJ8/ref=ox_sc_sfl_title_3?ie=UTF8&psc=1&smid=A3OVLZ7EDDB9P1",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71hdDCCVm0L._SX522_.jpg",
-					"price": "$",
+					"event": "SCINIC Honey All In One Ampoule",
+					"event_url":"https://www.amazon.com/dp/B00STAV016/_encoding=UTF8?coliid=I170TTW92IYSRX&colid=308YWL1F6VWGM",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61hDQhxfxYL._SX522_.jpg",
+					"price": "$20.73",
 					"brand":"Amazon"
 				},
 				{
@@ -248,6 +208,22 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Marble iPhone Case",
+					"event_url":"http://www.hm.com/us/product/38698?article=38698-B",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200351777%20001%2010%202248.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
+					"price": "$7.99",
+					"brand":"H&M"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Tube Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=top_blouses_b&productid=2000112870",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00112870-01.jpg",
+					"price": "$12.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
 					"event": "She Pressed Powder Shadow Palette",
 					"event_url":"https://colourpop.com/products/she?utm_campaign=Fem+Rosa+RESTOCK+%2B+New+New+%28HGHFUA%29&utm_medium=email&_ke=b29rYW1pc3RlcGhAZ21haWwuY29t&utm_source=Engaged+Segment#",
 					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/she_a_1024x1024.jpg?v=1499902137",
@@ -256,11 +232,27 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Off-the-Shoulder Floral Dress",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000158810&VariantID=",
+					"event_pic":"http://www.forever21.com/images/3_back_750/00158810-01.jpg",
+					"price": "$24.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
 					"event": "Multi-Way Bra",
 					"event_url":"https://www.victoriassecret.com/bras/strapless-and-backless/multi-way-bra-body-by-victoria?ProductID=343812&CatalogueType=OLS",
 					"event_pic":"https://dm.victoriassecret.com/product/760x1013/V479585_OM_F.jpg",
 					"price": "$49.50",
 					"brand":"Victoria Secret"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Prob dont need more chockers but I like gold chain chockers",
+					"event_url":"http://www.hm.com/us/product/65196?article=65196-A",
+					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2017/E00%200490097%20002%2000%203218.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
+					"price": "$7.99",
+					"brand":"H&M"
 				},
 				{
 					"category": "Stephanie",
