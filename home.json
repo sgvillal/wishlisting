@@ -306,6 +306,22 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Celestial Foiled Duvet Cover",
+					"event_url":"https://www.urbanoutfitters.com/shop/celestial-foiled-duvet-cover?category=SEARCHRESULTS&color=070",
+					"event_pic":"https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40087801_070_d?$redesign-zoom-5x$&hei=2175&fit=constrain",
+					"price": "$119",
+					"brand":"UrbanOutfitters"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Kaye Medallion Duvet Cover",
+					"event_url":"https://www.urbanoutfitters.com/shop/kaye-medallion-duvet-cover?color=014&quantity=1&type=REGULAR",
+					"event_pic":"https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42843540_014_f?$redesign-zoom-5x$&hei=2175&fit=constrain",
+					"price": "$99",
+					"brand":"UrbanOutfitters"
+				},
+				{
+					"category": "Stephanie",
 					"event": "Phone case",
 					"event_url":"https://www.amazon.com/dp/B013JESYYM/ref=wl_it_dp_o_pd_nS_img?_encoding=UTF8&colid=1FBREMAIEOQV1&coliid=I13V56PAKZ5WRV&psc=1",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71I12zxkTzL._SL1280_.jpg",
@@ -464,22 +480,6 @@
 					"event_pic":"http://www.sephora.com/productimages/sku/s1552454-main-Lhero.jpg",
 					"price": "$20",
 					"brand":"Kat Von Dee"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Celestial Foiled Duvet Cover",
-					"event_url":"https://www.urbanoutfitters.com/shop/celestial-foiled-duvet-cover?category=SEARCHRESULTS&color=070",
-					"event_pic":"https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40087801_070_d?$redesign-zoom-5x$&hei=2175&fit=constrain",
-					"price": "$119",
-					"brand":"UrbanOutfitters"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Kaye Medallion Duvet Cover",
-					"event_url":"https://www.urbanoutfitters.com/shop/kaye-medallion-duvet-cover?color=014&quantity=1&type=REGULAR",
-					"event_pic":"https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42843540_014_f?$redesign-zoom-5x$&hei=2175&fit=constrain",
-					"price": "$99",
-					"brand":"UrbanOutfitters"
 				},
 				{
 					"category": "Stephanie",
