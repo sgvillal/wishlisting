@@ -467,6 +467,22 @@
 				},
 				{
 					"category": "Stephanie",
+					"event": "Celestial Foiled Duvet Cover",
+					"event_url":"https://www.urbanoutfitters.com/shop/celestial-foiled-duvet-cover?category=SEARCHRESULTS&color=070",
+					"event_pic":"https://images.urbanoutfitters.com/is/image/UrbanOutfitters/40087801_070_d?$redesign-zoom-5x$&hei=2175&fit=constrain",
+					"price": "$119",
+					"brand":"UrbanOutfitters"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Kaye Medallion Duvet Cover",
+					"event_url":"https://www.urbanoutfitters.com/shop/kaye-medallion-duvet-cover?color=014&quantity=1&type=REGULAR",
+					"event_pic":"https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42843540_014_f?$redesign-zoom-5x$&hei=2175&fit=constrain",
+					"price": "$99",
+					"brand":"UrbanOutfitters"
+				},
+				{
+					"category": "Stephanie",
 					"event": "Marika Medallion Duvet Set",
 					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=39660725&category=SEARCH+RESULTS",
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/39660725_041_f?$mlarge$&defaultImage=",
