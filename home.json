@@ -46,23 +46,7 @@
 					"price": "$16.00",
 					"brand":"Colourpop"
 				},
-								{
-					"category": "Stephanie",
-					"event": "Innisfree Green Tea Pure Cleansing Foam",
-					"event_url":"https://www.amazon.com/Innisfree-Green-Pure-Cleansing-150Ml/dp/B0119Q9FYU/ref=cm_wl_huc_item",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/411pLx86XML._SX425_.jpg",
-					"price": "$8.46",
-					"brand":"Amazon"
-				},
 				{
-					"category": "Stephanie",
-					"event": "White Marble Keyboard Cover",
-					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=41106162&category=GIFT_HERFAVS",
-					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/41106162_010_b?$mlarge$&defaultImage=",
-					"price": "$12 • +20% off",
-					"brand":"UrbanOutfitters"
-				},
-								{
 					"category": "Stephanie",
 					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
 					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
@@ -101,22 +85,6 @@
 					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200351777%20001%2010%202248.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
 					"price": "$7.99",
 					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Active Striped Tube Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000125845",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00125845-02.jpg",
-					"price": "$9.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Metallic Bandeau Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates&productid=2000104529",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00104529-03.jpg",
-					"price": "$8.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -487,6 +455,30 @@
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000175711",
 					"event_pic":"http://www.forever21.com/images/4_full_750/00175711-01.jpg",
 					"price": "$15.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Innisfree Green Tea Pure Cleansing Foam",
+					"event_url":"https://www.amazon.com/Innisfree-Green-Pure-Cleansing-150Ml/dp/B0119Q9FYU/ref=cm_wl_huc_item",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/411pLx86XML._SX425_.jpg",
+					"price": "$8.46",
+					"brand":"Amazon"
+				},
+				{
+					"category": "Stephanie",
+					"event": "White Marble Keyboard Cover",
+					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=41106162&category=GIFT_HERFAVS",
+					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/41106162_010_b?$mlarge$&defaultImage=",
+					"price": "$12 • +20% off",
+					"brand":"UrbanOutfitters"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Metallic Bandeau Top",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates&productid=2000104529",
+					"event_pic":"http://www.forever21.com/images/1_front_750/00104529-03.jpg",
+					"price": "$8.90",
 					"brand":"Forever21"
 				},
 				{
