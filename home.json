@@ -16,19 +16,19 @@
 			"suggestions": [
 				{
 					"category": "Stephanie",
+					"event": "Heel Chunky",
+					"event_url":"http://www.charlotterusse.com/caged-lace-up-chunky-heel-sandals/302149935.html?rrec=true",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$9.99",
+					"brand":"CharlotteRusse"
+				},
+				{
+					"category": "Stephanie",
 					"event": "JBL Pulse 2",
 					"event_url":"http://www.jbl.com/bluetooth-speakers/JBL+PULSE+2.html?dwvar_JBL%20PULSE%202_color=Black#q=Portable%2BBluetooth%2Bspeaker&start=1",
 					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
 					"price": "$199.95",
 					"brand":"JBL"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Colourpop: Tulle",
-					"event_url":"https://colourpop.com/products/tulle",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Tulle_36013a88-7724-4d8c-b93f-79275aece1ce_1024x1024.jpeg?v=1465843687",
-					"price": "$6.00",
-					"brand":"Colourpop"
 				},
 				{
 					"category": "Stephanie",
@@ -104,22 +104,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Floral Pleated Shorts",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000211345&VariantID=",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00211345-01.jpg",
-					"price": "$28.00",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Contrast Stripe Midi Skirt",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000113350&VariantID=",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00113350-03.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Skinny Jeans",
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=bottom_jeans&productid=2000227444",
 					"event_pic":"http://www.forever21.com/images/4_full_750/00227444-07.jpg",
@@ -173,6 +157,54 @@
 					"event_pic":"http://www.forever21.com/images/5_detail_750/00322672-03.jpg",
 					"price": "$15.90",
 					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Colourpop: Tulle",
+					"event_url":"https://colourpop.com/products/tulle",
+					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Tulle_36013a88-7724-4d8c-b93f-79275aece1ce_1024x1024.jpeg?v=1465843687",
+					"price": "$6.00",
+					"brand":"Colourpop"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Bamboo Velvet Pointed Toe Loafers",
+					"event_url":"http://www.charlotterusse.com/bamboo-velvet-pointed-toe-loafers/302233067.html?dwvar_302233067_color=502&cgid=#q=loafers&lang=default&start=7",
+					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302233067_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
+					"price": "$16.09",
+					"brand":"Charlotte"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Su:m 37 Miracle Rose Cleanser in Stick Type, 80g",
+					"event_url":"https://www.amazon.com/Su-Miracle-Rose-Cleanser-Stick/dp/B00EIMU3NU/ref=as_li_ss_tl?s=beauty&ie=UTF8&qid=1494168873&sr=1-1&keywords=sum+37+rose+cleansing+stick&linkCode=sl1&tag=simplyshiv-20&linkId=f4ab49cb75c22c877a2817aaecb36df9",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31dhOPsT9aL.jpg",
+					"price": "$19.20",
+					"brand":""
+				},
+				{
+					"category": "Stephanie",
+					"event": "SCINIC Honey All In One Ampoule",
+					"event_url":"https://www.amazon.com/dp/B00STAV016/_encoding=UTF8?coliid=I170TTW92IYSRX&colid=308YWL1F6VWGM",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61hDQhxfxYL._SX522_.jpg",
+					"price": "$20.73",
+					"brand":""
+				},
+				{
+					"category": "Stephanie",
+					"event": "Blackhead Acne Removal Activated Carbon Mask Set",
+					"event_url":"https://www.amazon.com/gp/product/B00WRHUWJ8/ref=ox_sc_sfl_title_3?ie=UTF8&psc=1&smid=A3OVLZ7EDDB9P1",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71hdDCCVm0L._SX522_.jpg",
+					"price": "$",
+					"brand":""
+				},
+				{
+					"category": "Stephanie",
+					"event": "",
+					"event_url":"",
+					"event_pic":"",
+					"price": "$",
+					"brand":""
 				},
 
 
@@ -234,26 +266,10 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Sandle",
-					"event_url":"http://www.payless.com/womens-victoria-chopout-low-wedge/77626.html?dwvar_77626_color=brown",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dw2d878927/images/hi-res/163569_6_1400x1400.jpg?sw=556",
-					"price": "$29.99",
-					"brand":"Payless"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Heels Chunky",
 					"event_url":"http://www.charlotterusse.com/lace-up-chunky-platform-dress-sandals/302194655.html?dwvar_302194655_color=001&cgid=heels#sz=30&start=142",
 					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302228059_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=290&hei=375",
 					"price": "$24.04 SALE($18.49)",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heel Chunky",
-					"event_url":"http://www.charlotterusse.com/caged-lace-up-chunky-heel-sandals/302149935.html?rrec=true",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$22.74 SALE($17.49)",
 					"brand":"CharlotteRusse"
 				},
 				{
@@ -274,27 +290,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Scalloped Bib Neck Skater Dress",
-					"event_url":"http://www.charlotterusse.com/scalloped-bib-neck-skater-dress/302279509.html?dwvar_302279509_color=283&cgid=shop-all-new",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302279509_283?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$22.74",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
 					"event": "Suade Skirt",
 					"event_url":"http://www.hm.com/us/product/49684?article=49684-C&cm_vc=SEARCH",
 					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2016/7NZ_2247_004R.jpg]&set=key[rotate],value[0.1]&set=key[width],value[3600]&set=key[height],value[4209]&set=key[x],value[852]&set=key[y],value[496]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
 					"price": "$24.99",
 					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Knit Open-Shoulder Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals-clothing-tops&ProductID=2000213206&VariantID=",
-					"event_pic":"http://www.forever21.com/images/2_side_750/00213206-02.jpg",
-					"price": "$19.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -335,14 +335,6 @@
 					"event_pic":"https://pics.ae.com/is/image/aeo/4447_7515_536_f?$pdp-main$",
 					"price": "$18.71",
 					"brand":"Aerie"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Semi-Sheer Lace Bralette",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates_loungewear&productid=2000203639",
-					"event_pic":"http://www.forever21.com/images/default_750/00203639-05.jpg",
-					"price": "$10.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -479,6 +471,14 @@
 					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates&productid=2000104529",
 					"event_pic":"http://www.forever21.com/images/1_front_750/00104529-03.jpg",
 					"price": "$8.90",
+					"brand":"Forever21"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Contrast Stripe Midi Skirt",
+					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000113350&VariantID=",
+					"event_pic":"http://www.forever21.com/images/4_full_750/00113350-03.jpg",
+					"price": "$15.90",
 					"brand":"Forever21"
 				},
 				{
@@ -2926,10 +2926,10 @@
 				},
 				{
 					"category": "Jon",
-					"event":"",
-					"event_url":"",
-					"event_pic":"",
-					"price":"",
+					"event":"Game of Thrones House Stark Tournament Banner 19 x 60 in",
+					"event_url":"https://www.amazon.com/dp/B012EVJ2WO?tag=bfemma-20&ascsubtag=4581707%2C14%2C22%2Cmobile_web%2C0%2C0",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41cN7PEiXzL.jpg",
+					"price":"$13.35",
 					"brand":""
 				},
 				{
