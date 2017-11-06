@@ -16,163 +16,11 @@
 			"suggestions": [
 				{
 					"category": "Stephanie",
-					"event": "Seagate Backup Plus Slim 1TB Portable External Hard Drive",
-					"event_url":"https://www.target.com/p/seagate-backup-plus-slim-1tb-portable-external-hard-drive-with-mobile-device-backup-usb-3-0-black-stdr1000100/-/A-14299274#lnk=sametab",
-					"event_pic":"https://target.scene7.com/is/image/Target/14299274?wid=520&hei=520&fmt=pjpeg",
-					"price": "$59.99",
-					"brand":"Target"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Beach Embroidered Quote Floppy Brim Sun Hat",
-					"event_url":"https://www.amazon.com/C-C-Womens-Crushable-Embroidered-Sunshine/dp/B06WP55GNN/ref=sr_1_5?s=apparel&ie=UTF8&qid=1500802985&sr=1-5&nodeID=7141123011&psd=1&keywords=floppy",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/81q8tg8d3%2BL._UX342_.jpg",
-					"price": "$15.26",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heel Chunky",
-					"event_url":"http://www.charlotterusse.com/caged-lace-up-chunky-heel-sandals/302149935.html?rrec=true",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302149935_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$9.99",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Large Hoop Earrings",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=1000149356&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00149356-02.jpg",
-					"price": "$4.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Blackhead Acne Removal Activated Carbon Mask Set",
-					"event_url":"https://www.amazon.com/gp/product/B00WRHUWJ8/ref=ox_sc_sfl_title_3?ie=UTF8&psc=1&smid=A3OVLZ7EDDB9P1",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71hdDCCVm0L._SX522_.jpg",
-					"price": "$",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Woven Lace-Up Shorts",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000139571&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00139571-02.jpg",
-					"price": "$17.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Mini Lace Bustier",
-					"event_url":"https://www.victoriassecret.com/bras/strapless-and-backless/mini-lace-bustier-dream-angels?ProductID=336361&CatalogueType=OLS",
-					"event_pic":"https://dm.victoriassecret.com/product/760x1013/V478943_OM_F.jpg",
-					"price": "$54.50",
-					"brand":"Victoria Secret"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Active Mesh Pocket Leggings",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000239346&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00239346-02.jpg",
-					"price": "$19.90",
-					"brand":"Forever"
-				},
-				{
-					"category": "Stephanie",
-					"event": "LACE-UP SPORT BRA",
-					"event_url":"https://www.victoriassecret.com/vs-sport/all-sport-bras/lace-up-sport-bra-victoria-sport?ProductID=328156&CatalogueType=OLS",
-					"event_pic":"https://dm.victoriassecret.com/p/760x1013/tif/70/08/7008f5bfddaf486fac7dccf55c065b01/V486999_OM_F.jpg",
-					"price": "$24.50",
-					"brand":"Victoria Secret"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Abstract Tulip Maxi Skirt",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?Br=F21&Category=bottoms&ProductID=2000192980&VariantID=&recid=product6_rr-_-57;-_-2000192980-_-1982-_-16",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00192980-03.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "KENZE OFF-THE-SHOULDER CROP TOP",
-					"event_url":"https://www.theelephantpants.com/collections/tops/products/kenze-womens-off-the-shoulder-crop-top?variant=18492465667",
-					"event_pic":"https://cdn.shopify.com/s/files/1/0547/5393/products/TEP_Product_Kenze-1210108_copywomens-off-the-shoulder-crop-top-black-elephant-2_grande.jpg?v=1486577855",
-					"price": "$18",
-					"brand":"The Elephant Pants"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Embroidered Knit Bomber Jacket",
-					"event_url":"http://www.charlotterusse.com/varsity-stripe-embroidered-knit-bomber-jacket/302285263.html?dwvar_302285263_color=001&cgid=shop-all-new",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302285263_001?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$25.34 SALE($20)",
-					"brand":"CharlotteRusse"
-				},
-				{
-					"category": "Stephanie",
 					"event": "JBL Pulse 2",
 					"event_url":"http://www.jbl.com/bluetooth-speakers/JBL+PULSE+2.html?dwvar_JBL%20PULSE%202_color=Black#q=Portable%2BBluetooth%2Bspeaker&start=1",
 					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
 					"price": "$199.95",
 					"brand":"JBL"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Skinny Jeans",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=bottom_jeans&productid=2000227444",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00227444-07.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Medium Impact - Sports Bra",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000103415",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00103415-02.jpg",
-					"price": "$14.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Medium Impact - Sports Bra",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=Activewear&productid=2000089072",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00089072-01.jpg",
-					"price": "$12.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Off-the-Shoulder Bell Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000211335&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00211335-03.jpg",
-					"price": "$35.00",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Satin Palazzo Pants",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=bottoms&productid=2000322672",
-					"event_pic":"http://www.forever21.com/images/5_detail_750/00322672-03.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Colourpop: Tulle",
-					"event_url":"https://colourpop.com/products/tulle",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/Ultra-Matte-Lip-Tulle_36013a88-7724-4d8c-b93f-79275aece1ce_1024x1024.jpeg?v=1465843687",
-					"price": "$6.00",
-					"brand":"Colourpop"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Bamboo Velvet Pointed Toe Loafers",
-					"event_url":"http://www.charlotterusse.com/bamboo-velvet-pointed-toe-loafers/302233067.html?dwvar_302233067_color=502&cgid=#q=loafers&lang=default&start=7",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302233067_502?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$16.09",
-					"brand":"Charlotte"
 				},
 				{
 					"category": "Stephanie",
@@ -188,14 +36,6 @@
 					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
 					"price":"$22.99",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
-					"event": "SCINIC Honey All In One Ampoule",
-					"event_url":"https://www.amazon.com/dp/B00STAV016/_encoding=UTF8?coliid=I170TTW92IYSRX&colid=308YWL1F6VWGM",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61hDQhxfxYL._SX522_.jpg",
-					"price": "$20.73",
 					"brand":"Amazon"
 				},
 				{
@@ -216,35 +56,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Marble iPhone Case",
-					"event_url":"http://www.hm.com/us/product/38698?article=38698-B",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2016/E00%200351777%20001%2010%202248.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&call=url[file:/product/large]",
-					"price": "$7.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Tube Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=LOVE21&category=top_blouses_b&productid=2000112870",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00112870-01.jpg",
-					"price": "$12.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
 					"event": "She Pressed Powder Shadow Palette",
 					"event_url":"https://colourpop.com/products/she?utm_campaign=Fem+Rosa+RESTOCK+%2B+New+New+%28HGHFUA%29&utm_medium=email&_ke=b29rYW1pc3RlcGhAZ21haWwuY29t&utm_source=Engaged+Segment#",
 					"event_pic":"https://cdn.shopify.com/s/files/1/1338/0845/products/she_a_1024x1024.jpg?v=1499902137",
 					"price": "$16.00",
 					"brand":"Colourpop"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Off-the-Shoulder Floral Dress",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=women-new-arrivals&ProductID=2000158810&VariantID=",
-					"event_pic":"http://www.forever21.com/images/3_back_750/00158810-01.jpg",
-					"price": "$24.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -256,14 +72,6 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Prob dont need more chockers but I like gold chain chockers",
-					"event_url":"http://www.hm.com/us/product/65196?article=65196-A",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/model/2017/E00%200490097%20002%2000%203218.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
-					"price": "$7.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
 					"event": "",
 					"event_url":"",
 					"event_pic":"",
@@ -296,14 +104,7 @@
 
 
 
-				{
-					"category": "Stephanie",
-					"event": "Scratch Map",
-					"event_url":"https://www.amazon.com/dp/B01LRLEWJU/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=308YWL1F6VWGM&coliid=I1WEGZT3H32C8G",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71nenRs5jVL._SL1500_.jpg",
-					"price": "$35.00",
-					"brand":"Amazon"
-				},
+				
 				{
 					"category": "Stephanie",
 					"event": "Foot Hammock",
@@ -330,35 +131,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Phone case",
-					"event_url":"https://www.amazon.com/dp/B013JESYYM/ref=wl_it_dp_o_pd_nS_img?_encoding=UTF8&colid=1FBREMAIEOQV1&coliid=I13V56PAKZ5WRV&psc=1",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/71I12zxkTzL._SL1280_.jpg",
-					"price": "$8.96",
-					"brand":"Amazon"
-				},
-				{
-					"category": "Stephanie",
 					"event":"Weekly Planner(Things similiar to this)",
 					"event_url":"http://www.mochithings.com/products/18219?utm_source=pinterest&utm_medium=cpc&utm_campaign=brilliant-weekly-scheduler&utm_term=school-231161393352637442&utm_content=p231161393352637442&pp=1",
 					"event_pic":"http://d2dog1d9ysauaf.cloudfront.net/attachments/f9c25deb51a5467eecd850d447ca1522dc478caa/store/limit_optimized/1000/550/08901e5e0f4a316899e4851e515cab2762be85f3f83b87070b7342e105cf/brilliant-weekly-scheduler.jpg",
 					"price": "$19.95",
 					"brand":"Mochithings"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heels",
-					"event_url":"http://www.payless.com/womens-layla-front-zip-heel/77338.html?dwvar_77338_color=silver",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod46/dw/image/v2/AAPR_PRD/on/demandware.static/-/Sites-payless-catalog/default/dweff9107a/images/hi-res/162730_6_1400x1400.jpg?sw=556",
-					"price": "$34.99",
-					"brand":"Payless"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Heels Chunky",
-					"event_url":"http://www.charlotterusse.com/lace-up-chunky-platform-dress-sandals/302194655.html?dwvar_302194655_color=001&cgid=heels#sz=30&start=142",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302228059_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=290&hei=375",
-					"price": "$24.04 SALE($18.49)",
-					"brand":"CharlotteRusse"
 				},
 				{
 					"category": "Stephanie",
@@ -411,50 +188,10 @@
 				{
 					"category": "Stephanie",
 					"event": "Shoot For The Stars Bath Bomb",
-					"event_url":"http://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/06804.html",
+					"event_url":"https://www.lushusa.com/bath/bath-bombs/shoot-for-the-stars/07629.html",
 					"event_pic":"http://www.lushusa.com/dw/image/v2/AAHL_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw7b727b4a/images/product/06804.jpg?sw=300",
 					"price": "$6.95",
 					"brand":"Lust"
-				},
-				{
-					"category": "Stephanie",
-					"event": "AERIE LACE HALTER BRALETTE",
-					"event_url":"https://www.ae.com/aerie-lace-halter-bralette-deep-plum/aerie/s-prod/4447_7515_536?cm=sUS-cUSD&catId=cat7530007&mmCat=cat7900126",
-					"event_pic":"https://pics.ae.com/is/image/aeo/4447_7515_536_f?$pdp-main$",
-					"price": "$18.71",
-					"brand":"Aerie"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Hollow Flower Earrings",
-					"event_url":"https://eliterepublik.com/products/hollow-flower-earrings",
-					"event_pic":"https://cdn.shopify.com/s/files/1/1539/5055/products/a757d6efece9404589f1df58bd37a1d5_1024x1024.png?v=1479918421",
-					"price": "$5.95",
-					"brand":"Elite Republik"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Crisscross Cutout Bodysuit",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=top_blouses-three-quarter&ProductID=2000214729&VariantID=",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00214729-04.jpg",
-					"price": "$17.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Cutout Leaf Ear Pins",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=acc&ProductID=1000218607&VariantID=",
-					"event_pic":"http://www.forever21.com/images/default_750/00218607-01.jpg",
-					"price": "$3.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Two-Piece Platform Dress Sandals",
-					"event_url":"http://www.charlotterusse.com/two-piece-platform-dress-sandals/302243791.html?rrec=true",
-					"event_pic":"http://s7d9.scene7.com/is/image/CharlotteRusse/302243791_001_1?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$30.99 (Curr $20)",
-					"brand":"CharlotteRusse"
 				},
 				{
 					"category": "Stephanie",
@@ -491,51 +228,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "Marika Medallion Duvet Set",
-					"event_url":"http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=39660725&category=SEARCH+RESULTS",
-					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/39660725_041_f?$mlarge$&defaultImage=",
-					"price": "$79.99",
-					"brand":"urbanoutfitters"
-				},
-				{
-					"category": "Stephanie",
-					"event":"Signature Series ITX-2000",
-					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/ITX-2000.html?dwvar_ITX-2000_color=Black",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw50131943/YBSSSSIX02SILAM_SS_ITX-2000_1_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
-					"price": "$59.99",
-					"brand":"JBL"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Inspire 300",
-					"event_url":"http://www.jbl.com/yurbuds-sport-headphones/IRONMAN+INSPIRE+TALK+SPORT.html?dwvar_IRONMAN%20INSPIRE%20TALK%20SPORT_color=White",
-					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6bfb7f25/YB_Ironman_Inspire_Talk_Sport_White_001_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
-					"brand":"JBL"
-					
-				},
-				{
-					"category": "Stephanie",
 					"event": "Polariod Printer",
 					"event_url":"http://www.target.com/p/polaroid-zip-instant-mobile-printer/-/A-17268904",
 					"event_pic":"http://target.scene7.com/is/image/Target/17268904?wid=450&hei=450&fmt=pjpeg",
 					"price": "129.99",
 					"brand":"Target"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Jersey Skirt",
-					"event_url":"http://www.hm.com/us/product/70463?article=70463-A&cm_vc=SEARCH",
-					"event_pic":"http://lp.hm.com/hmprod?set=key[source],value[/environment/2017/8SZ_0222_027R.jpg]&set=key[rotate],value[0]&set=key[width],value[3680]&set=key[height],value[4303]&set=key[x],value[0]&set=key[y],value[-1]&set=key[type],value[FASHION_FRONT]&set=key[hmver],value[0]&call=url[file:/product/large]",
-					"price": "$12.99",
-					"brand":"H&M"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Sheer Wrap Crop Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=top_blouses&productid=2000175711",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00175711-01.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
@@ -552,22 +249,6 @@
 					"event_pic":"http://images.urbanoutfitters.com/is/image/UrbanOutfitters/41106162_010_b?$mlarge$&defaultImage=",
 					"price": "$12 • +20% off",
 					"brand":"UrbanOutfitters"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Metallic Bandeau Top",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?br=F21&category=intimates&productid=2000104529",
-					"event_pic":"http://www.forever21.com/images/1_front_750/00104529-03.jpg",
-					"price": "$8.90",
-					"brand":"Forever21"
-				},
-				{
-					"category": "Stephanie",
-					"event": "Contrast Stripe Midi Skirt",
-					"event_url":"http://www.forever21.com/Product/Product.aspx?BR=f21&Category=bottoms&ProductID=2000113350&VariantID=",
-					"event_pic":"http://www.forever21.com/images/4_full_750/00113350-03.jpg",
-					"price": "$15.90",
-					"brand":"Forever21"
 				},
 				{
 					"category": "Stephanie",
