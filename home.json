@@ -40,11 +40,11 @@
 				},
 				{
 					"category": "Stephanie",
-					"event": "",
-					"event_url":"",
-					"event_pic":"",
-					"price": "$",
-					"brand":""
+					"event": "Plaid Skirt",
+					"event_url":"https://www.loft.com/bird-embroidered-plaid-skirt/450613",
+					"event_pic":"https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=12017974&itemID=450613&swatchID=2222&recipeName=pdxsell315x363",
+					"price": "$55",
+					"brand":"Loft"
 				},
 				{
 					"category": "Stephanie",
@@ -103,12 +103,6 @@
 
 
 
-
-<<<<<<< HEAD
-				
-				
-=======
->>>>>>> parent of b4f5081... steph list
 				{
 					"category": "Stephanie",
 					"event":"Sheriff of Nottingham",
