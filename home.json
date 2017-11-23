@@ -16,35 +16,43 @@
 			"suggestions": [
 				{
 					"category": "Stephanie",
-					"event": "Kingdom Hearts HD 1.5 + 2.5 ReMIX - PlayStation 4",
-					"event_url":"https://www.amazon.com/dp/B01M32FMUL/_encoding=UTF8?coliid=I1FWNYNTMCYJNW&colid=308YWL1F6VWGM&th=1",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/917UiEzHb9L._AC_SL1500_.jpg",
-					"price": "$36.58",
+					"event": "JBL Pulse 2",
+					"event_url":"http://www.jbl.com/bluetooth-speakers/JBL+PULSE+2.html?dwvar_JBL%20PULSE%202_color=Black#q=Portable%2BBluetooth%2Bspeaker&start=1",
+					"event_pic":"http://demandware.edgesuite.net/sits_pod27/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5605c541/JBL_Pulse2_Black_002_dvHAMaster.jpg?sw=626&sh=626&sm=fit&sfrm=png",
+					"price": "$199.95",
+					"brand":"JBL"
+				},
+				{
+					"category": "Stephanie",
+					"event": "Su:m 37 Miracle Rose Cleanser in Stick Type, 80g",
+					"event_url":"https://www.amazon.com/Su-Miracle-Rose-Cleanser-Stick/dp/B00EIMU3NU/ref=as_li_ss_tl?s=beauty&ie=UTF8&qid=1494168873&sr=1-1&keywords=sum+37+rose+cleansing+stick&linkCode=sl1&tag=simplyshiv-20&linkId=f4ab49cb75c22c877a2817aaecb36df9",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/31dhOPsT9aL.jpg",
+					"price": "$19.20",
 					"brand":"Amazon"
 				},
 				{
 					"category": "Stephanie",
-					"event": "Big Hero 6 Snapback",
-					"event_url":"https://www.amazon.com/dp/B06XX8NL9F/_encoding=UTF8?coliid=I3H6FZ2I12IUEE&colid=308YWL1F6VWGM",
-					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61q3-kCNjmL._UX385_.jpg",
-					"price": "$7.49",
+					"event":"Sheriff of Nottingham",
+					"event_url":"https://www.amazon.com/Arcane-Wonders-DTE01SNAWG-Sheriff-Nottingham/dp/B007EZMABG/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1489650142&sr=1-4&keywords=sheriff",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/61te4F7OK%2BL.jpg",
+					"price":"$22.99",
 					"brand":"Amazon"
 				},
 				{
 					"category": "Stephanie",
-					"event": "Embellished Hoop Earrings - 3 Pack",
-					"event_url":"http://www.charlotterusse.com/embellished-hoop-earrings---3-pack/302422891.html?dwvar_302422891_color=710&cgid=",
-					"event_pic":"https://s7d9.scene7.com/is/image/CharlotteRusse/302422891_710?$s7product$&fmt=jpg&fit=constrain,1&wid=1024&hei=1336",
-					"price": "$6",
-					"brand":"Charlotte Russe"
-				},
-				{
-					"category": "Stephanie",
+<<<<<<< HEAD
 					"event": "f",
 					"event_url":"",
 					"event_pic":"",
 					"price": "$",
 					"brand":""
+=======
+					"event": "Choose Your Own Misery: The Office",
+					"event_url":"https://www.amazon.com/Choose-Your-Own-Misery-Office/dp/1626819246/ref=sr_1_29?ie=UTF8&qid=1500800245&sr=8-29&keywords=choose+your+own+adventure+books",
+					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/41iYgQzklDL._SX322_BO1,204,203,200_.jpg",
+					"price": "$4",
+					"brand":"Amazon"
+>>>>>>> parent of 113d7a4... add some xmas steph
 				},
 				{
 					"category": "Stephanie",
@@ -103,6 +111,7 @@
 
 
 
+<<<<<<< HEAD
 				{
 					"category": "Stephanie",
 					"event":"Sheriff of Nottingham",
@@ -119,6 +128,10 @@
 					"price": "$4",
 					"brand":"Amazon"
 				},
+=======
+
+				
+>>>>>>> parent of 113d7a4... add some xmas steph
 				{
 					"category": "Stephanie",
 					"event": "Foot Hammock",
