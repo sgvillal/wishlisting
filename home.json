@@ -836,8 +836,7 @@
 					"event_pic":"https://images-na.ssl-images-amazon.com/images/I/51jdgkgZ1DL.jpg",
 					"price":"$224.99 + $10.49 shipping",
 					"brand":""
-				}
-,
+				},
 				{
 					"category": "Sasha",
 					"event":"",
@@ -845,8 +844,7 @@
 					"event_pic":"",
 					"price":"",
 					"brand":""
-				}
-,
+				},
 				{
 					"category": "Sasha",
 					"event":"",
@@ -867,6 +865,10 @@
 				{
 					"source_name":"Fave Rave shop",
 					"source_link":"https://www.freedomravewear.com/"
+				},
+				{
+					"source_name": "Future party inspa",
+					"source_link": "https://www.youtube.com/watch?v=SC2U2yxgP0E"
 				}
 
 			],
